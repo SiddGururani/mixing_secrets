@@ -1,0 +1,88 @@
+album: ''
+artist: KCUBaroque
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: KCUBaroque_TelemannLaLyra_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: KCUBaroque_TelemannLaLyra_RAW
+stem_dir: KCUBaroque_TelemannLaLyra_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 01_DeccaTree_Left.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_DeccaTree_Left.wav
+        instrument: Main System
+  S02:
+    component: ''
+    filename: 06_SpotMic_Violins.wav
+    instrument: violins
+    raw:
+      R01:
+        filename: 06_SpotMic_Violins.wav
+        instrument: violins
+  S03:
+    component: ''
+    filename: 04_RoomStereo.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 04_RoomStereo.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 03_DeccaTree_Right.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 03_DeccaTree_Right.wav
+        instrument: Main System
+  S05:
+    component: ''
+    filename: 07_SpotMic_Violas.wav
+    instrument: violas
+    raw:
+      R01:
+        filename: 07_SpotMic_Violas.wav
+        instrument: violas
+  S06:
+    component: ''
+    filename: 08_SpotMic_Cellos.wav
+    instrument: cellos
+    raw:
+      R01:
+        filename: 08_SpotMic_Cellos.wav
+        instrument: cellos
+  S07:
+    component: ''
+    filename: 05_RoomMono.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 05_RoomMono.wav
+        instrument: Main System
+  S08:
+    component: ''
+    filename: 09_SpotMic_Harpsichord.wav
+    instrument: harpsichord
+    raw:
+      R01:
+        filename: 09_SpotMic_Harpsichord.wav
+        instrument: harpsichord
+  S09:
+    component: ''
+    filename: 02_DeccaTree_Centre.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_DeccaTree_Centre.wav
+        instrument: Main System
+title: TelemannLaLyra
+version: '3.0'
+website: ''

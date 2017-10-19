@@ -1,0 +1,152 @@
+album: ''
+artist: Titanium
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Titanium_HauntedAge_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Titanium_HauntedAge_RAW
+stem_dir: Titanium_HauntedAge_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Titanium_HauntedAge_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R05:
+        filename: 08_Cymbals1.wav
+        instrument: Cymbals
+      R06:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 09_Cymbals2.wav
+        instrument: Cymbals
+      R09:
+        filename: 04_Ride.wav
+        instrument: Ride
+  S02:
+    component: ''
+    filename: Titanium_HauntedAge_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 22_SFX.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 17_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 16_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_ElecGtr8.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr8.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 21_LeadVoxLo.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 21_LeadVoxLo.wav
+        instrument: male screamer
+  S09:
+    component: ''
+    filename: 14_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 20_LeadVoxHi.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 20_LeadVoxHi.wav
+        instrument: male screamer
+  S11:
+    component: ''
+    filename: 19_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 19_Piano.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 15_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: distorted electric guitar
+title: HauntedAge
+version: '3.0'
+website: ''

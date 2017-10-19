@@ -1,0 +1,202 @@
+album: ''
+artist: Bruks
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Bruks_KakTvoiDelaVova_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Bruks_KakTvoiDelaVova_RAW
+stem_dir: Bruks_KakTvoiDelaVova_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Bruks_KakTvoiDelaVova_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_KickSnare.wav
+        instrument: KickSnare
+      R02:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R06:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 09_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassDI.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 18_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox01.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 14_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano1.wav
+        instrument: Piano
+  S05:
+    component: ''
+    filename: 24_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox04.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 25_BackingVox04DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox04DT.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 05_RoomMic.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 05_RoomMic.wav
+        instrument: Main System
+  S08:
+    component: ''
+    filename: 20_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox02.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 19_BackingVox01DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox01DT.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 11_BassAmpMic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassAmpMic2.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 27_BackingVox05DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox05DT.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 23_BackingVox03DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox03DT.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 17_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVoxDT.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 13_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 26_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox05.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 22_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox03.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 12_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 10_BassAmpMic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassAmpMic1.wav
+        instrument: electric bass
+  S20:
+    component: ''
+    filename: 21_BackingVox02DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox02DT.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 15_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 15_Piano2.wav
+        instrument: Piano
+title: KakTvoiDelaVova
+version: '3.0'
+website: ''

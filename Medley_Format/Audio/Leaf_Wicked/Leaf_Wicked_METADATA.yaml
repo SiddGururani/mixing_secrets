@@ -1,0 +1,174 @@
+album: ''
+artist: Leaf
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Leaf_Wicked_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Leaf_Wicked_RAW
+stem_dir: Leaf_Wicked_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Leaf_Wicked_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 05_Toms.wav
+        instrument: Toms
+      R04:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+      R06:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: Leaf_Wicked_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 19_Synth02.wav
+        instrument: Synth
+      R02:
+        filename: 22_Synth05.wav
+        instrument: Synth
+      R03:
+        filename: 18_Synth01.wav
+        instrument: Synth
+      R04:
+        filename: 21_Synth04.wav
+        instrument: Synth
+      R05:
+        filename: 20_Synth03.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 25_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox1.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 16_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 14_ElecGtr05.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr05.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 15_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 17_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 13_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 12_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 11_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 24_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_LeadVox2.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 09_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassAmp.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 23_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_LeadVox1.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 10_ElecGtr01.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr01.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 26_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox2.wav
+        instrument: female singer
+title: Wicked
+version: '3.0'
+website: ''

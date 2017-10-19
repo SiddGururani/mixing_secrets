@@ -1,0 +1,176 @@
+album: ''
+artist: DonCamilloChoir
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: DonCamilloChoir_TrudeTheBumblebee_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DonCamilloChoir_TrudeTheBumblebee_RAW
+stem_dir: DonCamilloChoir_TrudeTheBumblebee_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 05_SpotMic3_Sopranos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 05_SpotMic3_Sopranos.wav
+        instrument: vocalists
+  S02:
+    component: ''
+    filename: 01_MainPair1.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_MainPair1.wav
+        instrument: Main System
+  S03:
+    component: ''
+    filename: 02_MainPair2.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_MainPair2.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 15_PercSolo_FarMicPair2.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 15_PercSolo_FarMicPair2.wav
+        instrument: vocalists
+  S05:
+    component: ''
+    filename: 19_Whistle.wav
+    instrument: Whistle
+    raw:
+      R01:
+        filename: 19_Whistle.wav
+        instrument: Whistle
+  S06:
+    component: ''
+    filename: 14_PercSolo_FarMicPair1.wav
+    instrument: PercSolo_FarMicPair
+    raw:
+      R01:
+        filename: 14_PercSolo_FarMicPair1.wav
+        instrument: PercSolo_FarMicPair
+  S07:
+    component: ''
+    filename: 13_PercSolo_CloseMic2.wav
+    instrument: PercSolo_CloseMic
+    raw:
+      R01:
+        filename: 13_PercSolo_CloseMic2.wav
+        instrument: PercSolo_CloseMic
+  S08:
+    component: ''
+    filename: 08_BassCloseMic2.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 08_BassCloseMic2.wav
+        instrument: vocalists
+  S09:
+    component: ''
+    filename: 17_PercChoir MicPair2.wav
+    instrument: PercChoir MicPair
+    raw:
+      R01:
+        filename: 17_PercChoir MicPair2.wav
+        instrument: PercChoir MicPair
+  S10:
+    component: ''
+    filename: 16_PercChoir MicPair1.wav
+    instrument: PercChoir MicPair
+    raw:
+      R01:
+        filename: 16_PercChoir MicPair1.wav
+        instrument: PercChoir MicPair
+  S11:
+    component: ''
+    filename: 11_BassCloseMic5.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 11_BassCloseMic5.wav
+        instrument: vocalists
+  S12:
+    component: ''
+    filename: 09_BassCloseMic3.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 09_BassCloseMic3.wav
+        instrument: vocalists
+  S13:
+    component: ''
+    filename: 03_SpotMic1_Tenors.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 03_SpotMic1_Tenors.wav
+        instrument: vocalists
+  S14:
+    component: ''
+    filename: 07_BassCloseMic1.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 07_BassCloseMic1.wav
+        instrument: vocalists
+  S15:
+    component: ''
+    filename: 18_PercChoir MicPair3.wav
+    instrument: PercChoir MicPair
+    raw:
+      R01:
+        filename: 18_PercChoir MicPair3.wav
+        instrument: PercChoir MicPair
+  S16:
+    component: ''
+    filename: 10_BassCloseMic4.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 10_BassCloseMic4.wav
+        instrument: vocalists
+  S17:
+    component: ''
+    filename: 06_SpotMic4_Altos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 06_SpotMic4_Altos.wav
+        instrument: vocalists
+  S18:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_LeadVox.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 12_PercSolo_CloseMic1.wav
+    instrument: PercSolo_CloseMic
+    raw:
+      R01:
+        filename: 12_PercSolo_CloseMic1.wav
+        instrument: PercSolo_CloseMic
+  S20:
+    component: ''
+    filename: 04_SpotMic2_Basses.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 04_SpotMic2_Basses.wav
+        instrument: vocalists
+title: TrudeTheBumblebee
+version: '3.0'
+website: ''

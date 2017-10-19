@@ -1,0 +1,215 @@
+album: ''
+artist: DarkRide
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DarkRide_BurningBridges_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DarkRide_BurningBridges_RAW
+stem_dir: DarkRide_BurningBridges_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DarkRide_BurningBridges_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R010:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R04:
+        filename: 13_DrumsRoom2.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 09_Tom4.wav
+        instrument: Tom
+      R06:
+        filename: 12_DrumsRoom1.wav
+        instrument: DrumsRoom
+      R07:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R08:
+        filename: 14_DrumsRoom3.wav
+        instrument: DrumsRoom
+      R09:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R11:
+        filename: 04_SnareSFX.wav
+        instrument: SnareSFX
+      R12:
+        filename: 11_Cymbals.wav
+        instrument: Cymbals
+      R13:
+        filename: 05_Hihat.wav
+        instrument: Hihat
+      R14:
+        filename: 10_Tom5.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: DarkRide_BurningBridges_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 04_SnareSFX.wav
+        instrument: SnareSFX
+  S03:
+    component: ''
+    filename: 32_BackingVox4.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 32_BackingVox4.wav
+        instrument: vocalists
+  S04:
+    component: ''
+    filename: 26_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_LeadVox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 29_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 18_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 25_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_LeadVox1.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 23_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 30_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox2.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 21_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 17_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 22_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 31_BackingVox3.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 31_BackingVox3.wav
+        instrument: male speaker
+  S14:
+    component: ''
+    filename: 19_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 27_LeadVox3.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 27_LeadVox3.wav
+        instrument: male screamer
+  S16:
+    component: ''
+    filename: 24_ElecGtr09.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr09.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 16_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 20_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 28_LeadVox4.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 28_LeadVox4.wav
+        instrument: male screamer
+  S20:
+    component: ''
+    filename: 15_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_Bass.wav
+        instrument: electric bass
+title: BurningBridges
+version: '3.0'
+website: ''

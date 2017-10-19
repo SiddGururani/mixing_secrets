@@ -1,0 +1,128 @@
+album: ''
+artist: BoogieSnakes
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BoogieSnakes_ItsMyRight_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BoogieSnakes_ItsMyRight_RAW
+stem_dir: BoogieSnakes_ItsMyRight_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BoogieSnakes_ItsMyRight_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 05_Hihat.wav
+        instrument: Hihat
+      R03:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 09_DrumsRoom.wav
+        instrument: DrumsRoom
+      R07:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 02_KickSub.wav
+        instrument: KickSub
+      R09:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: 15_Gtr2Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 15_Gtr2Mic2.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 10_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassDI.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 13_Gtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr1Mic2.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 14_Gtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_Gtr2Mic1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 11_BassMic.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassMic.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 16_Gtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_Gtr3Mic1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 12_Gtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr1Mic1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 19_LeadVox.wav
+    instrument: LeadVox
+    raw:
+      R01:
+        filename: 19_LeadVox.wav
+        instrument: LeadVox
+  S10:
+    component: ''
+    filename: 17_Gtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_Gtr3Mic2.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 18_Gtr3DI.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_Gtr3DI.wav
+        instrument: clean electric guitar
+title: ItsMyRight
+version: '3.0'
+website: ''

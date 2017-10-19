@@ -1,0 +1,138 @@
+album: ''
+artist: SpikeMullings
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: SpikeMullings_MikesSulking_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SpikeMullings_MikesSulking_RAW
+stem_dir: SpikeMullings_MikesSulking_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SpikeMullings_MikesSulking_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        filename: 02_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 07_Toms.wav
+        instrument: Toms
+  S02:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 10_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassAmp.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 15_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 15_Hammond.wav
+        instrument: Hammond
+  S05:
+    component: ''
+    filename: 08_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 08_Tambourine.wav
+        instrument: Tambourine
+  S06:
+    component: ''
+    filename: 18_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 09_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassDI.wav
+        instrument: electric bass
+  S10:
+    component: ''
+    filename: 17_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVox.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 14_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 19_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox2.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 16_Glock.wav
+    instrument: Glockenspiel
+    raw:
+      R01:
+        filename: 16_Glock.wav
+        instrument: Glockenspiel
+title: MikesSulking
+version: '3.0'
+website: ''

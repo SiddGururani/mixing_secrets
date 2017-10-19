@@ -1,0 +1,166 @@
+album: ''
+artist: AlejoGranados
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AlejoGranados_RumbaChonta_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AlejoGranados_RumbaChonta_RAW
+stem_dir: AlejoGranados_RumbaChonta_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AlejoGranados_RumbaChonta_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R02:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: 05_Cunono1.wav
+    instrument: Cunono
+    raw:
+      R01:
+        filename: 05_Cunono1.wav
+        instrument: Cunono
+  S03:
+    component: ''
+    filename: 16_Saxophone2.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 16_Saxophone2.wav
+        instrument: saxophone
+  S04:
+    component: ''
+    filename: 15_Saxophone1.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 15_Saxophone1.wav
+        instrument: saxophone
+  S05:
+    component: ''
+    filename: 17_Saxophone3.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 17_Saxophone3.wav
+        instrument: saxophone
+  S06:
+    component: ''
+    filename: 01_Bombo.wav
+    instrument: Bombo
+    raw:
+      R01:
+        filename: 01_Bombo.wav
+        instrument: Bombo
+  S07:
+    component: ''
+    filename: 12_Marimba.wav
+    instrument: marimba
+    raw:
+      R01:
+        filename: 12_Marimba.wav
+        instrument: marimba
+  S08:
+    component: ''
+    filename: 08_Paliteo.wav
+    instrument: Paliteo
+    raw:
+      R01:
+        filename: 08_Paliteo.wav
+        instrument: Paliteo
+  S09:
+    component: ''
+    filename: 14_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr2.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 20_Saxophone6.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 20_Saxophone6.wav
+        instrument: saxophone
+  S11:
+    component: ''
+    filename: 07_Cunono3Sample.wav
+    instrument: Cunono
+    raw:
+      R01:
+        filename: 07_Cunono3Sample.wav
+        instrument: Cunono
+  S12:
+    component: ''
+    filename: 19_Saxophone5.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 19_Saxophone5.wav
+        instrument: Saxophone
+  S13:
+    component: ''
+    filename: 06_Cunono2.wav
+    instrument: Cunono
+    raw:
+      R01:
+        filename: 06_Cunono2.wav
+        instrument: Cunono
+  S14:
+    component: ''
+    filename: 13_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 10_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassDI.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 18_Saxophone4.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 18_Saxophone4.wav
+        instrument: saxophone
+  S17:
+    component: ''
+    filename: 09_Guasa.wav
+    instrument: Guasa
+    raw:
+      R01:
+        filename: 09_Guasa.wav
+        instrument: Guasa
+  S18:
+    component: ''
+    filename: 11_BassMic.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassMic.wav
+        instrument: electric bass
+title: RumbaChonta
+version: '3.0'
+website: ''

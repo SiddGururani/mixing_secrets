@@ -1,0 +1,207 @@
+album: ''
+artist: Mu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Mu_TooBright_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Mu_TooBright_RAW
+stem_dir: Mu_TooBright_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Mu_TooBright_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Drums1Overheads.wav
+        instrument: Drums
+      R010:
+        filename: 03_Drums1HiHat.wav
+        instrument: Drums
+      R02:
+        filename: 05_Drums2Kick.wav
+        instrument: Drums
+      R03:
+        filename: 07_Drums2HiHat.wav
+        instrument: Drums
+      R04:
+        filename: 01_Drums1Kick.wav
+        instrument: Drums
+      R05:
+        filename: 08_Drums2Overheads.wav
+        instrument: Drums
+      R06:
+        filename: 06_Drums2Snare.wav
+        instrument: Drums
+      R07:
+        filename: 09_Drums3Kick.wav
+        instrument: Drums
+      R08:
+        filename: 02_Drums1Snare.wav
+        instrument: Drums
+      R09:
+        filename: 11_Drums3HiHat.wav
+        instrument: Drums
+      R11:
+        filename: 10_Drums3Snare.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: Mu_TooBright_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 22_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 24_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 21_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 23_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Mu_TooBright_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 20_RhodesSFX.wav
+        instrument: RhodesSFX
+  S04:
+    component: ''
+    filename: 29_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 15_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 32_BackingVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox3DT.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 30_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox2DT.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 12_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 14_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 28_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox1DT.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 27_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox1.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 18_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 17_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 31_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox3.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 26_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_LeadVox2.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 25_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_LeadVox1.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 13_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 19_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 19_Rhodes.wav
+        instrument: Rhodes
+  S19:
+    component: ''
+    filename: 16_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr4.wav
+        instrument: distorted electric guitar
+title: TooBright
+version: '3.0'
+website: ''

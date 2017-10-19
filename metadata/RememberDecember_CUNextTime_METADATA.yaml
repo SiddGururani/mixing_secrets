@@ -1,0 +1,211 @@
+album: ''
+artist: RememberDecember
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: RememberDecember_CUNextTime_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: RememberDecember_CUNextTime_RAW
+stem_dir: RememberDecember_CUNextTime_STEMS
+stems:
+  S01:
+    component: ''
+    filename: RememberDecember_CUNextTime_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_SnareSample3.wav
+        instrument: SnareSample
+      R010:
+        filename: 09_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 04_SnareSample2.wav
+        instrument: SnareSample
+      R05:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 10_RevCymbal.wav
+        instrument: RevCymbal
+      R07:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R09:
+        filename: 03_SnareSample1.wav
+        instrument: SnareSample
+  S02:
+    component: ''
+    filename: 19_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 19_Strings.wav
+        instrument: Strings
+  S03:
+    component: ''
+    filename: 27_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox5.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 14_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 24_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox2.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 29_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox7.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 20_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_LeadVox1.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 23_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox1.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 30_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox8.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 22_LeadVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_LeadVox3.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 11_Bass_bip.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_Bass_bip.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 16_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 28_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox6.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 12_SubDrop.wav
+    instrument: SubDrop
+    raw:
+      R01:
+        filename: 12_SubDrop.wav
+        instrument: SubDrop
+  S15:
+    component: ''
+    filename: 21_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_LeadVox2.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 15_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 26_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox4.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 17_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 13_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 18_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 25_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox3.wav
+        instrument: male singer
+title: CUNextTime
+version: '3.0'
+website: ''

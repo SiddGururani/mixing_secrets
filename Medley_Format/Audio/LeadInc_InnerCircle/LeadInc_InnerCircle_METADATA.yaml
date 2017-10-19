@@ -1,0 +1,307 @@
+album: ''
+artist: LeadInc
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: LeadInc_InnerCircle_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LeadInc_InnerCircle_RAW
+stem_dir: LeadInc_InnerCircle_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LeadInc_InnerCircle_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_SnareUpMic1.wav
+        instrument: SnareUpMic
+      R010:
+        filename: 18_Tom3Trigger.wav
+        instrument: Tom
+      R02:
+        filename: 06_SnareDown.wav
+        instrument: SnareDown
+      R03:
+        filename: 14_Tom1Trigger.wav
+        instrument: Tom
+      R04:
+        filename: 10_Overheads2.wav
+        instrument: Overheads
+      R05:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        filename: 16_Tom2Trigger.wav
+        instrument: Tom
+      R07:
+        filename: 12_DrumsRoomStereo.wav
+        instrument: DrumsRoomStereo
+      R08:
+        filename: 03_KickTrigger.wav
+        instrument: KickTrigger
+      R09:
+        filename: 09_Overheads1.wav
+        instrument: Overheads
+      R11:
+        filename: 05_SnareUpMic2.wav
+        instrument: SnareUpMic
+      R12:
+        filename: 15_Tom2.wav
+        instrument: Tom
+      R13:
+        filename: 07_SnareTrigger.wav
+        instrument: SnareTrigger
+      R14:
+        filename: 11_DrumsRoomMono.wav
+        instrument: DrumsRoomMono
+      R15:
+        filename: 13_Tom1.wav
+        instrument: Tom
+      R16:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R17:
+        filename: 17_Tom3.wav
+        instrument: Tom
+      R18:
+        filename: 08_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: 43_BackingVox1Mic2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 43_BackingVox1Mic2.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 37_ElecGtr3DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr3DI.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 33_ElecGtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr3Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 47_BackingVox4.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 47_BackingVox4.wav
+        instrument: male screamer
+  S06:
+    component: ''
+    filename: 27_ElecGtr1DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr1DI.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 44_BackingVox2Mic1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 44_BackingVox2Mic1.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 21_BassAmpMic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 21_BassAmpMic1.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 25_ElecGtr1Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr1Mic3.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 45_BackingVox2Mic2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 45_BackingVox2Mic2.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 30_ElecGtr2Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr2Mic3.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 39_LeadVoxMic2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 39_LeadVoxMic2.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 19_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 19_BassDI.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 42_BackingVox1Mic1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 42_BackingVox1Mic1.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 22_BassAmpMic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 22_BassAmpMic2.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 31_ElecGtr2Mic4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr2Mic4.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 38_LeadVoxMic1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 38_LeadVoxMic1.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 36_ElecGtr3Mic4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr3Mic4.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 23_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 24_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 46_BackingVox3.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 46_BackingVox3.wav
+        instrument: male screamer
+  S22:
+    component: ''
+    filename: 20_BassDIPedals.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 20_BassDIPedals.wav
+        instrument: electric bass
+  S23:
+    component: ''
+    filename: 34_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 29_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 40_LeadVoxDTMic1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 40_LeadVoxDTMic1.wav
+        instrument: female singer
+  S26:
+    component: ''
+    filename: 41_LeadVoxDTMic2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 41_LeadVoxDTMic2.wav
+        instrument: female singer
+  S27:
+    component: ''
+    filename: 32_ElecGtr2DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr2DI.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 28_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S29:
+    component: ''
+    filename: 26_ElecGtr1Mic4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr1Mic4.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 35_ElecGtr3Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr3Mic3.wav
+        instrument: distorted electric guitar
+title: InnerCircle
+version: '3.0'
+website: ''

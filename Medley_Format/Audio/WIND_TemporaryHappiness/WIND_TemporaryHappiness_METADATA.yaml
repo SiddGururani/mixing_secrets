@@ -1,0 +1,228 @@
+album: ''
+artist: WIND
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: WIND_TemporaryHappiness_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: WIND_TemporaryHappiness_RAW
+stem_dir: WIND_TemporaryHappiness_STEMS
+stems:
+  S01:
+    component: ''
+    filename: WIND_TemporaryHappiness_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R010:
+        filename: 10_Tom3.wav
+        instrument: Tom
+      R02:
+        filename: 06_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R04:
+        filename: 03_KickSub.wav
+        instrument: KickSub
+      R05:
+        filename: 05_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        filename: 07_Cowbell.wav
+        instrument: Cowbell
+      R07:
+        filename: 13_DrumsRoom2.wav
+        instrument: DrumsRoom
+      R08:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R09:
+        filename: 11_Overheads.wav
+        instrument: Overheads
+      R11:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R12:
+        filename: 12_DrumsRoom1.wav
+        instrument: DrumsRoom
+      R13:
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: 34_Choir2.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 34_Choir2.wav
+        instrument: Choir
+  S03:
+    component: ''
+    filename: 18_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 27_Saxophone2.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 27_Saxophone2.wav
+        instrument: Saxophone
+  S05:
+    component: ''
+    filename: 19_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 24_Trumpet1.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 24_Trumpet1.wav
+        instrument: Trumpet
+  S07:
+    component: ''
+    filename: 30_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_LeadVox.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 14_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 14_Tambourine.wav
+        instrument: Tambourine
+  S09:
+    component: ''
+    filename: 32_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox2.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 15_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_BassDI.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 33_Choir1.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 33_Choir1.wav
+        instrument: Choir
+  S12:
+    component: ''
+    filename: 16_BassAmpMic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 16_BassAmpMic1.wav
+        instrument: electric bass
+  S13:
+    component: ''
+    filename: 25_Trumpet2.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 25_Trumpet2.wav
+        instrument: Trumpet
+  S14:
+    component: ''
+    filename: 22_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 23_ElecGtr1Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr1Mic3.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 31_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox1.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 28_Saxophone3.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 28_Saxophone3.wav
+        instrument: Saxophone
+  S18:
+    component: ''
+    filename: 17_BassAmpMic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_BassAmpMic2.wav
+        instrument: electric bass
+  S19:
+    component: ''
+    filename: 21_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 29_Trombone.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 29_Trombone.wav
+        instrument: Trombone
+  S21:
+    component: ''
+    filename: 20_ElecGtr1Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr1Mic3.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 26_Saxophone1.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 26_Saxophone1.wav
+        instrument: Saxophone
+title: TemporaryHappiness
+version: '3.0'
+website: ''

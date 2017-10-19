@@ -1,0 +1,351 @@
+album: ''
+artist: TheTravellingBand
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: TheTravellingBand_PassingShips_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TheTravellingBand_PassingShips_RAW
+stem_dir: TheTravellingBand_PassingShips_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TheTravellingBand_PassingShips_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_DrumsRoom.wav
+        instrument: DrumsRoom
+      R010:
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+      R02:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 02_KickMic2.wav
+        instrument: KickMic
+      R04:
+        filename: 10_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 07_Ride.wav
+        instrument: Ride
+      R06:
+        filename: 06_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 11_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 12_Tom3.wav
+        instrument: Tom
+      R09:
+        filename: 13_CymbalsOD.wav
+        instrument: CymbalsOD
+      R11:
+        filename: 03_KickSub.wav
+        instrument: KickSub
+      R12:
+        filename: 05_SnareDown.wav
+        instrument: SnareDown
+      R13:
+        filename: 01_KickMic1.wav
+        instrument: KickMic
+  S02:
+    component: ''
+    filename: TheTravellingBand_PassingShips_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 38_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 39_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 50_BackingVox9.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 50_BackingVox9.wav
+        instrument: choir
+  S04:
+    component: ''
+    filename: 31_Cello1Mic1.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 31_Cello1Mic1.wav
+        instrument: Cello
+  S05:
+    component: ''
+    filename: 44_BackingVox3.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 44_BackingVox3.wav
+        instrument: choir
+  S06:
+    component: ''
+    filename: 24_ElecGtr4Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr4Mic2.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 18_ElecGtr2Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr2Mic2.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 19_ElecGtr2DI.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr2DI.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 29_ElecGtr6DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr6DI.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 17_ElecGtr2Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2Mic1.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 25_ElecGtr4DI.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr4DI.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 27_ElecGtr6Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr6Mic1.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 43_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox2.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 33_Cello2Mic1.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 33_Cello2Mic1.wav
+        instrument: Cello
+  S15:
+    component: ''
+    filename: 22_ElecGtr3DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr3DI.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 36_PianoMic2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 36_PianoMic2.wav
+        instrument: Piano
+  S17:
+    component: ''
+    filename: 42_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox1.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 46_BackingVox5.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 46_BackingVox5.wav
+        instrument: choir
+  S19:
+    component: ''
+    filename: 14_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 14_BassDI.wav
+        instrument: electric bass
+  S20:
+    component: ''
+    filename: 49_BackingVox8.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 49_BackingVox8.wav
+        instrument: choir
+  S21:
+    component: ''
+    filename: 48_BackingVox7.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 48_BackingVox7.wav
+        instrument: choir
+  S22:
+    component: ''
+    filename: 20_ElecGtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr3Mic1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 45_BackingVox4.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 45_BackingVox4.wav
+        instrument: choir
+  S24:
+    component: ''
+    filename: 28_ElecGtr6Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr6Mic2.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 30_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 30_AcousticGtr.wav
+        instrument: acoustic guitar
+  S26:
+    component: ''
+    filename: 26_ElecGtr5.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr5.wav
+        instrument: clean electric guitar
+  S27:
+    component: ''
+    filename: 34_Cello2Mic2.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 34_Cello2Mic2.wav
+        instrument: Cello
+  S28:
+    component: ''
+    filename: 40_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_LeadVox.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 23_ElecGtr4Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr4Mic1.wav
+        instrument: clean electric guitar
+  S30:
+    component: ''
+    filename: 15_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S31:
+    component: ''
+    filename: 41_LeadVoxRoom.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_LeadVoxRoom.wav
+        instrument: male singer
+  S32:
+    component: ''
+    filename: 35_PianoMic1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 35_PianoMic1.wav
+        instrument: Piano
+  S33:
+    component: ''
+    filename: 47_BackingVox6.wav
+    instrument: choir
+    raw:
+      R01:
+        filename: 47_BackingVox6.wav
+        instrument: choir
+  S34:
+    component: ''
+    filename: 32_Cello1Mic2.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 32_Cello1Mic2.wav
+        instrument: Cello
+  S35:
+    component: ''
+    filename: 21_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S36:
+    component: ''
+    filename: 37_PianoRoom.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 37_PianoRoom.wav
+        instrument: Piano
+  S37:
+    component: ''
+    filename: 16_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+title: PassingShips
+version: '3.0'
+website: ''

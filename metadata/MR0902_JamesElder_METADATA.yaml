@@ -1,0 +1,121 @@
+album: ''
+artist: MR0902
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0902_JamesElder_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0902_JamesElder_RAW
+stem_dir: MR0902_JamesElder_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0902_JamesElder_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R06:
+        filename: 07_Toms.wav
+        instrument: Toms
+      R07:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: MR0902_JamesElder_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 09_SynthPad1.wav
+        instrument: SynthPad
+      R02:
+        filename: 14_SynthFX2.wav
+        instrument: SynthFX
+      R03:
+        filename: 11_SynthFuzz.wav
+        instrument: SynthFuzz
+      R04:
+        filename: 12_SynthLead.wav
+        instrument: SynthLead
+      R05:
+        filename: 10_SynthPad2.wav
+        instrument: SynthPad
+      R06:
+        filename: 13_SynthFX1.wav
+        instrument: SynthFX
+  S03:
+    component: ''
+    filename: 17_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr3.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 18_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox1.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 16_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 20_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_LeadVox3.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 19_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVox2.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 15_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+title: JamesElder
+version: '3.0'
+website: ''

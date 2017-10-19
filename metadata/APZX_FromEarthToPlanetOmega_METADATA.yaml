@@ -1,0 +1,241 @@
+album: ''
+artist: APZX
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: APZX_FromEarthToPlanetOmega_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: APZX_FromEarthToPlanetOmega_RAW
+stem_dir: APZX_FromEarthToPlanetOmega_STEMS
+stems:
+  S01:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Ride.wav
+        instrument: Ride
+      R02:
+        filename: 04_Snare2.wav
+        instrument: Snare
+      R03:
+        filename: 03_Snare1.wav
+        instrument: Snare
+      R04:
+        filename: 07_Crash.wav
+        instrument: Crash
+      R05:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R06:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R07:
+        filename: 05_Hat.wav
+        instrument: Hat
+  S02:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 13_SynthBass2.wav
+        instrument: SynthBass
+      R010:
+        filename: 34_SynthMel9.wav
+        instrument: SynthMel
+      R02:
+        filename: 26_SynthMel1.wav
+        instrument: SynthMel
+      R03:
+        filename: 23_SynthPad2.wav
+        instrument: SynthPad
+      R04:
+        filename: 32_SynthMel7.wav
+        instrument: SynthMel
+      R05:
+        filename: 30_SynthMel5.wav
+        instrument: SynthMel
+      R06:
+        filename: 33_SynthMel8.wav
+        instrument: SynthMel
+      R07:
+        filename: 19_SynthArp4.wav
+        instrument: SynthArp
+      R08:
+        filename: 22_SynthPad1.wav
+        instrument: SynthPad
+      R09:
+        filename: 18_SynthArp3.wav
+        instrument: SynthArp
+      R11:
+        filename: 14_SynthBass3.wav
+        instrument: SynthBass
+      R12:
+        filename: 20_SynthStabs1.wav
+        instrument: SynthStabs
+      R13:
+        filename: 12_SynthBass1.wav
+        instrument: SynthBass
+      R14:
+        filename: 21_SynthStabs2.wav
+        instrument: SynthStabs
+      R15:
+        filename: 25_SynthPad4.wav
+        instrument: SynthPad
+      R16:
+        filename: 29_SynthMel4.wav
+        instrument: SynthMel
+      R17:
+        filename: 15_SynthBass4.wav
+        instrument: SynthBass
+      R18:
+        filename: 24_SynthPad3.wav
+        instrument: SynthPad
+      R19:
+        filename: 31_SynthMel6.wav
+        instrument: SynthMel
+      R20:
+        filename: 17_SynthArp2.wav
+        instrument: SynthArp
+      R21:
+        filename: 28_SynthMel3.wav
+        instrument: SynthMel
+      R22:
+        filename: 16_SynthArp1.wav
+        instrument: SynthArp
+      R23:
+        filename: 27_SynthMel2.wav
+        instrument: SynthMel
+  S03:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 47_SFX11.wav
+        instrument: SFX
+      R010:
+        filename: 48_SFX12.wav
+        instrument: SFX
+      R02:
+        filename: 55_SFX19.wav
+        instrument: SFX
+      R03:
+        filename: 46_SFX10.wav
+        instrument: SFX
+      R04:
+        filename: 43_SFX07.wav
+        instrument: SFX
+      R05:
+        filename: 37_SFX01.wav
+        instrument: SFX
+      R06:
+        filename: 52_SFX16.wav
+        instrument: SFX
+      R07:
+        filename: 41_SFX05.wav
+        instrument: SFX
+      R08:
+        filename: 50_SFX14.wav
+        instrument: SFX
+      R09:
+        filename: 53_SFX17.wav
+        instrument: SFX
+      R11:
+        filename: 57_SFX21.wav
+        instrument: SFX
+      R12:
+        filename: 58_SFX22.wav
+        instrument: SFX
+      R13:
+        filename: 54_SFX18.wav
+        instrument: SFX
+      R14:
+        filename: 38_SFX02.wav
+        instrument: SFX
+      R15:
+        filename: 59_SFX23.wav
+        instrument: SFX
+      R16:
+        filename: 44_SFX08.wav
+        instrument: SFX
+      R17:
+        filename: 60_SFX24.wav
+        instrument: SFX
+      R18:
+        filename: 51_SFX15.wav
+        instrument: SFX
+      R19:
+        filename: 42_SFX06.wav
+        instrument: SFX
+      R20:
+        filename: 39_SFX03.wav
+        instrument: SFX
+      R21:
+        filename: 40_SFX04.wav
+        instrument: SFX
+      R22:
+        filename: 56_SFX20.wav
+        instrument: SFX
+      R23:
+        filename: 49_SFX13.wav
+        instrument: SFX
+      R24:
+        filename: 45_SFX09.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 09_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 09_Percussion2.wav
+        instrument: Percussion
+  S05:
+    component: ''
+    filename: 11_Percussion4.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 11_Percussion4.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 35_Organ1.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 35_Organ1.wav
+        instrument: Organ
+  S07:
+    component: ''
+    filename: 36_Organ2.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 36_Organ2.wav
+        instrument: Organ
+  S08:
+    component: ''
+    filename: 08_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 08_Percussion1.wav
+        instrument: Percussion
+  S09:
+    component: ''
+    filename: 10_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 10_Percussion3.wav
+        instrument: Percussion
+title: FromEarthToPlanetOmega
+version: '3.0'
+website: ''

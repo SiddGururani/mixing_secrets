@@ -1,0 +1,179 @@
+album: ''
+artist: ButterflyEffect
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: ButterflyEffect_PreachRightHere_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ButterflyEffect_PreachRightHere_RAW
+stem_dir: ButterflyEffect_PreachRightHere_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ButterflyEffect_PreachRightHere_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 02_KickSample.wav
+        instrument: KickSample
+      R06:
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R07:
+        filename: 04_SnareSample.wav
+        instrument: SnareSample
+  S02:
+    component: ''
+    filename: ButterflyEffect_PreachRightHere_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 19_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 22_SFX4.wav
+        instrument: SFX
+      R03:
+        filename: 20_SFX2.wav
+        instrument: SFX
+      R04:
+        filename: 21_SFX3.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 09_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 09_Tambourine.wav
+        instrument: Tambourine
+  S04:
+    component: ''
+    filename: 10_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 10_Shaker.wav
+        instrument: Shaker
+  S05:
+    component: ''
+    filename: 08_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 08_Room.wav
+        instrument: Main System
+  S06:
+    component: ''
+    filename: 23_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_LeadVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 11_Bass1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_Bass1.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 15_Dulcimer1.wav
+    instrument: Dulcimer
+    raw:
+      R01:
+        filename: 15_Dulcimer1.wav
+        instrument: Dulcimer
+  S09:
+    component: ''
+    filename: 24_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox1.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 14_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S11:
+    component: ''
+    filename: 16_Dulcimer2.wav
+    instrument: Dulcimer
+    raw:
+      R01:
+        filename: 16_Dulcimer2.wav
+        instrument: Dulcimer
+  S12:
+    component: ''
+    filename: 18_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 13_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S14:
+    component: ''
+    filename: 12_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_Bass2.wav
+        instrument: electric bass
+  S15:
+    component: ''
+    filename: 26_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox3.wav
+        instrument: male singers
+  S16:
+    component: ''
+    filename: 17_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr1.wav
+        instrument: clean electric guitar
+  S17:
+    component: ''
+    filename: 25_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox2.wav
+        instrument: male singer
+title: PreachRightHere
+version: '3.0'
+website: ''

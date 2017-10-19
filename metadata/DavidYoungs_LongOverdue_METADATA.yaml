@@ -1,0 +1,43 @@
+album: ''
+artist: DavidYoungs
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DavidYoungs_LongOverdue_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DavidYoungs_LongOverdue_RAW
+stem_dir: DavidYoungs_LongOverdue_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DavidYoungs_LongOverdue_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 04_GtrRevSFXMic2.wav
+        instrument: GtrRevSFXMic
+      R02:
+        filename: 03_GtrRevSFXMic1.wav
+        instrument: GtrRevSFXMic
+  S02:
+    component: ''
+    filename: 02_GtrMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 02_GtrMic2.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 01_GtrMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 01_GtrMic1.wav
+        instrument: acoustic guitar
+title: LongOverdue
+version: '3.0'
+website: ''

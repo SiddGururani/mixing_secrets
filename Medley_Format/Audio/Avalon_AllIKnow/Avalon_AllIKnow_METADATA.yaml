@@ -1,0 +1,153 @@
+album: ''
+artist: Avalon
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Avalon_AllIKnow_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Avalon_AllIKnow_RAW
+stem_dir: Avalon_AllIKnow_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Avalon_AllIKnow_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 04_Drums.wav
+        instrument: Drums
+      R04:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: Avalon_AllIKnow_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 12_PianoSynth.wav
+        instrument: PianoSynth
+  S03:
+    component: ''
+    filename: 15_Vox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_Vox1.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 16_Vox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_Vox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 18_Vox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_Vox4.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 14_Speech.wav
+    instrument: Speech
+    raw:
+      R01:
+        filename: 14_Speech.wav
+        instrument: Speech
+  S07:
+    component: ''
+    filename: 13_Radio.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 13_Radio.wav
+        instrument: male speaker
+  S08:
+    component: ''
+    filename: 07_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 11_BellPiano.wav
+    instrument: BellPiano
+    raw:
+      R01:
+        filename: 11_BellPiano.wav
+        instrument: BellPiano
+  S10:
+    component: ''
+    filename: 19_Vox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_Vox5.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 10_ElecGtr3DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3DT.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 05_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 05_Percussion.wav
+        instrument: Percussion
+  S13:
+    component: ''
+    filename: 08_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 09_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 17_Vox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_Vox3.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: electric bass
+title: AllIKnow
+version: '3.0'
+website: ''

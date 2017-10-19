@@ -1,0 +1,304 @@
+album: ''
+artist: TimTaler
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TimTaler_Stalker_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TimTaler_Stalker_RAW
+stem_dir: TimTaler_Stalker_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TimTaler_Stalker_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Kick02.wav
+        instrument: Kick
+      R02:
+        filename: 03_Kick03.wav
+        instrument: Kick
+      R03:
+        filename: 05_Kick05.wav
+        instrument: Kick
+      R04:
+        filename: 04_Kick04.wav
+        instrument: Kick
+      R05:
+        filename: 06_Snare.wav
+        instrument: Snare
+      R06:
+        filename: 01_Kick01.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: TimTaler_Stalker_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 14_Loop08.wav
+        instrument: Loop
+      R02:
+        filename: 10_Loop04.wav
+        instrument: Loop
+      R03:
+        filename: 13_Loop07.wav
+        instrument: Loop
+      R04:
+        filename: 07_Loop01.wav
+        instrument: Loop
+      R05:
+        filename: 08_Loop02.wav
+        instrument: Loop
+      R06:
+        filename: 12_Loop06.wav
+        instrument: Loop
+      R07:
+        filename: 09_Loop03.wav
+        instrument: Loop
+      R08:
+        filename: 11_Loop05.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: TimTaler_Stalker_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 20_SampleSFX04.wav
+        instrument: SampleSFX
+      R02:
+        filename: 21_SampleSFX05.wav
+        instrument: SampleSFX
+      R03:
+        filename: 19_SampleSFX03.wav
+        instrument: SampleSFX
+      R04:
+        filename: 17_SampleSFX01.wav
+        instrument: SampleSFX
+      R05:
+        filename: 18_SampleSFX02.wav
+        instrument: SampleSFX
+  S04:
+    component: ''
+    filename: 33_Keys01.wav
+    instrument: Keys
+    raw:
+      R01:
+        filename: 33_Keys01.wav
+        instrument: Keys
+  S05:
+    component: ''
+    filename: 35_Keys03.wav
+    instrument: Keys
+    raw:
+      R01:
+        filename: 35_Keys03.wav
+        instrument: Keys
+  S06:
+    component: ''
+    filename: 24_ElecGtr01b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr01b_Mic2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 44_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox03.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 34_Keys02.wav
+    instrument: Keys
+    raw:
+      R01:
+        filename: 34_Keys02.wav
+        instrument: Keys
+  S09:
+    component: ''
+    filename: 45_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox04.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 32_ElecGtr04b_Fuzz.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr04b_Fuzz.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 28_ElecGtr02b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr02b_Mic2.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 26_ElecGtr01d_DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr01d_DI.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 27_ElecGtr02a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr02a_Mic1.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 40_SampleChoir.wav
+    instrument: SampleChoir
+    raw:
+      R01:
+        filename: 40_SampleChoir.wav
+        instrument: SampleChoir
+  S15:
+    component: ''
+    filename: 37_SampleBrass01.wav
+    instrument: SampleBrass
+    raw:
+      R01:
+        filename: 37_SampleBrass01.wav
+        instrument: SampleBrass
+  S16:
+    component: ''
+    filename: 42_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox01.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 31_ElecGtr04a_DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr04a_DI.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 30_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 16_Break02.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 16_Break02.wav
+        instrument: Break
+  S20:
+    component: ''
+    filename: 38_SampleBrass02.wav
+    instrument: SampleBrass
+    raw:
+      R01:
+        filename: 38_SampleBrass02.wav
+        instrument: SampleBrass
+  S21:
+    component: ''
+    filename: 36_Keys04.wav
+    instrument: Keys
+    raw:
+      R01:
+        filename: 36_Keys04.wav
+        instrument: Keys
+  S22:
+    component: ''
+    filename: 22_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 22_Bass.wav
+        instrument: electric bass
+  S23:
+    component: ''
+    filename: 43_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox02.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 46_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox05.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 39_SampleBrass03.wav
+    instrument: SampleBrass
+    raw:
+      R01:
+        filename: 39_SampleBrass03.wav
+        instrument: SampleBrass
+  S26:
+    component: ''
+    filename: 41_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_LeadVox.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 15_Break01.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 15_Break01.wav
+        instrument: Break
+  S28:
+    component: ''
+    filename: 29_ElecGtr02c_DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr02c_DI.wav
+        instrument: distorted electric guitar
+  S29:
+    component: ''
+    filename: 23_ElecGtr01a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr01a_Mic1.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 25_ElecGtr01c_Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr01c_Mic3.wav
+        instrument: distorted electric guitar
+title: Stalker
+version: '3.0'
+website: ''

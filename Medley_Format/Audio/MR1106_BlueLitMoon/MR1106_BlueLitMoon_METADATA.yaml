@@ -1,0 +1,90 @@
+album: ''
+artist: MR1106
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: MR1106_BlueLitMoon_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1106_BlueLitMoon_RAW
+stem_dir: MR1106_BlueLitMoon_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1106_BlueLitMoon_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom3.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R07:
+        filename: 07_Tom4.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 09_AcGtr1Reverse.wav
+    instrument: acoustic guitar reverse
+    raw:
+      R01:
+        filename: 09_AcGtr1Reverse.wav
+        instrument: acoustic guitar reverse
+  S03:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 11_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_LeadVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 12_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 10_AcGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcGtr2.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 13_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_BackingVox2.wav
+        instrument: male singer
+title: BlueLitMoon
+version: '3.0'
+website: ''

@@ -1,0 +1,146 @@
+album: ''
+artist: NahumStrickland
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: NahumStrickland_SteampunkSiege_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: NahumStrickland_SteampunkSiege_RAW
+stem_dir: NahumStrickland_SteampunkSiege_STEMS
+stems:
+  S01:
+    component: ''
+    filename: NahumStrickland_SteampunkSiege_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_Drums3.wav
+        instrument: Drums
+      R02:
+        filename: 06_Drums2.wav
+        instrument: Drums
+      R03:
+        filename: 09_Cymbal.wav
+        instrument: Cymbal
+      R04:
+        filename: 05_Drums1.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: NahumStrickland_SteampunkSiege_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_SFXLoop1.wav
+        instrument: SFXLoop
+      R02:
+        filename: 04_SFXLoop4.wav
+        instrument: SFXLoop
+      R03:
+        filename: 03_SFXLoop3.wav
+        instrument: SFXLoop
+      R04:
+        filename: 02_SFXLoop2.wav
+        instrument: SFXLoop
+  S03:
+    component: ''
+    filename: NahumStrickland_SteampunkSiege_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 18_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 20_Synth3.wav
+        instrument: Synth
+      R03:
+        filename: 21_Synth4.wav
+        instrument: Synth
+      R04:
+        filename: 19_Synth2.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: NahumStrickland_SteampunkSiege_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 10_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 11_SFX2.wav
+        instrument: SFX
+      R03:
+        filename: 01_SFXLoop1.wav
+        instrument: SFXLoop
+      R04:
+        filename: 03_SFXLoop3.wav
+        instrument: SFXLoop
+      R05:
+        filename: 04_SFXLoop4.wav
+        instrument: SFXLoop
+      R06:
+        filename: 02_SFXLoop2.wav
+        instrument: SFXLoop
+  S05:
+    component: ''
+    filename: 16_Choir.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 16_Choir.wav
+        instrument: Choir
+  S06:
+    component: ''
+    filename: 12_BassLo.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_BassLo.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 14_Recordier.wav
+    instrument: Recorder
+    raw:
+      R01:
+        filename: 14_Recordier.wav
+        instrument: Recorder
+  S08:
+    component: ''
+    filename: 17_Cellos.wav
+    instrument: Cellos
+    raw:
+      R01:
+        filename: 17_Cellos.wav
+        instrument: Cellos
+  S09:
+    component: ''
+    filename: 08_Taiko.wav
+    instrument: Taiko
+    raw:
+      R01:
+        filename: 08_Taiko.wav
+        instrument: Taiko
+  S10:
+    component: ''
+    filename: 15_EthnoFlute.wav
+    instrument: EthnoFlute
+    raw:
+      R01:
+        filename: 15_EthnoFlute.wav
+        instrument: EthnoFlute
+  S11:
+    component: ''
+    filename: 13_BassHi.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_BassHi.wav
+        instrument: electric bass
+title: SteampunkSiege
+version: '3.0'
+website: ''

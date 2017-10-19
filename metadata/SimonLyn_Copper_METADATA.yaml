@@ -1,0 +1,219 @@
+album: ''
+artist: SimonLyn
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: SimonLyn_Copper_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SimonLyn_Copper_RAW
+stem_dir: SimonLyn_Copper_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SimonLyn_Copper_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 12_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 13_SFX2.wav
+        instrument: SFX
+  S02:
+    component: ''
+    filename: 08_ArcoRhythm3.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 08_ArcoRhythm3.wav
+        instrument: viola
+  S03:
+    component: ''
+    filename: 19_Lyrical3.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 19_Lyrical3.wav
+        instrument: viola
+  S04:
+    component: ''
+    filename: 23_Lyrical5.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 23_Lyrical5.wav
+        instrument: viola
+  S05:
+    component: ''
+    filename: 07_ArcoRhythm2.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 07_ArcoRhythm2.wav
+        instrument: viola
+  S06:
+    component: ''
+    filename: 18_Lyrical2.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 18_Lyrical2.wav
+        instrument: viola
+  S07:
+    component: ''
+    filename: 09_ArcoRhythm4.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 09_ArcoRhythm4.wav
+        instrument: viola
+  S08:
+    component: ''
+    filename: 03_Pizz3.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 03_Pizz3.wav
+        instrument: viola
+  S09:
+    component: ''
+    filename: 05_Pizz5.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 05_Pizz5.wav
+        instrument: viola
+  S10:
+    component: ''
+    filename: 10_ArcoRhythm5.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 10_ArcoRhythm5.wav
+        instrument: viola
+  S11:
+    component: ''
+    filename: 15_ThemeDT.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 15_ThemeDT.wav
+        instrument: viola
+  S12:
+    component: ''
+    filename: 21_Lyrical4.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 21_Lyrical4.wav
+        instrument: viola
+  S13:
+    component: ''
+    filename: 24_Lyrical5Octave.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 24_Lyrical5Octave.wav
+        instrument: viola
+  S14:
+    component: ''
+    filename: 22_Lyrical4Octave.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 22_Lyrical4Octave.wav
+        instrument: viola
+  S15:
+    component: ''
+    filename: 11_ArcoRhythm6.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 11_ArcoRhythm6.wav
+        instrument: viola
+  S16:
+    component: ''
+    filename: 16_ThemeCounter.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 16_ThemeCounter.wav
+        instrument: viola
+  S17:
+    component: ''
+    filename: 25_Lyrical6.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 25_Lyrical6.wav
+        instrument: viola
+  S18:
+    component: ''
+    filename: 02_Pizz2.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 02_Pizz2.wav
+        instrument: viola
+  S19:
+    component: ''
+    filename: 14_Theme.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 14_Theme.wav
+        instrument: viola
+  S20:
+    component: ''
+    filename: 01_Pizz1.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 01_Pizz1.wav
+        instrument: viola
+  S21:
+    component: ''
+    filename: 20_Lyrical3DT.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 20_Lyrical3DT.wav
+        instrument: viola
+  S22:
+    component: ''
+    filename: 26_Lyrical6Octave.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 26_Lyrical6Octave.wav
+        instrument: viola
+  S23:
+    component: ''
+    filename: 17_Lyrical1.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 17_Lyrical1.wav
+        instrument: viola
+  S24:
+    component: ''
+    filename: 04_Pizz4.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 04_Pizz4.wav
+        instrument: viola
+  S25:
+    component: ''
+    filename: 06_ArcoRhythm1.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 06_ArcoRhythm1.wav
+        instrument: viola
+title: Copper
+version: '3.0'
+website: ''

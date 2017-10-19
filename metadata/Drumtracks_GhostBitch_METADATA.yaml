@@ -1,0 +1,166 @@
+album: ''
+artist: Drumtracks
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Drumtracks_GhostBitch_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Drumtracks_GhostBitch_RAW
+stem_dir: Drumtracks_GhostBitch_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Drumtracks_GhostBitch_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_Overheads.wav
+        instrument: Overheads
+      R010:
+        filename: 10_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 08_Tom4.wav
+        instrument: Tom
+      R04:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R07:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R08:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R09:
+        filename: 06_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: Drumtracks_GhostBitch_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 13_SFX2.wav
+        instrument: SFX
+      R02:
+        filename: 12_SFX1.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 20_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox2.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 19_BackingVox1.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 19_BackingVox1.wav
+        instrument: male speaker
+  S05:
+    component: ''
+    filename: 18_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 16_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 16_Strings.wav
+        instrument: Strings
+  S07:
+    component: ''
+    filename: 23_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox5.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 14_Piano1.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 14_Piano1.wav
+        instrument: piano
+  S09:
+    component: ''
+    filename: 11_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_Bass.wav
+        instrument: electric bass
+  S10:
+    component: ''
+    filename: 22_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox4.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 25_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox7.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 17_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVox1.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 21_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox3.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 24_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox6.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 15_Piano2.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 15_Piano2.wav
+        instrument: piano
+title: GhostBitch
+version: '3.0'
+website: ''

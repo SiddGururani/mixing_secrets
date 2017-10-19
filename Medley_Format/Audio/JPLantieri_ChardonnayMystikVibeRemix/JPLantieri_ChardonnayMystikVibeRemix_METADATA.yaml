@@ -1,0 +1,98 @@
+album: ''
+artist: JPLantieri
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JPLantieri_ChardonnayMystikVibeRemix_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JPLantieri_ChardonnayMystikVibeRemix_RAW
+stem_dir: JPLantieri_ChardonnayMystikVibeRemix_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JPLantieri_ChardonnayMystikVibeRemix_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 06_SnareRolls.wav
+        instrument: SnareRolls
+  S02:
+    component: ''
+    filename: JPLantieri_ChardonnayMystikVibeRemix_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 08_Synth01.wav
+        instrument: Synth
+      R02:
+        filename: 12_Synth05.wav
+        instrument: Synth
+      R03:
+        filename: 09_Synth02.wav
+        instrument: Synth
+      R04:
+        filename: 13_Synth06.wav
+        instrument: Synth
+      R05:
+        filename: 10_Synth03.wav
+        instrument: Synth
+      R06:
+        filename: 11_Synth04.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: JPLantieri_ChardonnayMystikVibeRemix_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 07_SFX.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 14_Vox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_Vox.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 03_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 03_Percussion1.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 04_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 04_Percussion2.wav
+        instrument: Percussion
+  S07:
+    component: ''
+    filename: 05_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 05_Percussion3.wav
+        instrument: Percussion
+  S08:
+    component: ''
+    filename: 02_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 02_Bass.wav
+        instrument: bass synth
+title: ChardonnayMystikVibeRemix
+version: '3.0'
+website: ''

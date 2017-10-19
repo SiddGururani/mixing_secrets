@@ -1,0 +1,189 @@
+album: ''
+artist: Buitraker
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Buitraker_RevoX_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Buitraker_RevoX_RAW
+stem_dir: Buitraker_RevoX_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Buitraker_RevoX_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_TomSample1.wav
+        instrument: TomSample
+      R010:
+        filename: 06_Cymbal1.wav
+        instrument: Cymbal
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 08_DrumsRoom.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 03_SnareMic2.wav
+        instrument: SnareMic
+      R05:
+        filename: 07_Cymbal2.wav
+        instrument: Cymbal
+      R06:
+        filename: 11_TomSample3.wav
+        instrument: TomSample
+      R07:
+        filename: 02_SnareMic1.wav
+        instrument: SnareMic
+      R08:
+        filename: 10_TomSample2.wav
+        instrument: TomSample
+      R09:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R11:
+        filename: 05_Ride.wav
+        instrument: Ride
+  S02:
+    component: ''
+    filename: Buitraker_RevoX_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 12_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Buitraker_RevoX_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 26_Synth5.wav
+        instrument: Synth
+      R02:
+        filename: 25_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 22_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 27_Synth6.wav
+        instrument: Synth
+      R05:
+        filename: 24_Synth3.wav
+        instrument: Synth
+      R06:
+        filename: 23_Synth2.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 21_ElecPiano.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 21_ElecPiano.wav
+        instrument: electric piano
+  S05:
+    component: ''
+    filename: 14_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 14_Bass.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 20_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 28_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_LeadVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 31_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox3.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 13_Click.wav
+    instrument: Click
+    raw:
+      R01:
+        filename: 13_Click.wav
+        instrument: Click
+  S11:
+    component: ''
+    filename: 19_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 15_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 30_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox2.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 17_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 16_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 29_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox1.wav
+        instrument: male singer
+title: RevoX
+version: '3.0'
+website: ''

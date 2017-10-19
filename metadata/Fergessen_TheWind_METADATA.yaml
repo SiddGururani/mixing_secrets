@@ -1,0 +1,214 @@
+album: ''
+artist: Fergessen
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Fergessen_TheWind_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Fergessen_TheWind_RAW
+stem_dir: Fergessen_TheWind_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Fergessen_TheWind_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R010:
+        filename: 08_DrumsSideR.wav
+        instrument: DrumsSideR
+      R02:
+        filename: 07_DrumsSideL.wav
+        instrument: DrumsSideL
+      R03:
+        filename: 10_DrumsOverhead2.wav
+        instrument: DrumsOverhead
+      R04:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 11_DrumsRoom.wav
+        instrument: DrumsRoom
+      R06:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R07:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R08:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R09:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R11:
+        filename: 09_DrumsOverhead1.wav
+        instrument: DrumsOverhead
+  S02:
+    component: ''
+    filename: 23_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 23_Rhodes.wav
+        instrument: Rhodes
+  S03:
+    component: ''
+    filename: 20_AcGtr_Mic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 20_AcGtr_Mic2.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 14_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 17_SlecGtr3a_Close.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_SlecGtr3a_Close.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 13_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_Bass.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 30_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox06.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 19_AcGtr_Mic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 19_AcGtr_Mic1.wav
+        instrument: acoustic guitar
+  S09:
+    component: ''
+    filename: 18_ElecGtr3b_Amb.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr3b_Amb.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 25_BackingVox01Submix.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox01Submix.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 27_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox03.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 22_AcGtr_Mic4.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 22_AcGtr_Mic4.wav
+        instrument: acoustic guitar
+  S13:
+    component: ''
+    filename: 16_ElecGtr2b_Amb.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2b_Amb.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 24_LeadVoxDuet.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_LeadVoxDuet.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 31_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox07.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 21_AcGtr_Mic3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 21_AcGtr_Mic3.wav
+        instrument: acoustic guitar
+  S17:
+    component: ''
+    filename: 26_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox02.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 28_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox04.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 12_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 12_Tambourine.wav
+        instrument: Tambourine
+  S20:
+    component: ''
+    filename: 29_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox05.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 15_ElecGtr2a_Close.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr2a_Close.wav
+        instrument: distorted electric guitar
+title: TheWind
+version: '3.0'
+website: ''

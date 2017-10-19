@@ -1,0 +1,144 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_Gimme_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_Gimme_RAW
+stem_dir: Triviul_Gimme_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_Gimme_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Drums.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: 12_BackingVoxFemale2DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 12_BackingVoxFemale2DT2.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 02_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 02_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 13_BackingVoxFemale3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 13_BackingVoxFemale3.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 04_AcGuitar.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 04_AcGuitar.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 08_BackingVoxFemale1DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 08_BackingVoxFemale1DT1.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 03_ElecPiano.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 03_ElecPiano.wav
+        instrument: electric piano
+  S08:
+    component: ''
+    filename: 16_BackingVoxMaleSubmix.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVoxMaleSubmix.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 06_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 06_LeadVox2.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 10_BackingVoxFemale2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 10_BackingVoxFemale2.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 15_BackingVoxFemale3DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_BackingVoxFemale3DT2.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 09_BackingVoxFemale1DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 09_BackingVoxFemale1DT2.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 07_BackingVoxFemale1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 07_BackingVoxFemale1.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 05_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 05_LeadVox1.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 11_BackingVoxFemale2DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 11_BackingVoxFemale2DT.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 14_BackingVoxFemale3DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_BackingVoxFemale3DT1.wav
+        instrument: female singer
+title: Gimme
+version: '3.0'
+website: ''

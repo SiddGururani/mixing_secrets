@@ -1,0 +1,81 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Spektakulatius_OurLoveIsHereToStay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_OurLoveIsHereToStay_RAW
+stem_dir: Spektakulatius_OurLoveIsHereToStay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_OurLoveIsHereToStay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 04_Toms.wav
+        instrument: Toms
+  S02:
+    component: ''
+    filename: 08_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 06_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_BassDI.wav
+        instrument: double bass
+  S04:
+    component: ''
+    filename: 09_Sax.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 09_Sax.wav
+        instrument: saxophone
+  S05:
+    component: ''
+    filename: 05_BassMic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 10_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 10_LeadVox.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 07_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano.wav
+        instrument: Piano
+title: OurLoveIsHereToStay
+version: '3.0'
+website: ''

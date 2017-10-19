@@ -1,0 +1,111 @@
+album: ''
+artist: NeonHornet
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: NeonHornet_TakeItOff_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: NeonHornet_TakeItOff_RAW
+stem_dir: NeonHornet_TakeItOff_STEMS
+stems:
+  S01:
+    component: ''
+    filename: NeonHornet_TakeItOff_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R04:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R06:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 15_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 14_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 12_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 11_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4.wav
+        instrument: distorted electric guitar
+title: TakeItOff
+version: '3.0'
+website: ''

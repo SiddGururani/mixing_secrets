@@ -1,0 +1,148 @@
+album: ''
+artist: JohnnyLokke
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JohnnyLokke_WhisperToAScream_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JohnnyLokke_WhisperToAScream_RAW
+stem_dir: JohnnyLokke_WhisperToAScream_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JohnnyLokke_WhisperToAScream_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 13_DrumsRoom2Stereo.wav
+        instrument: DrumsRoom
+      R010:
+        filename: 06_Ride.wav
+        instrument: Ride
+      R02:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R03:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R04:
+        filename: 11_Tom4.wav
+        instrument: Tom
+      R05:
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R09:
+        filename: 10_Tom3.wav
+        instrument: Tom
+      R11:
+        filename: 12_DrumsRoom1Mono.wav
+        instrument: DrumsRoom
+      R12:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R13:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: 16_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 19_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVox.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 20_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_LeadVoxDT.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 23_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox3.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 15_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_BassAmp.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 21_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox1.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 24_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox4.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 18_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 22_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox2.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 17_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 14_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 14_BassDI.wav
+        instrument: electric bass
+title: WhisperToAScream
+version: '3.0'
+website: ''

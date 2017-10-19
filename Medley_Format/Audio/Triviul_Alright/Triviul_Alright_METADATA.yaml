@@ -1,0 +1,147 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_Alright_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_Alright_RAW
+stem_dir: Triviul_Alright_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_Alright_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Drums.wav
+        instrument: Drums
+      R02:
+        filename: 02_Cymbals.wav
+        instrument: Cymbals
+  S02:
+    component: ''
+    filename: Triviul_Alright_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 07_SynthsAndSFX.wav
+        instrument: SynthsAndSFX
+  S03:
+    component: ''
+    filename: Triviul_Alright_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 07_SynthsAndSFX.wav
+        instrument: SynthsAndSFX
+  S04:
+    component: ''
+    filename: 03_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 03_Percussion.wav
+        instrument: Percussion
+  S05:
+    component: ''
+    filename: 04_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 04_Bass1.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 14_VerseVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_VerseVox6.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 09_VerseVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_VerseVox1.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 13_VerseVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_VerseVox5.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 12_VerseVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_VerseVox4.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 06_Guitar.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 06_Guitar.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 16_ChorusVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_ChorusVox2.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 11_VerseVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_VerseVox3.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 05_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 05_Bass2.wav
+        instrument: bass synth
+  S14:
+    component: ''
+    filename: 15_ChorusVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_ChorusVox1.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 10_VerseVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_VerseVox2.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 08_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 08_Strings.wav
+        instrument: Strings
+title: Alright
+version: '3.0'
+website: ''

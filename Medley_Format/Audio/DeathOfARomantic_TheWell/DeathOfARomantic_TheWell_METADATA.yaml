@@ -1,0 +1,181 @@
+album: ''
+artist: DeathOfARomantic
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DeathOfARomantic_TheWell_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DeathOfARomantic_TheWell_RAW
+stem_dir: DeathOfARomantic_TheWell_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DeathOfARomantic_TheWell_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 08_Tom2Sample.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 02_KickSample.wav
+        instrument: KickSample
+      R04:
+        filename: 05_SnareSample.wav
+        instrument: SnareSample
+      R05:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 07_Tom1Sample.wav
+        instrument: Tom
+      R08:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: DeathOfARomantic_TheWell_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 19_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: DeathOfARomantic_TheWell_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 10_BassFX.wav
+        instrument: BassFX
+  S04:
+    component: ''
+    filename: 16_ElecGtr03DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr03DI.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 17_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 22_Vox3.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 22_Vox3.wav
+        instrument: male screamer
+  S07:
+    component: ''
+    filename: 24_Vox5.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 24_Vox5.wav
+        instrument: male screamer
+  S08:
+    component: ''
+    filename: 15_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 12_ElecGtr01DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr01DI.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 21_Vox2.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 21_Vox2.wav
+        instrument: male screamer
+  S11:
+    component: ''
+    filename: 20_Vox1.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 20_Vox1.wav
+        instrument: male screamer
+  S12:
+    component: ''
+    filename: 25_Vox6.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 25_Vox6.wav
+        instrument: male screamer
+  S13:
+    component: ''
+    filename: 18_ElecGtr04DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr04DI.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 09_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassDI.wav
+        instrument: electric bass
+  S15:
+    component: ''
+    filename: 14_ElecGtr02DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr02DI.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 13_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 23_Vox4.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 23_Vox4.wav
+        instrument: male screamer
+  S18:
+    component: ''
+    filename: 11_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr01.wav
+        instrument: distorted electric guitar
+title: TheWell
+version: '3.0'
+website: ''

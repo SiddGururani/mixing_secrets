@@ -1,0 +1,171 @@
+album: ''
+artist: LeadInc
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: LeadInc_WayOfLife_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LeadInc_WayOfLife_RAW
+stem_dir: LeadInc_WayOfLife_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LeadInc_WayOfLife_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R010:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R02:
+        filename: 09_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R04:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R08:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R09:
+        filename: 10_DrumsRoom.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: 17_ElecGtr2Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2Mic2.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 14_ElecGtr1Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr1Mic1.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 20_ElecGtr4Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr4Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 16_ElecGtr2Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2Mic1.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 18_ElecGtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr3Mic1.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 24_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_LeadVox.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 22_ElecGtr5Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr5Mic1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 12_BassPedals.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_BassPedals.wav
+        instrument: electric bass
+  S10:
+    component: ''
+    filename: 23_ElecGtr5Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr5Mic2.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 25_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_LeadVoxDT.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 13_BassAmpMic.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_BassAmpMic.wav
+        instrument: electric bass
+  S13:
+    component: ''
+    filename: 15_ElecGtr1Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr1Mic2.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 19_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 21_ElecGtr4Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr4Mic2.wav
+        instrument: distorted electric guitar
+title: WayOfLife
+version: '3.0'
+website: ''

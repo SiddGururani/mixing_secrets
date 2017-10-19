@@ -1,0 +1,72 @@
+album: ''
+artist: Ojebokoren
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Ojebokoren_ThatsEntertainment_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Ojebokoren_ThatsEntertainment_RAW
+stem_dir: Ojebokoren_ThatsEntertainment_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 01_PianoDI.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 01_PianoDI.wav
+        instrument: Piano
+  S02:
+    component: ''
+    filename: 04_SopranoOD.wav
+    instrument: female singers
+    raw:
+      R01:
+        filename: 04_SopranoOD.wav
+        instrument: female singers
+  S03:
+    component: ''
+    filename: 06_TenorOD.wav
+    instrument: male singers
+    raw:
+      R01:
+        filename: 06_TenorOD.wav
+        instrument: male singers
+  S04:
+    component: ''
+    filename: 02_MainPair1_MSDecoded.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_MainPair1_MSDecoded.wav
+        instrument: Main System
+  S05:
+    component: ''
+    filename: 07_BassOD.wav
+    instrument: male singers
+    raw:
+      R01:
+        filename: 07_BassOD.wav
+        instrument: male singers
+  S06:
+    component: ''
+    filename: 03_MainPair_AB.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 03_MainPair_AB.wav
+        instrument: Main System
+  S07:
+    component: ''
+    filename: 05_AltoOD.wav
+    instrument: female singers
+    raw:
+      R01:
+        filename: 05_AltoOD.wav
+        instrument: female singers
+title: ThatsEntertainment
+version: '3.0'
+website: ''

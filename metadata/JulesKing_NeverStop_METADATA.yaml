@@ -1,0 +1,249 @@
+album: ''
+artist: JulesKing
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JulesKing_NeverStop_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JulesKing_NeverStop_RAW
+stem_dir: JulesKing_NeverStop_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JulesKing_NeverStop_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 13_CymbalRoll1.wav
+        instrument: CymbalRoll
+      R010:
+        filename: 07_HiHat2.wav
+        instrument: HiHat
+      R02:
+        filename: 05_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 14_CymbalRoll2.wav
+        instrument: CymbalRoll
+      R04:
+        filename: 10_Ride.wav
+        instrument: Ride
+      R05:
+        filename: 09_HiHat4.wav
+        instrument: HiHat
+      R06:
+        filename: 15_Cymbal1.wav
+        instrument: Cymbal
+      R07:
+        filename: 16_Cymbal2.wav
+        instrument: Cymbal
+      R08:
+        filename: 04_Kick.wav
+        instrument: Kick
+      R09:
+        filename: 11_CymbalWash1.wav
+        instrument: CymbalWash
+      R11:
+        filename: 06_HiHat1.wav
+        instrument: HiHat
+      R12:
+        filename: 12_CymbalWash2.wav
+        instrument: CymbalWash
+      R13:
+        filename: 18_Cymbal4.wav
+        instrument: Cymbal
+      R14:
+        filename: 08_HiHat3.wav
+        instrument: HiHat
+      R15:
+        filename: 17_Cymbal3.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: JulesKing_NeverStop_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R02:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R03:
+        filename: 01_Loop1.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: JulesKing_NeverStop_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 37_Synth3.wav
+        instrument: Synth
+      R02:
+        filename: 35_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 36_Synth2.wav
+        instrument: Synth
+      R04:
+        filename: 38_Synth4.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 20_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 26_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 23_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 28_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 34_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 34_Rhodes.wav
+        instrument: Rhodes
+  S09:
+    component: ''
+    filename: 22_ElecGtr03.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr03.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 21_ElecGtr02.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr02.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 27_ElecGtr07.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr07.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 33_ElecGtr13.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr13.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 32_ElecGtr12.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr12.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 30_ElecGtr10.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr10.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 24_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 25_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 40_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_BackingVox1.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 19_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 19_Bass.wav
+        instrument: electric bass
+  S19:
+    component: ''
+    filename: 41_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVox2.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 39_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_LeadVox.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 31_ElecGtr11.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr11.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 29_ElecGtr09.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr09.wav
+        instrument: distorted electric guitar
+title: NeverStop
+version: '3.0'
+website: ''

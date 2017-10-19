@@ -1,0 +1,157 @@
+album: ''
+artist: BalazsDanielBoogieWoogieTrio
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BalazsDanielBoogieWoogieTrio_OwnWayToBoogie_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BalazsDanielBoogieWoogieTrio_OwnWayToBoogie_RAW
+stem_dir: BalazsDanielBoogieWoogieTrio_OwnWayToBoogie_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BalazsDanielBoogieWoogieTrio_OwnWayToBoogie_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 08_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: 10_BassMic2.wav
+    instrument: BassMic
+    raw:
+      R01:
+        filename: 10_BassMic2.wav
+        instrument: BassMic
+  S03:
+    component: ''
+    filename: 22_BackingVox06.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 22_BackingVox06.wav
+        instrument: BackingVox
+  S04:
+    component: ''
+    filename: 12_PianoMicPair1.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 12_PianoMicPair1.wav
+        instrument: PianoMicPair
+  S05:
+    component: ''
+    filename: 21_BackingVox05.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 21_BackingVox05.wav
+        instrument: BackingVox
+  S06:
+    component: ''
+    filename: 09_BassMic1.wav
+    instrument: BassMic
+    raw:
+      R01:
+        filename: 09_BassMic1.wav
+        instrument: BassMic
+  S07:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 13_PianoMicPair2.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 13_PianoMicPair2.wav
+        instrument: PianoMicPair
+  S09:
+    component: ''
+    filename: 19_BackingVox03.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 19_BackingVox03.wav
+        instrument: BackingVox
+  S10:
+    component: ''
+    filename: 20_BackingVox04.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 20_BackingVox04.wav
+        instrument: BackingVox
+  S11:
+    component: ''
+    filename: 17_BackingVox01.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 17_BackingVox01.wav
+        instrument: BackingVox
+  S12:
+    component: ''
+    filename: 18_BackingVox02.wav
+    instrument: male vocalists
+    raw:
+      R01:
+        filename: 18_BackingVox02.wav
+        instrument: BackingVox
+  S13:
+    component: ''
+    filename: 16_LeadVoxHarm.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVoxHarm.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: BassDI
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: BassDI
+  S15:
+    component: ''
+    filename: 14_PianoMicPair3.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 14_PianoMicPair3.wav
+        instrument: PianoMicPair
+title: OwnWayToBoogie
+version: '3.0'
+website: ''

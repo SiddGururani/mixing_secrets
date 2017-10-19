@@ -1,0 +1,166 @@
+album: ''
+artist: LindyHipBigBand
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: LindyHipBigBand_MakinWhoopee_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LindyHipBigBand_MakinWhoopee_RAW
+stem_dir: LindyHipBigBand_MakinWhoopee_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LindyHipBigBand_MakinWhoopee_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_Overhead.wav
+        instrument: Overhead
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 11_SaxAlto1.wav
+    instrument: alto saxophone
+    raw:
+      R01:
+        filename: 11_SaxAlto1.wav
+        instrument: alto saxophone
+  S03:
+    component: ''
+    filename: 05_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 05_ElecGtr.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 16_Trombone1.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 16_Trombone1.wav
+        instrument: Trombone
+  S05:
+    component: ''
+    filename: 13_SaxTenor1.wav
+    instrument: tenor saxophone
+    raw:
+      R01:
+        filename: 13_SaxTenor1.wav
+        instrument: tenor saxophone
+  S06:
+    component: ''
+    filename: 10_Trumpet4.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 10_Trumpet4.wav
+        instrument: Trumpet
+  S07:
+    component: ''
+    filename: 18_Trombone3.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 18_Trombone3.wav
+        instrument: Trombone
+  S08:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano.wav
+        instrument: Piano
+  S09:
+    component: ''
+    filename: 19_Trombone4.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 19_Trombone4.wav
+        instrument: Trombone
+  S10:
+    component: ''
+    filename: 15_SaxBaritone.wav
+    instrument: baritone saxophone
+    raw:
+      R01:
+        filename: 15_SaxBaritone.wav
+        instrument: baritone saxophone
+  S11:
+    component: ''
+    filename: 12_SaxAlto2.wav
+    instrument: alto saxophone
+    raw:
+      R01:
+        filename: 12_SaxAlto2.wav
+        instrument: alto saxophone
+  S12:
+    component: ''
+    filename: 09_Trumpet3.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 09_Trumpet3.wav
+        instrument: Trumpet
+  S13:
+    component: ''
+    filename: 14_SaxTenor2.wav
+    instrument: SaxTenor
+    raw:
+      R01:
+        filename: 14_SaxTenor2.wav
+        instrument: SaxTenor
+  S14:
+    component: ''
+    filename: 17_Trombone2.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 17_Trombone2.wav
+        instrument: Trombone
+  S15:
+    component: ''
+    filename: 04_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 04_BassDI.wav
+        instrument: double bass
+  S16:
+    component: ''
+    filename: 08_Trumpet2.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 08_Trumpet2.wav
+        instrument: Trumpet
+  S17:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: LeadVox
+    raw:
+      R01:
+        filename: 20_LeadVox.wav
+        instrument: LeadVox
+  S18:
+    component: ''
+    filename: 07_Trumpet1.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 07_Trumpet1.wav
+        instrument: Trumpet
+title: MakinWhoopee
+version: '3.0'
+website: ''

@@ -1,0 +1,126 @@
+album: ''
+artist: SelwynJazz
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: SelwynJazz_MuchTooMuch_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SelwynJazz_MuchTooMuch_RAW
+stem_dir: SelwynJazz_MuchTooMuch_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SelwynJazz_MuchTooMuch_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 04_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 04_Bass.wav
+        instrument: double bass
+  S03:
+    component: ''
+    filename: 07_Saxophone1.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 07_Saxophone1.wav
+        instrument: Saxophone
+  S04:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano.wav
+        instrument: Piano
+  S05:
+    component: ''
+    filename: 09_Saxophone3.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 09_Saxophone3.wav
+        instrument: Saxophone
+  S06:
+    component: ''
+    filename: 15_LeadVoxOverdub.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVoxOverdub.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 13_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 13_Room.wav
+        instrument: Main System
+  S08:
+    component: ''
+    filename: 12_Trombone.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 12_Trombone.wav
+        instrument: Trombone
+  S09:
+    component: ''
+    filename: 11_Trumpet2.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 11_Trumpet2.wav
+        instrument: Trumpet
+  S10:
+    component: ''
+    filename: 08_Saxophone2.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 08_Saxophone2.wav
+        instrument: Saxophone
+  S11:
+    component: ''
+    filename: 05_Guitar.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 05_Guitar.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 10_Trumpet1.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 10_Trumpet1.wav
+        instrument: Trumpet
+  S13:
+    component: ''
+    filename: 14_LeadVoxScratch.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_LeadVoxScratch.wav
+        instrument: female singer
+title: MuchTooMuch
+version: '3.0'
+website: ''

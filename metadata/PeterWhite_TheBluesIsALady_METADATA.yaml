@@ -1,0 +1,183 @@
+album: ''
+artist: PeterWhite
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: PeterWhite_TheBluesIsALady_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: PeterWhite_TheBluesIsALady_RAW
+stem_dir: PeterWhite_TheBluesIsALady_STEMS
+stems:
+  S01:
+    component: ''
+    filename: PeterWhite_TheBluesIsALady_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_HiHat1.wav
+        instrument: HiHat
+      R03:
+        filename: 05_Ride.wav
+        instrument: Ride
+      R04:
+        filename: 06_Cymbal.wav
+        instrument: Cymbal
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 04_HiHat2.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: 19_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVoxDT.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 21_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 18_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 07_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 07_Tambourine.wav
+        instrument: Tambourine
+  S07:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 09_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 15_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 20_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox1.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 17_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 17_Hammond.wav
+        instrument: Hammond
+  S14:
+    component: ''
+    filename: 23_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox3.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 24_BackingVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox3DT.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 16_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 14_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 10_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S19:
+    component: ''
+    filename: 22_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox2DT.wav
+        instrument: male singer
+title: TheBluesIsALady
+version: '3.0'
+website: ''

@@ -1,0 +1,82 @@
+album: ''
+artist: SzymonSkiba
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: SzymonSkiba_SomeTrashyThrashIGuess_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SzymonSkiba_SomeTrashyThrashIGuess_RAW
+stem_dir: SzymonSkiba_SomeTrashyThrashIGuess_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SzymonSkiba_SomeTrashyThrashIGuess_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 07_Reversed Cymbal.wav
+        instrument: Reversed Cymbal
+      R05:
+        filename: 04_Toms.wav
+        instrument: Toms
+      R06:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R07:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: 11_ElecGtrDI3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtrDI3.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 12_ElecGtrDI4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtrDI4.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 10_ElecGtrDI2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtrDI2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 09_ElecGtrDI1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtrDI1.wav
+        instrument: distorted electric guitar
+title: SomeTrashyThrashIGuess
+version: '3.0'
+website: ''

@@ -1,0 +1,167 @@
+album: ''
+artist: MR1111
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: MR1111_Arise_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1111_Arise_RAW
+stem_dir: MR1111_Arise_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1111_Arise_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 07_Cymbal.wav
+        instrument: Cymbal
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 05_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 06_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: 13_OrganHigh.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 13_OrganHigh.wav
+        instrument: Organ
+  S03:
+    component: ''
+    filename: 14_OrganLow.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 14_OrganLow.wav
+        instrument: Organ
+  S04:
+    component: ''
+    filename: 18_LeadVoxRawTake2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVoxRawTake2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 17_LeadVoxRawTake1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVoxRawTake1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 11_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr3.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 12_ElecGtr4.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr4.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 19_LeadVoxRawTake3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVoxRawTake3.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 20_LeadVoxRawTake4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_LeadVoxRawTake4.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 09_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr1.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 21_LeadVoxComped.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVoxComped.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 02_Rim.wav
+    instrument: Rim
+    raw:
+      R01:
+        filename: 02_Rim.wav
+        instrument: Rim
+  S13:
+    component: ''
+    filename: 10_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr2.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 15_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 15_Piano1.wav
+        instrument: Piano
+  S15:
+    component: ''
+    filename: 22_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 16_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 16_Piano2.wav
+        instrument: Piano
+  S17:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+title: Arise
+version: '3.0'
+website: ''

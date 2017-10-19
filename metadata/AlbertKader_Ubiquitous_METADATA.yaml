@@ -1,0 +1,79 @@
+album: ''
+artist: AlbertKader
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AlbertKader_Ubiquitous_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AlbertKader_Ubiquitous_RAW
+stem_dir: AlbertKader_Ubiquitous_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AlbertKader_Ubiquitous_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 02_HiHat1.wav
+        instrument: HiHat
+      R03:
+        filename: 03_HiHat2.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: AlbertKader_Ubiquitous_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 10_Synth2_PitchModulated.wav
+        instrument: Synth_PitchModulated
+      R02:
+        filename: 11_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 09_Synth1_Unmodulated.wav
+        instrument: Synth_Unmodulated
+  S03:
+    component: ''
+    filename: AlbertKader_Ubiquitous_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 05_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 06_SFX2.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 04_Claps.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 04_Claps.wav
+        instrument: Claps
+  S06:
+    component: ''
+    filename: 07_Shakers.wav
+    instrument: Shakers
+    raw:
+      R01:
+        filename: 07_Shakers.wav
+        instrument: Shakers
+title: Ubiquitous
+version: '3.0'
+website: ''

@@ -1,0 +1,323 @@
+album: ''
+artist: MR1003
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1003_Zeno_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1003_Zeno_RAW
+stem_dir: MR1003_Zeno_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1003_Zeno_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_OverheadsOH Stereo MK.wav
+        instrument: OverheadsOH Stereo MK
+      R02:
+        filename: 08_FloorTom.wav
+        instrument: FloorTom
+      R03:
+        filename: 05_SnareUp2.wav
+        instrument: SnareUp
+      R04:
+        filename: 02_KickSub.wav
+        instrument: KickSub
+      R05:
+        filename: 09_HatSample.wav
+        instrument: HatSample
+      R06:
+        filename: 04_SnareUp1.wav
+        instrument: SnareUp
+      R07:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R08:
+        filename: 06_SnareSample.wav
+        instrument: SnareSample
+      R09:
+        filename: 03_KickSample.wav
+        instrument: KickSample
+  S02:
+    component: ''
+    filename: MR1003_Zeno_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 40_SynthPad.wav
+        instrument: SynthPad
+      R02:
+        filename: 21_BassSynth.wav
+        instrument: BassSynth
+  S03:
+    component: ''
+    filename: 44_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 25_ElecGtr2DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr2DI.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 14_Clap5.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 14_Clap5.wav
+        instrument: Clap
+  S06:
+    component: ''
+    filename: 34_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 22_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 28_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 33_ElecGtr6DI.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr6DI.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 27_ElecGtr3DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr3DI.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 39_ElecGtr9DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr9DI.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 12_Clap3.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 12_Clap3.wav
+        instrument: Clap
+  S13:
+    component: ''
+    filename: 36_ElecGtr8.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr8.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 41_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 41_Piano.wav
+        instrument: Piano
+  S15:
+    component: ''
+    filename: 24_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 29_ElecGtr4DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr4DI.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 15_Clap6.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 15_Clap6.wav
+        instrument: Clap
+  S18:
+    component: ''
+    filename: 35_ElecGtr7DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr7DI.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 10_Clap1.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 10_Clap1.wav
+        instrument: Clap
+  S20:
+    component: ''
+    filename: 23_ElecGtr1DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr1DI.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 17_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 17_Shaker.wav
+        instrument: Shaker
+  S22:
+    component: ''
+    filename: 37_ElecGtr8DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr8DI.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 43_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_LeadVox2.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 18_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 18_BassDI.wav
+        instrument: electric bass
+  S25:
+    component: ''
+    filename: 31_ElecGtr5DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr5DI.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 42_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_LeadVox1.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 30_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 19_BassAmp1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 19_BassAmp1.wav
+        instrument: electric bass
+  S29:
+    component: ''
+    filename: 26_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 11_Clap2.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 11_Clap2.wav
+        instrument: Clap
+  S31:
+    component: ''
+    filename: 20_BassAmp2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 20_BassAmp2.wav
+        instrument: electric bass
+  S32:
+    component: ''
+    filename: 32_ElecGtr6.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr6.wav
+        instrument: clean electric guitar
+  S33:
+    component: ''
+    filename: 13_Clap4.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 13_Clap4.wav
+        instrument: Clap
+  S34:
+    component: ''
+    filename: 16_Clap7.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 16_Clap7.wav
+        instrument: Clap
+  S35:
+    component: ''
+    filename: 38_ElecGtr9.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr9.wav
+        instrument: distorted electric guitar
+title: Zeno
+version: '3.0'
+website: ''

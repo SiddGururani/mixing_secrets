@@ -1,0 +1,106 @@
+album: ''
+artist: AlbertKader
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AlbertKader_Whiptails_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AlbertKader_Whiptails_RAW
+stem_dir: AlbertKader_Whiptails_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AlbertKader_Whiptails_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_HiHat1.wav
+        instrument: HiHat
+      R02:
+        filename: 04_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 03_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 07_HiHat2.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: AlbertKader_Whiptails_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R02:
+        filename: 01_Loop1.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: AlbertKader_Whiptails_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 12_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 11_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 13_Synth3.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: AlbertKader_Whiptails_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 08_SFX.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 15_Vox_Wet.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_Vox_Wet.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 09_Bass1.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 09_Bass1.wav
+        instrument: Bass
+  S07:
+    component: ''
+    filename: 10_Bass2.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 10_Bass2.wav
+        instrument: synthesizer
+  S08:
+    component: ''
+    filename: 14_Vox_Dry.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_Vox_Dry.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 05_Claps.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 05_Claps.wav
+        instrument: Claps
+title: Whiptails
+version: '3.0'
+website: ''

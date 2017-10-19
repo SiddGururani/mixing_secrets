@@ -1,0 +1,24 @@
+album: ''
+artist: DavidYoungs
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DavidYoungs_DustYouAndMe_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DavidYoungs_DustYouAndMe_RAW
+stem_dir: DavidYoungs_DustYouAndMe_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 01_Gtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 01_Gtr.wav
+        instrument: acoustic guitar
+title: DustYouAndMe
+version: '3.0'
+website: ''

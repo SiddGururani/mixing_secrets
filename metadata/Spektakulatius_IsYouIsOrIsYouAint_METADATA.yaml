@@ -1,0 +1,81 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Spektakulatius_IsYouIsOrIsYouAint_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_IsYouIsOrIsYouAint_RAW
+stem_dir: Spektakulatius_IsYouIsOrIsYouAint_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_IsYouIsOrIsYouAint_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 04_Toms.wav
+        instrument: Toms
+      R03:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 10_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 08_Sax1.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 08_Sax1.wav
+        instrument: saxophone
+  S04:
+    component: ''
+    filename: 07_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano.wav
+        instrument: Piano
+  S05:
+    component: ''
+    filename: 06_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_BassDI.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 05_BassMic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic.wav
+        instrument: double bass
+  S07:
+    component: ''
+    filename: 09_Sax2_OD.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 09_Sax2_OD.wav
+        instrument: saxophone
+title: IsYouIsOrIsYouAint
+version: '3.0'
+website: ''

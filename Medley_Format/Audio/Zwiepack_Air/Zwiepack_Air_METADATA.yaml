@@ -1,0 +1,80 @@
+album: ''
+artist: Zwiepack
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Zwiepack_Air_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Zwiepack_Air_RAW
+stem_dir: Zwiepack_Air_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 02_BassMic1_SpotMic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 02_BassMic1_SpotMic.wav
+        instrument: double bass
+  S02:
+    component: ''
+    filename: 04_SaxMic1_SpotMic.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 04_SaxMic1_SpotMic.wav
+        instrument: Saxophone
+  S03:
+    component: ''
+    filename: 07_Room_Mono1.wav
+    instrument: Room_Mono
+    raw:
+      R01:
+        filename: 07_Room_Mono1.wav
+        instrument: Room_Mono
+  S04:
+    component: ''
+    filename: 03_BassMic2_PeerArray.wav
+    instrument: BassMic_PeerArray
+    raw:
+      R01:
+        filename: 03_BassMic2_PeerArray.wav
+        instrument: BassMic_PeerArray
+  S05:
+    component: ''
+    filename: 01_MainPair_DominantArray.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_MainPair_DominantArray.wav
+        instrument: Main System
+  S06:
+    component: ''
+    filename: 06_Room_Stereo.wav
+    instrument: Room_Stereo
+    raw:
+      R01:
+        filename: 06_Room_Stereo.wav
+        instrument: Room_Stereo
+  S07:
+    component: ''
+    filename: 05_SaxMic2_PeerArray.wav
+    instrument: SaxMic_PeerArray
+    raw:
+      R01:
+        filename: 05_SaxMic2_PeerArray.wav
+        instrument: SaxMic_PeerArray
+  S08:
+    component: ''
+    filename: 08_Room_Mono2.wav
+    instrument: Room_Mono
+    raw:
+      R01:
+        filename: 08_Room_Mono2.wav
+        instrument: Room_Mono
+title: Air
+version: '3.0'
+website: ''

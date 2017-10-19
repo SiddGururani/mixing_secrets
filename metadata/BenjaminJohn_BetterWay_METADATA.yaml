@@ -1,0 +1,374 @@
+album: ''
+artist: BenjaminJohn
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BenjaminJohn_BetterWay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BenjaminJohn_BetterWay_RAW
+stem_dir: BenjaminJohn_BetterWay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BenjaminJohn_BetterWay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 03_SnareCymbals.wav
+        instrument: SnareCymbals
+      R03:
+        filename: 02_KickAmb.wav
+        instrument: KickAmb
+  S02:
+    component: ''
+    filename: 36_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_BackingVox06.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 06_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 06_Shaker.wav
+        instrument: Shaker
+  S04:
+    component: ''
+    filename: 13_Claps3.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 13_Claps3.wav
+        instrument: Claps
+  S05:
+    component: ''
+    filename: 14_Claps4.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 14_Claps4.wav
+        instrument: Claps
+  S06:
+    component: ''
+    filename: 20_Guitalele.wav
+    instrument: Guitalele
+    raw:
+      R01:
+        filename: 20_Guitalele.wav
+        instrument: Guitalele
+  S07:
+    component: ''
+    filename: 12_Claps2.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 12_Claps2.wav
+        instrument: Claps
+  S08:
+    component: ''
+    filename: 10_FingerClicks4.wav
+    instrument: FingerClicks
+    raw:
+      R01:
+        filename: 10_FingerClicks4.wav
+        instrument: FingerClicks
+  S09:
+    component: ''
+    filename: 29_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 43_BackingVox13.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox13.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 28_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 28_Piano.wav
+        instrument: piano
+  S12:
+    component: ''
+    filename: 42_BackingVox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox12.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 08_FingerClicks2.wav
+    instrument: FingerClicks
+    raw:
+      R01:
+        filename: 08_FingerClicks2.wav
+        instrument: FingerClicks
+  S14:
+    component: ''
+    filename: 38_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 38_BackingVox08.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 22_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 22_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S16:
+    component: ''
+    filename: 35_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_BackingVox05.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 27_ElecGtr4.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr4.wav
+        instrument: clean electric guitar
+  S18:
+    component: ''
+    filename: 30_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_LeadVoxDT.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 15_Claps5.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 15_Claps5.wav
+        instrument: Claps
+  S20:
+    component: ''
+    filename: 09_FingerClicks3.wav
+    instrument: FingerClicks
+    raw:
+      R01:
+        filename: 09_FingerClicks3.wav
+        instrument: FingerClicks
+  S21:
+    component: ''
+    filename: 07_FingerClicks1.wav
+    instrument: FingerClicks
+    raw:
+      R01:
+        filename: 07_FingerClicks1.wav
+        instrument: FingerClicks
+  S22:
+    component: ''
+    filename: 26_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr3.wav
+        instrument: clean electric guitar
+  S23:
+    component: ''
+    filename: 25_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr2.wav
+        instrument: clean electric guitar
+  S24:
+    component: ''
+    filename: 39_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVox09.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 21_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 21_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S26:
+    component: ''
+    filename: 32_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox02.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 17_Claps7.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 17_Claps7.wav
+        instrument: Claps
+  S28:
+    component: ''
+    filename: 11_Claps1.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 11_Claps1.wav
+        instrument: Claps
+  S29:
+    component: ''
+    filename: 45_BackingVox15.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox15.wav
+        instrument: male singer
+  S30:
+    component: ''
+    filename: 23_AcousticGtr3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 23_AcousticGtr3.wav
+        instrument: acoustic guitar
+  S31:
+    component: ''
+    filename: 04_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 04_Tambourine.wav
+        instrument: Tambourine
+  S32:
+    component: ''
+    filename: 31_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox01.wav
+        instrument: male singer
+  S33:
+    component: ''
+    filename: 19_Bass.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 19_Bass.wav
+        instrument: Bass
+  S34:
+    component: ''
+    filename: 05_TambourineAmb.wav
+    instrument: TambourineAmb
+    raw:
+      R01:
+        filename: 05_TambourineAmb.wav
+        instrument: TambourineAmb
+  S35:
+    component: ''
+    filename: 37_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 37_BackingVox07.wav
+        instrument: male singer
+  S36:
+    component: ''
+    filename: 44_BackingVox14.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox14.wav
+        instrument: male singer
+  S37:
+    component: ''
+    filename: 41_BackingVox11.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVox11.wav
+        instrument: male singer
+  S38:
+    component: ''
+    filename: 33_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox03.wav
+        instrument: male singer
+  S39:
+    component: ''
+    filename: 46_BackingVox16.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox16.wav
+        instrument: male singer
+  S40:
+    component: ''
+    filename: 16_Claps6.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 16_Claps6.wav
+        instrument: Claps
+  S41:
+    component: ''
+    filename: 40_BackingVox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_BackingVox10.wav
+        instrument: male singer
+  S42:
+    component: ''
+    filename: 34_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox04.wav
+        instrument: male singer
+  S43:
+    component: ''
+    filename: 18_Claps8.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 18_Claps8.wav
+        instrument: Claps
+  S44:
+    component: ''
+    filename: 24_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr1.wav
+        instrument: distorted electric guitar
+title: BetterWay
+version: '3.0'
+website: ''

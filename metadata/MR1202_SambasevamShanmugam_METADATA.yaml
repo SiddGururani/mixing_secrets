@@ -1,0 +1,288 @@
+album: ''
+artist: MR1202
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1202_SambasevamShanmugam_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1202_SambasevamShanmugam_RAW
+stem_dir: MR1202_SambasevamShanmugam_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1202_SambasevamShanmugam_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_Ride.wav
+        instrument: Ride
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: MR1202_SambasevamShanmugam_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 02_Loop1.wav
+        instrument: Loop
+      R02:
+        filename: 05_Loop4.wav
+        instrument: Loop
+      R03:
+        filename: 04_Loop3.wav
+        instrument: Loop
+      R04:
+        filename: 03_Loop2.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MR1202_SambasevamShanmugam_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 19_Synth5.wav
+        instrument: Synth
+      R02:
+        filename: 18_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 16_Synth2.wav
+        instrument: Synth
+      R04:
+        filename: 15_Synth1.wav
+        instrument: Synth
+      R05:
+        filename: 17_Synth3.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: MR1202_SambasevamShanmugam_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 11_BassSFX.wav
+        instrument: BassSFX
+  S05:
+    component: ''
+    filename: 33_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox03.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 12_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 12_Piano.wav
+        instrument: Piano
+  S07:
+    component: ''
+    filename: 26_Violin03.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 26_Violin03.wav
+        instrument: Violin
+  S08:
+    component: ''
+    filename: 24_Violin01.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 24_Violin01.wav
+        instrument: Violin
+  S09:
+    component: ''
+    filename: 13_Bells.wav
+    instrument: Bells
+    raw:
+      R01:
+        filename: 13_Bells.wav
+        instrument: Bells
+  S10:
+    component: ''
+    filename: 29_LeadVoxMale.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_LeadVoxMale.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 36_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 36_BackingVox06.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 31_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox01.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 28_Viola02.wav
+    instrument: Viola
+    raw:
+      R01:
+        filename: 28_Viola02.wav
+        instrument: Viola
+  S14:
+    component: ''
+    filename: 38_BackingVox08.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 38_BackingVox08.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 34_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox04.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 37_BackingVox07.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 37_BackingVox07.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 22_AcGtrUneditedTake02.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 22_AcGtrUneditedTake02.wav
+        instrument: acoustic guitar
+  S18:
+    component: ''
+    filename: 20_AcGtrEdited.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 20_AcGtrEdited.wav
+        instrument: acoustic guitar
+  S19:
+    component: ''
+    filename: 14_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 14_Strings.wav
+        instrument: Strings
+  S20:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: double bass
+  S21:
+    component: ''
+    filename: 32_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox02.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 39_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVox09.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 30_LeadVoxFemale.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_LeadVoxFemale.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 08_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker.wav
+        instrument: Shaker
+  S25:
+    component: ''
+    filename: 06_BrushKit.wav
+    instrument: BrushKit
+    raw:
+      R01:
+        filename: 06_BrushKit.wav
+        instrument: BrushKit
+  S26:
+    component: ''
+    filename: 27_Viola01.wav
+    instrument: Viola
+    raw:
+      R01:
+        filename: 27_Viola01.wav
+        instrument: Viola
+  S27:
+    component: ''
+    filename: 09_MiscPercussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 09_MiscPercussion.wav
+        instrument: Percussion
+  S28:
+    component: ''
+    filename: 21_AcGtrUneditedTake01.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 21_AcGtrUneditedTake01.wav
+        instrument: acoustic guitar
+  S29:
+    component: ''
+    filename: 25_Violin02.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 25_Violin02.wav
+        instrument: Violin
+  S30:
+    component: ''
+    filename: 23_AcGtrUneditedTake03.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 23_AcGtrUneditedTake03.wav
+        instrument: acoustic guitar
+  S31:
+    component: ''
+    filename: 35_BackingVox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 35_BackingVox05.wav
+        instrument: female singer
+title: SambasevamShanmugam
+version: '3.0'
+website: ''

@@ -1,0 +1,388 @@
+album: ''
+artist: GeorgiaWonder
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: GeorgiaWonder_Siren_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: GeorgiaWonder_Siren_RAW
+stem_dir: GeorgiaWonder_Siren_STEMS
+stems:
+  S01:
+    component: ''
+    filename: GeorgiaWonder_Siren_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 08_CymbalRolls.wav
+        instrument: CymbalRolls
+      R03:
+        filename: 05_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 06_Snare.wav
+        instrument: Snare
+      R05:
+        filename: 09_Cymbals.wav
+        instrument: Cymbals
+  S02:
+    component: ''
+    filename: GeorgiaWonder_Siren_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop1.wav
+        instrument: Loop
+      R02:
+        filename: 04_Loop4.wav
+        instrument: Loop
+      R03:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R04:
+        filename: 02_Loop2.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: GeorgiaWonder_Siren_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 14_Synth4.wav
+        instrument: Synth
+      R02:
+        filename: 12_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 13_Synth3.wav
+        instrument: Synth
+      R04:
+        filename: 15_Synth5.wav
+        instrument: Synth
+      R05:
+        filename: 11_Synth1.wav
+        instrument: Synth
+      R06:
+        filename: 17_SynthPad1.wav
+        instrument: SynthPad
+      R07:
+        filename: 18_SynthPad2.wav
+        instrument: SynthPad
+      R08:
+        filename: 16_Synth6.wav
+        instrument: Synth
+      R09:
+        filename: 19_SynthPad3.wav
+        instrument: SynthPad
+  S04:
+    component: ''
+    filename: GeorgiaWonder_Siren_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 26_SFX6.wav
+        instrument: SFX
+      R02:
+        filename: 22_SFX2.wav
+        instrument: SFX
+      R03:
+        filename: 25_SFX5.wav
+        instrument: SFX
+      R04:
+        filename: 21_SFX1.wav
+        instrument: SFX
+      R05:
+        filename: 23_SFX3.wav
+        instrument: SFX
+      R06:
+        filename: 24_SFX4.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 43_ElecGtr12.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 43_ElecGtr12.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 44_ElecGtr13.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 44_ElecGtr13.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 54_BackingVox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 54_BackingVox05.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 28_AcGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 28_AcGtr2.wav
+        instrument: acoustic guitar
+  S09:
+    component: ''
+    filename: 59_BackingVox10.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 59_BackingVox10.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 27_AcGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 27_AcGtr1.wav
+        instrument: acoustic guitar
+  S11:
+    component: ''
+    filename: 41_ElecGtr10.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 41_ElecGtr10.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 39_ElecGtr08.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr08.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 36_ElecGtr05.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr05.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 35_ElecGtr04.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr04.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 30_AcGtr4.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 30_AcGtr4.wav
+        instrument: acoustic guitar
+  S16:
+    component: ''
+    filename: 32_ElecGtr01.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr01.wav
+        instrument: clean electric guitar
+  S17:
+    component: ''
+    filename: 51_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 51_BackingVox02.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 58_BackingVox09.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 58_BackingVox09.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 46_ElecGtr15.wav
+    instrument: feedback
+    raw:
+      R01:
+        filename: 46_ElecGtr15.wav
+        instrument: feedback
+  S20:
+    component: ''
+    filename: 40_ElecGtr09.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 40_ElecGtr09.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 56_BackingVox07.wav
+    instrument: female speaker
+    raw:
+      R01:
+        filename: 56_BackingVox07.wav
+        instrument: female speaker
+  S22:
+    component: ''
+    filename: 45_ElecGtr14.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 45_ElecGtr14.wav
+        instrument: clean electric guitar
+  S23:
+    component: ''
+    filename: 52_BackingVox03.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 52_BackingVox03.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 34_ElecGtr03.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr03.wav
+        instrument: clean electric guitar
+  S25:
+    component: ''
+    filename: 57_BackingVox08.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 57_BackingVox08.wav
+        instrument: female singer
+  S26:
+    component: ''
+    filename: 48_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 48_LeadVox.wav
+        instrument: female singer
+  S27:
+    component: ''
+    filename: 55_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 55_BackingVox06.wav
+        instrument: female singer
+  S28:
+    component: ''
+    filename: 29_AcGtr3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 29_AcGtr3.wav
+        instrument: acoustic guitar
+  S29:
+    component: ''
+    filename: 49_LeadVoxDoubles.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 49_LeadVoxDoubles.wav
+        instrument: female singer
+  S30:
+    component: ''
+    filename: 37_ElecGtr06.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr06.wav
+        instrument: clean electric guitar
+  S31:
+    component: ''
+    filename: 38_ElecGtr07.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr07.wav
+        instrument: clean electric guitar
+  S32:
+    component: ''
+    filename: 42_ElecGtr11.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 42_ElecGtr11.wav
+        instrument: clean electric guitar
+  S33:
+    component: ''
+    filename: 47_Sitar.wav
+    instrument: Sitar
+    raw:
+      R01:
+        filename: 47_Sitar.wav
+        instrument: Sitar
+  S34:
+    component: ''
+    filename: 31_AcGtr5.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 31_AcGtr5.wav
+        instrument: acoustic guitar
+  S35:
+    component: ''
+    filename: 50_BackingVox01.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 50_BackingVox01.wav
+        instrument: female singer
+  S36:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+  S37:
+    component: ''
+    filename: 33_ElecGtr02.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr02.wav
+        instrument: clean electric guitar
+  S38:
+    component: ''
+    filename: 53_BackingVox04.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 53_BackingVox04.wav
+        instrument: female singer
+  S39:
+    component: ''
+    filename: 20_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 20_Strings.wav
+        instrument: Strings
+title: Siren
+version: '3.0'
+website: ''

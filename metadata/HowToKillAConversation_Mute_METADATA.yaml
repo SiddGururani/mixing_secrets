@@ -1,0 +1,92 @@
+album: ''
+artist: HowToKillAConversation
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: HowToKillAConversation_Mute_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: HowToKillAConversation_Mute_RAW
+stem_dir: HowToKillAConversation_Mute_STEMS
+stems:
+  S01:
+    component: ''
+    filename: HowToKillAConversation_Mute_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 04_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 04_Room.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 09_Gtr1b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_Gtr1b.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 10_Gtr2a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr2a.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 08_Gtr1a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_Gtr1a.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 11_Gtr2b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr2b.wav
+        instrument: distorted electric guitar
+title: Mute
+version: '3.0'
+website: ''

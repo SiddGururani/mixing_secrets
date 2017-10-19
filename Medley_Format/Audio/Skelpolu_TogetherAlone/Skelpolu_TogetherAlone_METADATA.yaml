@@ -1,0 +1,119 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_TogetherAlone_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_TogetherAlone_RAW
+stem_dir: Skelpolu_TogetherAlone_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_TogetherAlone_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Snare1.wav
+        instrument: Snare
+      R02:
+        filename: 03_Kick1.wav
+        instrument: Kick
+      R03:
+        filename: 06_Snare2.wav
+        instrument: Snare
+      R04:
+        filename: 04_Kick2.wav
+        instrument: Kick
+      R05:
+        filename: 07_Cymbal.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: Skelpolu_TogetherAlone_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R02:
+        filename: 01_Loop1.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Skelpolu_TogetherAlone_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 13_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: Skelpolu_TogetherAlone_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 08_SFX.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 16_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox3.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 15_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_LeadVox2.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 09_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 09_Bass.wav
+        instrument: bass synth
+  S08:
+    component: ''
+    filename: 12_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 12_Piano.wav
+        instrument: Piano
+  S09:
+    component: ''
+    filename: 11_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 11_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 14_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_LeadVox1.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 10_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcousticGtr1.wav
+        instrument: acoustic guitar
+title: TogetherAlone
+version: '3.0'
+website: ''

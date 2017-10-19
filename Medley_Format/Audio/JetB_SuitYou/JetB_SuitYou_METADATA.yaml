@@ -1,0 +1,152 @@
+album: ''
+artist: JetB
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JetB_SuitYou_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JetB_SuitYou_RAW
+stem_dir: JetB_SuitYou_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JetB_SuitYou_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R06:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R07:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R08:
+        filename: 05_DrumsRoom.wav
+        instrument: DrumsRoom
+      R09:
+        filename: 09_Tom4.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 21_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox4.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 20_BackingVox3DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox3DT.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 22_BackingVox4DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox4DT.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 19_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_BackingVox3.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 12_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 17_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox1.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 11_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 13_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 14_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano.wav
+        instrument: Piano
+  S13:
+    component: ''
+    filename: 18_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_BackingVox2.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 16_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVoxDT.wav
+        instrument: female singer
+title: SuitYou
+version: '3.0'
+website: ''

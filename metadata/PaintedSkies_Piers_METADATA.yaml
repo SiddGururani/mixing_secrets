@@ -1,0 +1,115 @@
+album: ''
+artist: PaintedSkies
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: PaintedSkies_Piers_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: PaintedSkies_Piers_RAW
+stem_dir: PaintedSkies_Piers_STEMS
+stems:
+  S01:
+    component: ''
+    filename: PaintedSkies_Piers_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 10_Overheads.wav
+        instrument: Overheads
+      R010:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R02:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 01_KickFront.wav
+        instrument: KickFront
+      R04:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R05:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R06:
+        filename: 02_KickBack.wav
+        instrument: KickBack
+      R07:
+        filename: 09_Cymbals.wav
+        instrument: Cymbals
+      R08:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R09:
+        filename: 08_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: 17_ElecGtr2Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2Mic3.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 13_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 16_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 18_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 15_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 12_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 14_ElecGtr1Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr1Mic3.wav
+        instrument: distorted electric guitar
+title: Piers
+version: '3.0'
+website: ''

@@ -1,0 +1,99 @@
+album: ''
+artist: BannedFromTheZoo
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BannedFromTheZoo_TurnOnMe_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BannedFromTheZoo_TurnOnMe_RAW
+stem_dir: BannedFromTheZoo_TurnOnMe_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BannedFromTheZoo_TurnOnMe_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R010:
+        filename: 09_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R04:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R05:
+        filename: 10_DrumsRoomLoFi.wav
+        instrument: DrumsRoomLoFi
+      R06:
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 07_Tom1.wav
+        instrument: Tom
+      R09:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+  S02:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 15_Flute.wav
+    instrument: Flute
+    raw:
+      R01:
+        filename: 15_Flute.wav
+        instrument: Flute
+  S04:
+    component: ''
+    filename: 12_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_BassAmp.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 13_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 14_Ukelele.wav
+    instrument: Ukelele
+    raw:
+      R01:
+        filename: 14_Ukelele.wav
+        instrument: Ukelele
+  S07:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: male singer
+title: TurnOnMe
+version: '3.0'
+website: ''

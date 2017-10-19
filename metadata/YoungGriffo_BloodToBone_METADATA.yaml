@@ -1,0 +1,170 @@
+album: ''
+artist: YoungGriffo
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: YoungGriffo_BloodToBone_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: YoungGriffo_BloodToBone_RAW
+stem_dir: YoungGriffo_BloodToBone_STEMS
+stems:
+  S01:
+    component: ''
+    filename: YoungGriffo_BloodToBone_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R04:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R05:
+        filename: 05_DrumRoom.wav
+        instrument: DrumRoom
+      R06:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 06_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 17_Gtr3Amp2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_Gtr3Amp2.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 11_Gtr1Amp1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr1Amp1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 13_Gtr1Amp3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr1Amp3.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 18_Gtr3Amp3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_Gtr3Amp3.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 14_Gtr2Amp1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_Gtr2Amp1.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 16_Gtr3Amp1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_Gtr3Amp1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 10_BassAmp2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassAmp2.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox2.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox1.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 09_BassAmp1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassAmp1.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 19_Gtr3Amp4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_Gtr3Amp4.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 15_Gtr2Amp2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_Gtr2Amp2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 21_LeadVoxDoubletrack.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVoxDoubletrack.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 12_Gtr1Amp2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr1Amp2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S17:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_LeadVox.wav
+        instrument: male singer
+title: BloodToBone
+version: '3.0'
+website: ''

@@ -1,0 +1,49 @@
+album: ''
+artist: MR0804
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: MR0804_JesperBuhlTrio_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0804_JesperBuhlTrio_RAW
+stem_dir: MR0804_JesperBuhlTrio_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0804_JesperBuhlTrio_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 01_KickInside.wav
+        instrument: KickInside
+      R04:
+        filename: 02_KickBeater.wav
+        instrument: KickBeater
+  S02:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano.wav
+        instrument: Piano
+  S03:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: double bass
+title: JesperBuhlTrio
+version: '3.0'
+website: ''

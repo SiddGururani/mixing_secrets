@@ -1,0 +1,49 @@
+album: ''
+artist: IanDearden
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: IanDearden_ThursdayReverie_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: IanDearden_ThursdayReverie_RAW
+stem_dir: IanDearden_ThursdayReverie_STEMS
+stems:
+  S01:
+    component: ''
+    filename: IanDearden_ThursdayReverie_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 03_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 04_Synth3.wav
+        instrument: Synth
+      R03:
+        filename: 02_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 05_Synth4.wav
+        instrument: Synth
+  S02:
+    component: ''
+    filename: IanDearden_ThursdayReverie_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 06_SFX.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 01_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 01_Bass.wav
+        instrument: bass synth
+title: ThursdayReverie
+version: '3.0'
+website: ''

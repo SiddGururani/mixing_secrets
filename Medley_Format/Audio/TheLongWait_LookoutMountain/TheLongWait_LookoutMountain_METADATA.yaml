@@ -1,0 +1,153 @@
+album: ''
+artist: TheLongWait
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TheLongWait_LookoutMountain_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TheLongWait_LookoutMountain_RAW
+stem_dir: TheLongWait_LookoutMountain_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TheLongWait_LookoutMountain_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 04_DrumsRoom.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 16_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox1.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 08_AcousticGtr2Mic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcousticGtr2Mic1.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 09_AcousticGtr2Mic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AcousticGtr2Mic2.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 12_ElecGtrMic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtrMic3.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox2.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 11_ElecGtrMic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtrMic2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 17_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_BackingVox1DT.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 14_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_LeadVoxDT.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 07_AcousticGtr1Mic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcousticGtr1Mic2.wav
+        instrument: acoustic guitar
+  S13:
+    component: ''
+    filename: 10_ElecGtrMic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtrMic1.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 15_LeadVox_AltTake.wav
+    instrument: female singer_AltTake
+    raw:
+      R01:
+        filename: 15_LeadVox_AltTake.wav
+        instrument: female singer_AltTake
+  S15:
+    component: ''
+    filename: 19_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox2DT.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 06_AcousticGtr1Mic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtr1Mic1.wav
+        instrument: acoustic guitar
+title: LookoutMountain
+version: '3.0'
+website: ''

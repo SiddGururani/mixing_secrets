@@ -1,0 +1,125 @@
+album: ''
+artist: BannedFromTheZoo
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BannedFromTheZoo_FishTacos_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BannedFromTheZoo_FishTacos_RAW
+stem_dir: BannedFromTheZoo_FishTacos_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BannedFromTheZoo_FishTacos_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R03:
+        filename: 09_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        filename: 10_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R08:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 13_GuitarClose.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_GuitarClose.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 11_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassAmp.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 14_GuitarFar.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_GuitarFar.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 15_Ukelele.wav
+    instrument: Ukelele
+    raw:
+      R01:
+        filename: 15_Ukelele.wav
+        instrument: Ukelele
+  S06:
+    component: ''
+    filename: 07_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 07_Room.wav
+        instrument: Main System
+  S07:
+    component: ''
+    filename: 12_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_BassDI.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 17_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 16_Harmonica.wav
+    instrument: Harmonica
+    raw:
+      R01:
+        filename: 16_Harmonica.wav
+        instrument: Harmonica
+  S10:
+    component: ''
+    filename: 18_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 08_RoomLoFi.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 08_RoomLoFi.wav
+        instrument: Main System
+title: FishTacos
+version: '3.0'
+website: ''

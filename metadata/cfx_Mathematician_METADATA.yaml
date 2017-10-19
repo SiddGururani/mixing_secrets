@@ -1,0 +1,108 @@
+album: ''
+artist: cfx
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: cfx_Mathematician_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: cfx_Mathematician_RAW
+stem_dir: cfx_Mathematician_STEMS
+stems:
+  S01:
+    component: ''
+    filename: cfx_Mathematician_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 07_HiHat3.wav
+        instrument: HiHat
+      R03:
+        filename: 08_Cymbal.wav
+        instrument: Cymbal
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 05_HiHat2.wav
+        instrument: HiHat
+      R06:
+        filename: 06_HiHat2.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: cfx_Mathematician_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 13_Synth2Dry.wav
+        instrument: Synth
+      R02:
+        filename: 11_Synth1Dry.wav
+        instrument: Synth
+      R03:
+        filename: 16_Synth3Wet.wav
+        instrument: Synth
+      R04:
+        filename: 15_Synth3Dry.wav
+        instrument: Synth
+      R05:
+        filename: 12_Synth1Wet.wav
+        instrument: Synth
+      R06:
+        filename: 14_Synth2Wet.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: cfx_Mathematician_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 17_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 19_SFX2Wet.wav
+        instrument: SFX
+      R03:
+        filename: 18_SFX2Dry.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 04_Clap2.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 04_Clap2.wav
+        instrument: Clap
+  S05:
+    component: ''
+    filename: 09_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 09_Bass1.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 03_Clap1.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 03_Clap1.wav
+        instrument: Clap
+  S07:
+    component: ''
+    filename: 10_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 10_Bass2.wav
+        instrument: bass synth
+title: Mathematician
+version: '3.0'
+website: ''

@@ -1,0 +1,107 @@
+album: ''
+artist: EndaReilly
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: EndaReilly_CurAnLongAgSeol_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: EndaReilly_CurAnLongAgSeol_RAW
+stem_dir: EndaReilly_CurAnLongAgSeol_STEMS
+stems:
+  S01:
+    component: ''
+    filename: EndaReilly_CurAnLongAgSeol_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_DrumMic2.wav
+        instrument: DrumMic
+      R02:
+        filename: 01_DrumMic1.wav
+        instrument: DrumMic
+  S02:
+    component: ''
+    filename: 03_Brushes.wav
+    instrument: Brushes
+    raw:
+      R01:
+        filename: 03_Brushes.wav
+        instrument: Brushes
+  S03:
+    component: ''
+    filename: 04_BassMic1.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 04_BassMic1.wav
+        instrument: double bass
+  S04:
+    component: ''
+    filename: 06_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtr.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 10_Fiddle2.wav
+    instrument: Fiddle
+    raw:
+      R01:
+        filename: 10_Fiddle2.wav
+        instrument: Fiddle
+  S06:
+    component: ''
+    filename: 09_Fiddle1.wav
+    instrument: Fiddle
+    raw:
+      R01:
+        filename: 09_Fiddle1.wav
+        instrument: Fiddle
+  S07:
+    component: ''
+    filename: 07_MandolinMic1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 07_MandolinMic1.wav
+        instrument: Mandolin
+  S08:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 05_BassMic2.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic2.wav
+        instrument: double bass
+  S10:
+    component: ''
+    filename: 08_MandolinMic2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 08_MandolinMic2.wav
+        instrument: Mandolin
+  S11:
+    component: ''
+    filename: 11_Accordion.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 11_Accordion.wav
+        instrument: Accordion
+title: CurAnLongAgSeol
+version: '3.0'
+website: ''

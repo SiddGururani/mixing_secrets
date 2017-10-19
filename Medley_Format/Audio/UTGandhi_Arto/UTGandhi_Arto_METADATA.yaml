@@ -1,0 +1,89 @@
+album: ''
+artist: UTGandhi
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: UTGandhi_Arto_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: UTGandhi_Arto_RAW
+stem_dir: UTGandhi_Arto_STEMS
+stems:
+  S01:
+    component: ''
+    filename: UTGandhi_Arto_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 03_Synth3.wav
+        instrument: Synth
+      R02:
+        filename: 02_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 04_Synth4.wav
+        instrument: Synth
+      R04:
+        filename: 01_Synth1.wav
+        instrument: Synth
+  S02:
+    component: ''
+    filename: 08_Percussion4.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 08_Percussion4.wav
+        instrument: Percussion
+  S03:
+    component: ''
+    filename: 09_Percussion5.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 09_Percussion5.wav
+        instrument: Percussion
+  S04:
+    component: ''
+    filename: 10_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 10_Tambourine.wav
+        instrument: Tambourine
+  S05:
+    component: ''
+    filename: 07_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 07_Percussion3.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 06_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 06_Percussion2.wav
+        instrument: Percussion
+  S07:
+    component: ''
+    filename: 11_TambourineBrush.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 11_TambourineBrush.wav
+        instrument: Tambourine
+  S08:
+    component: ''
+    filename: 05_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 05_Percussion1.wav
+        instrument: Percussion
+title: Arto
+version: '3.0'
+website: ''

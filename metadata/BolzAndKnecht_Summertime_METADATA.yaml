@@ -1,0 +1,64 @@
+album: ''
+artist: BolzAndKnecht
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BolzAndKnecht_Summertime_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BolzAndKnecht_Summertime_RAW
+stem_dir: BolzAndKnecht_Summertime_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 02_SaxophoneCloseMic2.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 02_SaxophoneCloseMic2.wav
+        instrument: Saxophone
+  S02:
+    component: ''
+    filename: 05_AcousticGtrFarMics.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 05_AcousticGtrFarMics.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 01_SaxophoneCloseMic1.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 01_SaxophoneCloseMic1.wav
+        instrument: Saxophone
+  S04:
+    component: ''
+    filename: 04_AcousticGtrCloseMics.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 04_AcousticGtrCloseMics.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 03_SaxophoneFarMic1.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 03_SaxophoneFarMic1.wav
+        instrument: Saxophone
+  S06:
+    component: ''
+    filename: 06_AcousticGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtrDI.wav
+        instrument: acoustic guitar
+title: Summertime
+version: '3.0'
+website: ''

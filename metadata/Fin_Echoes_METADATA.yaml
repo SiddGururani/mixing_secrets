@@ -1,0 +1,122 @@
+album: ''
+artist: Fin
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Fin_Echoes_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Fin_Echoes_RAW
+stem_dir: Fin_Echoes_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Fin_Echoes_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Cymbal1.wav
+        instrument: Cymbal
+      R02:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 05_Cymbal2.wav
+        instrument: Cymbal
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: Fin_Echoes_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 07_Loop2.wav
+        instrument: Loop
+      R02:
+        filename: 06_Loop1.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Fin_Echoes_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 16_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 15_Synth1.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 10_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr1.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 12_ElecGtr2DT.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2DT.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 14_ElecPiano.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 14_ElecPiano.wav
+        instrument: electric piano
+  S08:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 11_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr2.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 17_Vox.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 17_Vox.wav
+        instrument: male speaker
+  S11:
+    component: ''
+    filename: 09_BassSub.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassSub.wav
+        instrument: electric bass
+title: Echoes
+version: '3.0'
+website: ''

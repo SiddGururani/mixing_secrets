@@ -1,0 +1,143 @@
+album: ''
+artist: MR1011
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1011_GirlsUnderGlass_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1011_GirlsUnderGlass_RAW
+stem_dir: MR1011_GirlsUnderGlass_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1011_GirlsUnderGlass_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MR1011_GirlsUnderGlass_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 03_Loop1.wav
+        instrument: Loop
+      R02:
+        filename: 04_Loop2.wav
+        instrument: Loop
+      R03:
+        filename: 05_Loop3.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MR1011_GirlsUnderGlass_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 09_Synth3.wav
+        instrument: Synth
+      R02:
+        filename: 07_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 08_Synth2.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: MR1011_GirlsUnderGlass_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 10_SFX.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 14_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_Vox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_Vox3.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 15_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 15_Piano.wav
+        instrument: Piano
+  S11:
+    component: ''
+    filename: 17_Vox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_Vox2.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 16_Vox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_Vox1.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 19_Vox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_Vox4.wav
+        instrument: male singer
+title: GirlsUnderGlass
+version: '3.0'
+website: ''

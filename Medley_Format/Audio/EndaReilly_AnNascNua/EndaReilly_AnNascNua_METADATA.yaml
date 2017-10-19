@@ -1,0 +1,168 @@
+album: ''
+artist: EndaReilly
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: EndaReilly_AnNascNua_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: EndaReilly_AnNascNua_RAW
+stem_dir: EndaReilly_AnNascNua_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 08_LeadVox1Mic1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 08_LeadVox1Mic1.wav
+        instrument: male singer
+  S02:
+    component: ''
+    filename: 02_AcousticGtrMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 02_AcousticGtrMic1.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 19_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox5.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 03_AcousticGtrMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 03_AcousticGtrMic2.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 18_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox4.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 13_LeadVox3Mic1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox3Mic1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 09_LeadVox1Mic2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox1Mic2.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 11_LeadVox2Mic2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_LeadVox2Mic2.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 17_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_BackingVox3.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 16_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox2.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 06_Fiddles2Mic1.wav
+    instrument: violins
+    raw:
+      R01:
+        filename: 06_Fiddles2Mic1.wav
+        instrument: violins
+  S12:
+    component: ''
+    filename: 04_Fiddles1Mic1.wav
+    instrument: violins
+    raw:
+      R01:
+        filename: 04_Fiddles1Mic1.wav
+        instrument: violins
+  S13:
+    component: ''
+    filename: 05_Fiddles1Mic2.wav
+    instrument: violins
+    raw:
+      R01:
+        filename: 05_Fiddles1Mic2.wav
+        instrument: violins
+  S14:
+    component: ''
+    filename: 12_LeadVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox2DT.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 14_LeadVox3Mic2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_LeadVox3Mic2.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 07_Fiddles2Mic2.wav
+    instrument: violins
+    raw:
+      R01:
+        filename: 07_Fiddles2Mic2.wav
+        instrument: violins
+  S17:
+    component: ''
+    filename: 10_LeadVox2Mic1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_LeadVox2Mic1.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 15_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox1.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 01_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 01_Bass.wav
+        instrument: double bass
+title: AnNascNua
+version: '3.0'
+website: ''

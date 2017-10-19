@@ -1,0 +1,116 @@
+album: ''
+artist: ManAboutADog
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: ManAboutADog_MaggieMay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ManAboutADog_MaggieMay_RAW
+stem_dir: ManAboutADog_MaggieMay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ManAboutADog_MaggieMay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 06_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 11_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 11_Organ.wav
+        instrument: Organ
+  S03:
+    component: ''
+    filename: 04_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 04_Room.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 15_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 08_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_Gtr1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 09_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_Gtr2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 14_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 13_LeadVoxScratch.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVoxScratch.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 10_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr3.wav
+        instrument: distorted electric guitar
+title: MaggieMay
+version: '3.0'
+website: ''

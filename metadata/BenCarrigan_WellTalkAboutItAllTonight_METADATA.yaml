@@ -1,0 +1,364 @@
+album: ''
+artist: BenCarrigan
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BenCarrigan_WellTalkAboutItAllTonight_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BenCarrigan_WellTalkAboutItAllTonight_RAW
+stem_dir: BenCarrigan_WellTalkAboutItAllTonight_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BenCarrigan_WellTalkAboutItAllTonight_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Snare.wav
+        instrument: Snare
+      R010:
+        filename: 12_CymbalSample2.wav
+        instrument: CymbalSample
+      R02:
+        filename: 06_SnareSample2.wav
+        instrument: SnareSample
+      R03:
+        filename: 10_Cymbal.wav
+        instrument: Cymbal
+      R04:
+        filename: 11_CymbalSample1.wav
+        instrument: CymbalSample
+      R05:
+        filename: 05_SnareSample1.wav
+        instrument: SnareSample
+      R06:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R07:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 13_DrumsRoom.wav
+        instrument: DrumsRoom
+      R09:
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R11:
+        filename: 03_KickSample.wav
+        instrument: KickSample
+      R12:
+        filename: 01_DrumMachine.wav
+        instrument: DrumMachine
+      R13:
+        filename: 02_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: BenCarrigan_WellTalkAboutItAllTonight_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 25_PianoSFX.wav
+        instrument: PianoSFX
+  S03:
+    component: ''
+    filename: 24_Keyboard.wav
+    instrument: Keyboard
+    raw:
+      R01:
+        filename: 24_Keyboard.wav
+        instrument: Keyboard
+  S04:
+    component: ''
+    filename: 44_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox4.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 29_Viola.wav
+    instrument: Viola
+    raw:
+      R01:
+        filename: 29_Viola.wav
+        instrument: Viola
+  S06:
+    component: ''
+    filename: 32_StringsTunedMix.wav
+    instrument: StringsTunedMix
+    raw:
+      R01:
+        filename: 32_StringsTunedMix.wav
+        instrument: StringsTunedMix
+  S07:
+    component: ''
+    filename: 51_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 51_BackingVox8.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 28_Violin2.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 28_Violin2.wav
+        instrument: Violin
+  S09:
+    component: ''
+    filename: 50_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 50_BackingVox7.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 15_SleighBells.wav
+    instrument: SleighBells
+    raw:
+      R01:
+        filename: 15_SleighBells.wav
+        instrument: SleighBells
+  S11:
+    component: ''
+    filename: 34_ViolaSamples.wav
+    instrument: ViolaSamples
+    raw:
+      R01:
+        filename: 34_ViolaSamples.wav
+        instrument: ViolaSamples
+  S12:
+    component: ''
+    filename: 48_BackingVox7.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 48_BackingVox7.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 16_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 16_Tambourine.wav
+        instrument: Tambourine
+  S14:
+    component: ''
+    filename: 35_CelloSamples1.wav
+    instrument: CelloSamples
+    raw:
+      R01:
+        filename: 35_CelloSamples1.wav
+        instrument: CelloSamples
+  S15:
+    component: ''
+    filename: 20_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 20_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S16:
+    component: ''
+    filename: 41_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 41_BackingVox1.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 49_BackingVox8.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 49_BackingVox8.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 14_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 14_Shaker.wav
+        instrument: Shaker
+  S19:
+    component: ''
+    filename: 43_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox3.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 23_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 23_Organ.wav
+        instrument: Organ
+  S21:
+    component: ''
+    filename: 46_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox6.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 17_Hand Claps.wav
+    instrument: Hand Claps
+    raw:
+      R01:
+        filename: 17_Hand Claps.wav
+        instrument: Hand Claps
+  S23:
+    component: ''
+    filename: 47_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 47_BackingVox4.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 21_Rhythm Gtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 21_Rhythm Gtr.wav
+        instrument: acoustic guitar
+  S25:
+    component: ''
+    filename: 30_Cello.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 30_Cello.wav
+        instrument: Cello
+  S26:
+    component: ''
+    filename: 37_TrumpetSamples.wav
+    instrument: TrumpetSamples
+    raw:
+      R01:
+        filename: 37_TrumpetSamples.wav
+        instrument: TrumpetSamples
+  S27:
+    component: ''
+    filename: 33_ViolinSamples.wav
+    instrument: ViolinSamples
+    raw:
+      R01:
+        filename: 33_ViolinSamples.wav
+        instrument: ViolinSamples
+  S28:
+    component: ''
+    filename: 39_Harmonica.wav
+    instrument: Harmonica
+    raw:
+      R01:
+        filename: 39_Harmonica.wav
+        instrument: Harmonica
+  S29:
+    component: ''
+    filename: 40_Lead Vox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_Lead Vox.wav
+        instrument: male singer
+  S30:
+    component: ''
+    filename: 38_FrenchHornSamples.wav
+    instrument: FrenchHornSamples
+    raw:
+      R01:
+        filename: 38_FrenchHornSamples.wav
+        instrument: FrenchHornSamples
+  S31:
+    component: ''
+    filename: 36_CelloSamples2.wav
+    instrument: CelloSamples
+    raw:
+      R01:
+        filename: 36_CelloSamples2.wav
+        instrument: CelloSamples
+  S32:
+    component: ''
+    filename: 42_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox2.wav
+        instrument: male singer
+  S33:
+    component: ''
+    filename: 31_StringsMix.wav
+    instrument: StringsMix
+    raw:
+      R01:
+        filename: 31_StringsMix.wav
+        instrument: StringsMix
+  S34:
+    component: ''
+    filename: 26_Glockenspiel.wav
+    instrument: Glockenspiel
+    raw:
+      R01:
+        filename: 26_Glockenspiel.wav
+        instrument: Glockenspiel
+  S35:
+    component: ''
+    filename: 18_Bass.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 18_Bass.wav
+        instrument: Bass
+  S36:
+    component: ''
+    filename: 19_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 19_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S37:
+    component: ''
+    filename: 27_Violin1.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 27_Violin1.wav
+        instrument: Violin
+  S38:
+    component: ''
+    filename: 22_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 22_Piano.wav
+        instrument: Piano
+  S39:
+    component: ''
+    filename: 45_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox5.wav
+        instrument: male singer
+title: WellTalkAboutItAllTonight
+version: '3.0'
+website: ''

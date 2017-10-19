@@ -1,0 +1,286 @@
+album: ''
+artist: MR1105
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1105_WeFellFromTheSky_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1105_WeFellFromTheSky_RAW
+stem_dir: MR1105_WeFellFromTheSky_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1105_WeFellFromTheSky_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 14_Tom1.wav
+        instrument: Tom
+      R010:
+        filename: 05_ShareDown.wav
+        instrument: ShareDown
+      R02:
+        filename: 15_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 03_KickSub.wav
+        instrument: KickSub
+      R06:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R07:
+        filename: 16_Tom3.wav
+        instrument: Tom
+      R08:
+        filename: 06_SnareFX.wav
+        instrument: SnareFX
+      R09:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R11:
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: MR1105_WeFellFromTheSky_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 27_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 29_LeadVox1DT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_LeadVox1DT1.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 11_AmbStereo1.wav
+    instrument: AmbStereo
+    raw:
+      R01:
+        filename: 11_AmbStereo1.wav
+        instrument: AmbStereo
+  S05:
+    component: ''
+    filename: 20_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_Gtr3.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 35_LeadVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_LeadVox4.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 22_Gtr5.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 22_Gtr5.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 25_GtrSolo2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_GtrSolo2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 28_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_LeadVox1.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 17_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_Bass.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 23_Gtr6.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 23_Gtr6.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 09_AmbMono1.wav
+    instrument: AmbMono
+    raw:
+      R01:
+        filename: 09_AmbMono1.wav
+        instrument: AmbMono
+  S13:
+    component: ''
+    filename: 38_LeadVox5DT.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 38_LeadVox5DT.wav
+        instrument: male screamer
+  S14:
+    component: ''
+    filename: 39_LeadVoxRevFX.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_LeadVoxRevFX.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 34_LeadVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_LeadVox3DT.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 19_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_Gtr2.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 37_LeadVox5.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 37_LeadVox5.wav
+        instrument: male screamer
+  S18:
+    component: ''
+    filename: 36_LeadVox4DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_LeadVox4DT.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 10_AmoMono2.wav
+    instrument: AmoMono
+    raw:
+      R01:
+        filename: 10_AmoMono2.wav
+        instrument: AmoMono
+  S20:
+    component: ''
+    filename: 32_LeadVox2DT2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_LeadVox2DT2.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 30_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_LeadVox2.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 18_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_Gtr1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 31_LeadVox2DT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_LeadVox2DT1.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 33_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_LeadVox3.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 12_AmbStereo2.wav
+    instrument: AmbStereo
+    raw:
+      R01:
+        filename: 12_AmbStereo2.wav
+        instrument: AmbStereo
+  S26:
+    component: ''
+    filename: 13_AmbStereo3.wav
+    instrument: AmbStereo
+    raw:
+      R01:
+        filename: 13_AmbStereo3.wav
+        instrument: AmbStereo
+  S27:
+    component: ''
+    filename: 24_GtrSolo1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_GtrSolo1.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 26_GtrFX1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 26_GtrFX1.wav
+        instrument: clean electric guitar
+  S29:
+    component: ''
+    filename: 21_Gtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_Gtr4.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 40_GtrFX2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 40_GtrFX2.wav
+        instrument: distorted electric guitar
+title: WeFellFromTheSky
+version: '3.0'
+website: ''

@@ -1,0 +1,120 @@
+album: ''
+artist: JamesMay
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JamesMay_DontLetGo_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JamesMay_DontLetGo_RAW
+stem_dir: JamesMay_DontLetGo_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JamesMay_DontLetGo_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Cymbal.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: 05_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_BassDI.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 12_Flute2.wav
+    instrument: Flute
+    raw:
+      R01:
+        filename: 12_Flute2.wav
+        instrument: Flute
+  S04:
+    component: ''
+    filename: 09_AcousticGtr3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AcousticGtr3.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 06_BassMic.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_BassMic.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 07_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S08:
+    component: ''
+    filename: 01_CongaMic1.wav
+    instrument: conga
+    raw:
+      R01:
+        filename: 01_CongaMic1.wav
+        instrument: conga
+  S09:
+    component: ''
+    filename: 08_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 03_Shakers.wav
+    instrument: Shakers
+    raw:
+      R01:
+        filename: 03_Shakers.wav
+        instrument: Shakers
+  S11:
+    component: ''
+    filename: 10_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 10_Piano.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 02_CongaMic2.wav
+    instrument: conga
+    raw:
+      R01:
+        filename: 02_CongaMic2.wav
+        instrument: conga
+  S13:
+    component: ''
+    filename: 11_Flute1.wav
+    instrument: Flute
+    raw:
+      R01:
+        filename: 11_Flute1.wav
+        instrument: Flute
+title: DontLetGo
+version: '3.0'
+website: ''

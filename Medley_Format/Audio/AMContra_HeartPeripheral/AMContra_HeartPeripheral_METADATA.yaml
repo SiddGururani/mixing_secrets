@@ -1,0 +1,222 @@
+album: ''
+artist: AMContra
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AMContra_HeartPeripheral_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AMContra_HeartPeripheral_RAW
+stem_dir: AMContra_HeartPeripheral_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AMContra_HeartPeripheral_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 07_Loop7.wav
+        instrument: Loop
+      R02:
+        filename: 06_Loop6.wav
+        instrument: Loop
+      R03:
+        filename: 01_Loop1.wav
+        instrument: Loop
+      R04:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R05:
+        filename: 05_Loop5.wav
+        instrument: Loop
+      R06:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R07:
+        filename: 08_Loop8.wav
+        instrument: Loop
+      R08:
+        filename: 04_Loop4.wav
+        instrument: Loop
+  S02:
+    component: ''
+    filename: AMContra_HeartPeripheral_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 14_Synth3.wav
+        instrument: Synth
+      R02:
+        filename: 13_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 12_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 11_BassSynth.wav
+        instrument: BassSynth
+  S03:
+    component: ''
+    filename: 19_BackingVox03.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_BackingVox03.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 10_Fill2.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 10_Fill2.wav
+        instrument: Fill
+  S05:
+    component: ''
+    filename: 30_BackingVox14.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox14.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 22_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox06.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 29_BackingVox13.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_BackingVox13.wav
+        instrument: BackingVox
+  S08:
+    component: ''
+    filename: 20_BackingVox04.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox04.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 23_BackingVox07.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox07.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 28_BackingVox12.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_BackingVox12.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 26_BackingVox10.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox10.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 18_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_BackingVox02.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 31_BackingVox15.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox15.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 17_BackingVox01.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox01.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 24_BackingVox08.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox08.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 09_Fill1.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_Fill1.wav
+        instrument: Fill
+  S17:
+    component: ''
+    filename: 25_BackingVox09.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox09.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 21_BackingVox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox05.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 16_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVox2.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 15_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox1.wav
+        instrument: female singer
+  S21:
+    component: ''
+    filename: 32_BackingVox16.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox16.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 27_BackingVox11.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox11.wav
+        instrument: female singer
+title: HeartPeripheral
+version: '3.0'
+website: ''

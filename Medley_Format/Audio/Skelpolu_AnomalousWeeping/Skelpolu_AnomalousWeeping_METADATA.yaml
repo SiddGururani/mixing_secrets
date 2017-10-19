@@ -1,0 +1,82 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_AnomalousWeeping_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_AnomalousWeeping_RAW
+stem_dir: Skelpolu_AnomalousWeeping_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_AnomalousWeeping_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 04_Cymbal.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: Skelpolu_AnomalousWeeping_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 12_Synth4.wav
+        instrument: Synth
+      R02:
+        filename: 09_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 10_Synth2.wav
+        instrument: Synth
+      R04:
+        filename: 11_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Skelpolu_AnomalousWeeping_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 05_SFXHit.wav
+        instrument: SFXHit
+  S04:
+    component: ''
+    filename: 07_Harp.wav
+    instrument: Harp
+    raw:
+      R01:
+        filename: 07_Harp.wav
+        instrument: Harp
+  S05:
+    component: ''
+    filename: 08_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano.wav
+        instrument: Piano
+  S06:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: bass synth
+title: AnomalousWeeping
+version: '3.0'
+website: ''

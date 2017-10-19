@@ -1,0 +1,32 @@
+album: ''
+artist: DavidYoungs
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DavidYoungs_Technomantra_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DavidYoungs_Technomantra_RAW
+stem_dir: DavidYoungs_Technomantra_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 01_GtrMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 01_GtrMic1.wav
+        instrument: acoustic guitar
+  S02:
+    component: ''
+    filename: 02_GtrMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 02_GtrMic2.wav
+        instrument: acoustic guitar
+title: Technomantra
+version: '3.0'
+website: ''

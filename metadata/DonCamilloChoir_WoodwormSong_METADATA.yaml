@@ -1,0 +1,104 @@
+album: ''
+artist: DonCamilloChoir
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DonCamilloChoir_WoodwormSong_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DonCamilloChoir_WoodwormSong_RAW
+stem_dir: DonCamilloChoir_WoodwormSong_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 11_BassCloseMic5.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 11_BassCloseMic5.wav
+        instrument: vocalists
+  S02:
+    component: ''
+    filename: 10_BassCloseMic4.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 10_BassCloseMic4.wav
+        instrument: vocalists
+  S03:
+    component: ''
+    filename: 02_MainPair2.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_MainPair2.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 07_BassCloseMic1.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 07_BassCloseMic1.wav
+        instrument: vocalists
+  S05:
+    component: ''
+    filename: 04_SpotMic2_Basses.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 04_SpotMic2_Basses.wav
+        instrument: vocalists
+  S06:
+    component: ''
+    filename: 01_MainPair1.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_MainPair1.wav
+        instrument: Main System
+  S07:
+    component: ''
+    filename: 08_BassCloseMic2.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 08_BassCloseMic2.wav
+        instrument: vocalists
+  S08:
+    component: ''
+    filename: 03_SpotMic1_Tenors.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 03_SpotMic1_Tenors.wav
+        instrument: vocalists
+  S09:
+    component: ''
+    filename: 09_BassCloseMic3.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 09_BassCloseMic3.wav
+        instrument: vocalists
+  S10:
+    component: ''
+    filename: 06_SpotMic4_Altos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 06_SpotMic4_Altos.wav
+        instrument: vocalists
+  S11:
+    component: ''
+    filename: 05_SpotMic3_Sopranos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 05_SpotMic3_Sopranos.wav
+        instrument: vocalists
+title: WoodwormSong
+version: '3.0'
+website: ''

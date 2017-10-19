@@ -1,0 +1,96 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_ColdStrive_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_ColdStrive_RAW
+stem_dir: Skelpolu_ColdStrive_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_ColdStrive_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Cymbal.wav
+        instrument: Cymbal
+      R02:
+        filename: 03_Hi-Hat.wav
+        instrument: Hi-Hat
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: Skelpolu_ColdStrive_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 14_Synth5.wav
+        instrument: Synth
+      R02:
+        filename: 13_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 10_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 12_Synth3.wav
+        instrument: Synth
+      R05:
+        filename: 11_Synth2.wav
+        instrument: Synth
+      R06:
+        filename: 15_Synth6.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Skelpolu_ColdStrive_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 09_PianoSFX.wav
+        instrument: PianoSFX
+  S04:
+    component: ''
+    filename: 08_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano.wav
+        instrument: Piano
+  S05:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 04_Clap.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 04_Clap.wav
+        instrument: Clap
+  S07:
+    component: ''
+    filename: 07_BassSub.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 07_BassSub.wav
+        instrument: bass synth
+title: ColdStrive
+version: '3.0'
+website: ''

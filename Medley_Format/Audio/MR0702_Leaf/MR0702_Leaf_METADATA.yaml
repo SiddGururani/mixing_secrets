@@ -1,0 +1,227 @@
+album: ''
+artist: MR0702
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0702_Leaf_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0702_Leaf_RAW
+stem_dir: MR0702_Leaf_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0702_Leaf_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Cymbals.wav
+        instrument: Cymbals
+  S02:
+    component: ''
+    filename: MR0702_Leaf_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop1.wav
+        instrument: Loop
+      R02:
+        filename: 02_Loop2.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: 26_BackingVox11.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox11.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 12_ElecGtr5.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr5.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 27_BackingVox12.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox12.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 05_bassguitar.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_bassguitar.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 16_BackingVox01.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_BackingVox01.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 24_BackingVox09.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox09.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 04_Tamb.wav
+    instrument: Tamb
+    raw:
+      R01:
+        filename: 04_Tamb.wav
+        instrument: Tamb
+  S11:
+    component: ''
+    filename: 21_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox06.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 22_BackingVox07.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox07.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 13_ElecGtr6.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr6.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 17_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox02.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 19_BackingVox04.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_BackingVox04.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 14_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 20_BackingVox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox05.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 06_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtr.wav
+        instrument: acoustic guitar
+  S20:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 07_EbowGtr.wav
+    instrument: Ebow
+    raw:
+      R01:
+        filename: 07_EbowGtr.wav
+        instrument: Ebow
+  S22:
+    component: ''
+    filename: 18_BackingVox03.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_BackingVox03.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 11_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 23_BackingVox08.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox08.wav
+        instrument: female singer
+  S26:
+    component: ''
+    filename: 25_BackingVox10.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox10.wav
+        instrument: female singer
+title: Leaf
+version: '3.0'
+website: ''

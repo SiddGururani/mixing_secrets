@@ -1,0 +1,73 @@
+album: ''
+artist: JamesMay
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JamesMay_HoldOnYou_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JamesMay_HoldOnYou_RAW
+stem_dir: JamesMay_HoldOnYou_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JamesMay_HoldOnYou_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickBack.wav
+        instrument: KickBack
+      R02:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 02_KickFront.wav
+        instrument: KickFront
+  S02:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 07_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 06_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcGtr.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 08_SlideGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 08_SlideGtr.wav
+        instrument: clean electric guitar
+title: HoldOnYou
+version: '3.0'
+website: ''

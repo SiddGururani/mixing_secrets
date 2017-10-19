@@ -1,0 +1,308 @@
+album: ''
+artist: ScottElliott
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: ScottElliott_AeternumVale_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ScottElliott_AeternumVale_RAW
+stem_dir: ScottElliott_AeternumVale_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ScottElliott_AeternumVale_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 10_Ride.wav
+        instrument: Ride
+      R010:
+        filename: 04_Kick04.wav
+        instrument: Kick
+      R02:
+        filename: 16_Cymbal02.wav
+        instrument: Cymbal
+      R03:
+        filename: 15_Cymbal01.wav
+        instrument: Cymbal
+      R04:
+        filename: 09_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 05_Snare01.wav
+        instrument: Snare
+      R06:
+        filename: 06_Snare02.wav
+        instrument: Snare
+      R07:
+        filename: 13_Tom3.wav
+        instrument: Tom
+      R08:
+        filename: 02_Kick02.wav
+        instrument: Kick
+      R09:
+        filename: 01_Kick01.wav
+        instrument: Kick
+      R11:
+        filename: 07_Snare03.wav
+        instrument: Snare
+      R12:
+        filename: 17_Cymbal03.wav
+        instrument: Cymbal
+      R13:
+        filename: 08_Snare04.wav
+        instrument: Snare
+      R14:
+        filename: 11_Tom1.wav
+        instrument: Tom
+      R15:
+        filename: 12_Tom2.wav
+        instrument: Tom
+      R16:
+        filename: 18_Cymbal04.wav
+        instrument: Cymbal
+      R17:
+        filename: 14_Tom4.wav
+        instrument: Tom
+      R18:
+        filename: 03_Kick03.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: ScottElliott_AeternumVale_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 26_SFX04.wav
+        instrument: SFX
+      R02:
+        filename: 23_SFX01.wav
+        instrument: SFX
+      R03:
+        filename: 25_SFX03.wav
+        instrument: SFX
+      R04:
+        filename: 24_SFX02.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 39_ElecGtr04DTDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr04DTDI.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 38_ElecGtr04DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr04DT.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 19_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 19_Percussion.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 45_FrenchHorns.wav
+    instrument: French Horns
+    raw:
+      R01:
+        filename: 45_FrenchHorns.wav
+        instrument: French Horns
+  S07:
+    component: ''
+    filename: 48_Alto.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 48_Alto.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 40_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 40_Strings.wav
+        instrument: Strings
+  S09:
+    component: ''
+    filename: 49_Bass.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 49_Bass.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 37_ElecGtr04DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr04DI.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 27_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 27_BassDI.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 32_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 44_Trombones.wav
+    instrument: Trombones
+    raw:
+      R01:
+        filename: 44_Trombones.wav
+        instrument: Trombones
+  S14:
+    component: ''
+    filename: 28_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 30_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 35_ElecGtr03DTDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr03DTDI.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 36_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 22_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 22_Piano.wav
+        instrument: Piano
+  S19:
+    component: ''
+    filename: 21_TubularBells.wav
+    instrument: TubularBells
+    raw:
+      R01:
+        filename: 21_TubularBells.wav
+        instrument: TubularBells
+  S20:
+    component: ''
+    filename: 29_ElecGtr01DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr01DI.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 34_ElecGtr03DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr03DT.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 42_Violas.wav
+    instrument: Violas
+    raw:
+      R01:
+        filename: 42_Violas.wav
+        instrument: Violas
+  S23:
+    component: ''
+    filename: 31_ElecGtr02DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr02DI.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 47_Soprano.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 47_Soprano.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 43_Cellos.wav
+    instrument: Cellos
+    raw:
+      R01:
+        filename: 43_Cellos.wav
+        instrument: Cellos
+  S26:
+    component: ''
+    filename: 41_Violins.wav
+    instrument: Violins
+    raw:
+      R01:
+        filename: 41_Violins.wav
+        instrument: Violins
+  S27:
+    component: ''
+    filename: 20_Timpani.wav
+    instrument: Timpani
+    raw:
+      R01:
+        filename: 20_Timpani.wav
+        instrument: Timpani
+  S28:
+    component: ''
+    filename: 33_ElecGtr03DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr03DI.wav
+        instrument: distorted electric guitar
+  S29:
+    component: ''
+    filename: 46_Choir.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 46_Choir.wav
+        instrument: Choir
+title: AeternumVale
+version: '3.0'
+website: ''

@@ -1,0 +1,170 @@
+album: ''
+artist: MR1001
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1001_JayMenon_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1001_JayMenon_RAW
+stem_dir: MR1001_JayMenon_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1001_JayMenon_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 08_FingerCymbals.wav
+        instrument: FingerCymbals
+      R03:
+        filename: 05_CymbalRoll1.wav
+        instrument: CymbalRoll
+      R04:
+        filename: 06_CymbalRoll2.wav
+        instrument: CymbalRoll
+      R05:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R06:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R07:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 07_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 07_Percussion.wav
+        instrument: Percussion
+  S03:
+    component: ''
+    filename: 14_AcGuitar5.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_AcGuitar5.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 18_Pad1.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 18_Pad1.wav
+        instrument: Pad
+  S05:
+    component: ''
+    filename: 15_AcGuitar6.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 15_AcGuitar6.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 22_Pad5.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 22_Pad5.wav
+        instrument: Pad
+  S07:
+    component: ''
+    filename: 23_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_LeadVox.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 19_Pad2.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 19_Pad2.wav
+        instrument: Pad
+  S09:
+    component: ''
+    filename: 16_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 16_Piano1.wav
+        instrument: Piano
+  S10:
+    component: ''
+    filename: 12_AcGuitar3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 12_AcGuitar3.wav
+        instrument: acoustic guitar
+  S11:
+    component: ''
+    filename: 13_AcGuitar4.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_AcGuitar4.wav
+        instrument: acoustic guitar
+  S12:
+    component: ''
+    filename: 20_Pad3.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 20_Pad3.wav
+        instrument: Pad
+  S13:
+    component: ''
+    filename: 10_AcGuitar1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcGuitar1.wav
+        instrument: acoustic guitar
+  S14:
+    component: ''
+    filename: 11_AcGuitar2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 11_AcGuitar2.wav
+        instrument: acoustic guitar
+  S15:
+    component: ''
+    filename: 21_Pad4.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 21_Pad4.wav
+        instrument: Pad
+  S16:
+    component: ''
+    filename: 09_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass.wav
+        instrument: electric bass
+  S17:
+    component: ''
+    filename: 17_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 17_Piano2.wav
+        instrument: Piano
+title: JayMenon
+version: '3.0'
+website: ''

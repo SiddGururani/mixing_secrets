@@ -1,0 +1,89 @@
+album: ''
+artist: LorenzoPrice
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: LorenzoPrice_ChangingThings_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LorenzoPrice_ChangingThings_RAW
+stem_dir: LorenzoPrice_ChangingThings_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LorenzoPrice_ChangingThings_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickMic1.wav
+        instrument: KickMic
+      R010:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R02:
+        filename: 08_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R04:
+        filename: 12_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 10_Ride2.wav
+        instrument: Ride
+      R06:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 02_KickMic2.wav
+        instrument: KickMic
+      R09:
+        filename: 09_Ride1.wav
+        instrument: Ride
+      R11:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R12:
+        filename: 11_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 16_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 13_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 15_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr1.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 14_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano.wav
+        instrument: Piano
+title: ChangingThings
+version: '3.0'
+website: ''

@@ -1,0 +1,160 @@
+album: ''
+artist: Fergessen
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Fergessen_NosPalpitants_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Fergessen_NosPalpitants_RAW
+stem_dir: Fergessen_NosPalpitants_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Fergessen_NosPalpitants_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R02:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R03:
+        filename: 09_DrumsRoomStereo.wav
+        instrument: DrumsRoomStereo
+      R04:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        filename: 08_DrumsRoomMono.wav
+        instrument: DrumsRoomMono
+      R07:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R09:
+        filename: 07_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 22_Rhodes2.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 22_Rhodes2.wav
+        instrument: Rhodes
+  S03:
+    component: ''
+    filename: 12_AcGtr1b_CloseMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 12_AcGtr1b_CloseMic2.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 15_AcGtr2b_CloseMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 15_AcGtr2b_CloseMic2.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 23_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 18_ElecGtr1b_Room.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr1b_Room.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 20_SlideGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 20_SlideGtr.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 21_Rhodes1.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 21_Rhodes1.wav
+        instrument: Rhodes
+  S09:
+    component: ''
+    filename: 14_AcGtr2a_CloseMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_AcGtr2a_CloseMic1.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 17_ElecGtr1a_Close.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr1a_Close.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 11_AcGtr1a_CloseMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 11_AcGtr1a_CloseMic1.wav
+        instrument: acoustic guitar
+  S12:
+    component: ''
+    filename: 19_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr2.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 13_AcGtr1c_Room.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_AcGtr1c_Room.wav
+        instrument: acoustic guitar
+  S15:
+    component: ''
+    filename: 16_AcGtr2c_Room.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcGtr2c_Room.wav
+        instrument: acoustic guitar
+title: NosPalpitants
+version: '3.0'
+website: ''

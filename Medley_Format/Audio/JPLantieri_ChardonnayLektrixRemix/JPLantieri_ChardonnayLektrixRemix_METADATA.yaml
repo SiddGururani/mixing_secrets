@@ -1,0 +1,101 @@
+album: ''
+artist: JPLantieri
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JPLantieri_ChardonnayLektrixRemix_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JPLantieri_ChardonnayLektrixRemix_RAW
+stem_dir: JPLantieri_ChardonnayLektrixRemix_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JPLantieri_ChardonnayLektrixRemix_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 01_KickSnare.wav
+        instrument: KickSnare
+  S02:
+    component: ''
+    filename: JPLantieri_ChardonnayLektrixRemix_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 07_Synth.wav
+        instrument: Synth
+      R02:
+        filename: 08_Synth.wav
+        instrument: Synth
+      R03:
+        filename: 13_Synth.wav
+        instrument: Synth
+      R04:
+        filename: 14_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: JPLantieri_ChardonnayLektrixRemix_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 09_SFX.wav
+        instrument: SFX
+      R02:
+        filename: 06_BassFX.wav
+        instrument: BassFX
+      R03:
+        filename: 10_SFX.wav
+        instrument: SFX
+      R04:
+        filename: 11_SFX.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 15_Vox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_Vox.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 05_Sub Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 05_Sub Bass.wav
+        instrument: Sub Bass
+  S06:
+    component: ''
+    filename: 04_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 04_Bass.wav
+        instrument: Bass
+  S07:
+    component: ''
+    filename: 03_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 03_Percussion.wav
+        instrument: Percussion
+  S08:
+    component: ''
+    filename: 12_Pianos.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 12_Pianos.wav
+        instrument: Pianos
+title: ChardonnayLektrixRemix
+version: '3.0'
+website: ''

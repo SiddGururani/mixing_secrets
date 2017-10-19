@@ -1,0 +1,121 @@
+album: ''
+artist: StreetNoise
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: StreetNoise_YouAreTheOne_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: StreetNoise_YouAreTheOne_RAW
+stem_dir: StreetNoise_YouAreTheOne_STEMS
+stems:
+  S01:
+    component: ''
+    filename: StreetNoise_YouAreTheOne_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Cymbals.wav
+        instrument: Cymbals
+      R02:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: StreetNoise_YouAreTheOne_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 15_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 11_BackVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_BackVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 08_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 13_HammondLeslieLo.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 13_HammondLeslieLo.wav
+        instrument: Hammond
+  S07:
+    component: ''
+    filename: 14_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano.wav
+        instrument: Piano
+  S08:
+    component: ''
+    filename: 06_Congas.wav
+    instrument: Congas
+    raw:
+      R01:
+        filename: 06_Congas.wav
+        instrument: Congas
+  S09:
+    component: ''
+    filename: 09_AccGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AccGtr.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 12_HammondLeslieHi.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 12_HammondLeslieHi.wav
+        instrument: Hammond
+  S11:
+    component: ''
+    filename: 10_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_LeadVox.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 07_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr1.wav
+        instrument: distorted electric guitar
+title: YouAreTheOne
+version: '3.0'
+website: ''

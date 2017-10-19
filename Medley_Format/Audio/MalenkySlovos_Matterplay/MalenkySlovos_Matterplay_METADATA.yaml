@@ -1,0 +1,188 @@
+album: ''
+artist: MalenkySlovos
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MalenkySlovos_Matterplay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MalenkySlovos_Matterplay_RAW
+stem_dir: MalenkySlovos_Matterplay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MalenkySlovos_Matterplay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 12_Drumkit2_SnareDown.wav
+        instrument: Drumkit_SnareDown
+      R010:
+        filename: 02_Drumkit1_KickOut.wav
+        instrument: Drumkit_KickOut
+      R02:
+        filename: 08_Drumkit1_Tom2.wav
+        instrument: Drumkit_Tom
+      R03:
+        filename: 07_Drumkit1_Tom1.wav
+        instrument: Drumkit_Tom
+      R04:
+        filename: 10_Drumkit1_Overheads.wav
+        instrument: Drumkit_Overheads
+      R05:
+        filename: 11_Drumkit2_SnareUp.wav
+        instrument: Drumkit_SnareUp
+      R06:
+        filename: 01_Drumkit1_KickIn.wav
+        instrument: Drumkit_KickIn
+      R07:
+        filename: 16_Drumkit2_Tom3.wav
+        instrument: Drumkit_Tom
+      R08:
+        filename: 05_Drumkit1_HiHat.wav
+        instrument: Drumkit_HiHat
+      R09:
+        filename: 04_Drumkit1_SnareDown.wav
+        instrument: Drumkit_SnareDown
+      R11:
+        filename: 18_Drumkit2_Room.wav
+        instrument: Drumkit_Room
+      R12:
+        filename: 19_ReverseCymbal.wav
+        instrument: ReverseCymbal
+      R13:
+        filename: 06_Drumkit1_Ride.wav
+        instrument: Drumkit_Ride
+      R14:
+        filename: 13_Drumkit2_HiHat.wav
+        instrument: Drumkit_HiHat
+      R15:
+        filename: 14_Drumkit2_Tom1.wav
+        instrument: Drumkit_Tom
+      R16:
+        filename: 09_Drumkit1_Tom3.wav
+        instrument: Drumkit_Tom
+      R17:
+        filename: 03_Drumkit1_SnareUp.wav
+        instrument: Drumkit_SnareUp
+      R18:
+        filename: 17_Drumkit2_Overheads.wav
+        instrument: Drumkit_Overheads
+      R19:
+        filename: 15_Drumkit2_Tom2.wav
+        instrument: Drumkit_Tom
+  S02:
+    component: ''
+    filename: MalenkySlovos_Matterplay_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 27_Synth02.wav
+        instrument: Synth
+      R02:
+        filename: 28_Synth03.wav
+        instrument: Synth
+      R03:
+        filename: 26_Synth01.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: MalenkySlovos_Matterplay_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 29_CatSFX.wav
+        instrument: CatSFX
+  S04:
+    component: ''
+    filename: 25_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 30_LeadVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_LeadVox01.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 23_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 33_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox02.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 20_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 20_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 24_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 34_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox03.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 31_LeadVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_LeadVox02.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 32_BackingVos01.wav
+    instrument: BackingVos
+    raw:
+      R01:
+        filename: 32_BackingVos01.wav
+        instrument: BackingVos
+  S13:
+    component: ''
+    filename: 21_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 22_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr02.wav
+        instrument: distorted electric guitar
+title: Matterplay
+version: '3.0'
+website: ''

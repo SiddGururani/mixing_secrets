@@ -1,0 +1,278 @@
+album: ''
+artist: TheLongWait
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TheLongWait_Santa_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TheLongWait_Santa_RAW
+stem_dir: TheLongWait_Santa_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TheLongWait_Santa_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 15_BackingVox02DT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox02DT1.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 20_BackingVox04DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox04DT.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 07_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 29_BackingVox09.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_BackingVox09.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 11_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 11_LeadVox2.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 17_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_BackingVox03.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 18_BackingVox03DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox03DT.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 32_BackingVox11DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox11DT.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 27_BackingVox07.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox07.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 04_Sleighbells.wav
+    instrument: Sleighbells
+    raw:
+      R01:
+        filename: 04_Sleighbells.wav
+        instrument: Sleighbells
+  S12:
+    component: ''
+    filename: 21_BackingVox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox05.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 25_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox06.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 33_BackingVox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox12.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 08_AcousticGtr2Amp.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcousticGtr2Amp.wav
+        instrument: acoustic guitar
+  S16:
+    component: ''
+    filename: 28_BackingVox08.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_BackingVox08.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 09_Mandolin.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 09_Mandolin.wav
+        instrument: Mandolin
+  S18:
+    component: ''
+    filename: 06_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 06_ElecGtr.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 30_BackingVox10.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox10.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 26_BackingVox06DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox06DT.wav
+        instrument: female singer
+  S21:
+    component: ''
+    filename: 22_BackingVox05DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox05DT1.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 23_BackingVox05DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox05DT2.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S24:
+    component: ''
+    filename: 34_BackingVox12DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox12DT.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 19_BackingVox04.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_BackingVox04.wav
+        instrument: female singer
+  S26:
+    component: ''
+    filename: 14_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox02.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 31_BackingVox11.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox11.wav
+        instrument: female singer
+  S28:
+    component: ''
+    filename: 10_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_LeadVox1.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 16_BackingVox02DT2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox02DT2.wav
+        instrument: male singer
+  S30:
+    component: ''
+    filename: 13_BackingVox01DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_BackingVox01DT.wav
+        instrument: male singer
+  S31:
+    component: ''
+    filename: 12_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_BackingVox01.wav
+        instrument: male singer
+  S32:
+    component: ''
+    filename: 24_BackingVox05DT3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox05DT3.wav
+        instrument: female singer
+title: Santa
+version: '3.0'
+website: ''

@@ -1,0 +1,236 @@
+album: ''
+artist: DunningKruger
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DunningKruger_JapanSong_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DunningKruger_JapanSong_RAW
+stem_dir: DunningKruger_JapanSong_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DunningKruger_JapanSong_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_TomHi.wav
+        instrument: TomHi
+      R02:
+        filename: 04_TomLo.wav
+        instrument: TomLo
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 08_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_Gtr1.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 07_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_BassDI.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 30_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox8.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 24_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 28_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox6.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 19_CelloHarmHi2_Mic1.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 19_CelloHarmHi2_Mic1.wav
+        instrument: cello
+  S08:
+    component: ''
+    filename: 17_CelloHarmLo1_Mic1.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 17_CelloHarmLo1_Mic1.wav
+        instrument: cello
+  S09:
+    component: ''
+    filename: 25_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox3.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 20_CelloHarmHi1_Mic2.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 20_CelloHarmHi1_Mic2.wav
+        instrument: cello
+  S11:
+    component: ''
+    filename: 13_Gtr5Amp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr5Amp.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 18_CelloHarmLo2_Mix2.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 18_CelloHarmLo2_Mix2.wav
+        instrument: cello
+  S13:
+    component: ''
+    filename: 22_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_LeadVoxDT.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 15_CelloBassLo1_Mic1.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 15_CelloBassLo1_Mic1.wav
+        instrument: cello
+  S15:
+    component: ''
+    filename: 27_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox5.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 21_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVox.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 29_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox7.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 06_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 06_Room.wav
+        instrument: Main System
+  S19:
+    component: ''
+    filename: 26_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox4.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 10_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr3.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 23_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox1.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 12_Gtr5DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr5DI.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 11_Gtr4DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr4DI.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 09_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_Gtr2.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 14_CelloBridge.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 14_CelloBridge.wav
+        instrument: cello
+  S26:
+    component: ''
+    filename: 16_CelloBassLo2_Mic2.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 16_CelloBassLo2_Mic2.wav
+        instrument: cello
+title: JapanSong
+version: '3.0'
+website: ''

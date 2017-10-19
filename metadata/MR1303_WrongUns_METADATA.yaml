@@ -1,0 +1,100 @@
+album: ''
+artist: MR1303
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1303_WrongUns_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1303_WrongUns_RAW
+stem_dir: MR1303_WrongUns_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1303_WrongUns_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Tom.wav
+        instrument: Tom
+      R02:
+        filename: 05_DrumsRoom.wav
+        instrument: DrumsRoom
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 13_BackingVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 13_BackingVox.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 09_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 08_AcGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcGtr2.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 07_AcGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcGtr1.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 10_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr2.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: female singer
+title: WrongUns
+version: '3.0'
+website: ''

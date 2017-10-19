@@ -1,0 +1,152 @@
+album: ''
+artist: APZX
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: APZX_Amalgamize_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: APZX_Amalgamize_RAW
+stem_dir: APZX_Amalgamize_STEMS
+stems:
+  S01:
+    component: ''
+    filename: APZX_Amalgamize_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: APZX_Amalgamize_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 16_SynthSFX3.wav
+        instrument: SynthSFX
+      R010:
+        filename: 13_Synth8.wav
+        instrument: Synth
+      R02:
+        filename: 22_SynthLead3.wav
+        instrument: SynthLead
+      R03:
+        filename: 24_SynthLead5.wav
+        instrument: SynthLead
+      R04:
+        filename: 09_Synth4.wav
+        instrument: Synth
+      R05:
+        filename: 23_SynthLead4.wav
+        instrument: SynthLead
+      R06:
+        filename: 08_Synth3.wav
+        instrument: Synth
+      R07:
+        filename: 06_Synth1.wav
+        instrument: Synth
+      R08:
+        filename: 18_SynthSFX5.wav
+        instrument: SynthSFX
+      R09:
+        filename: 27_SynthLead8.wav
+        instrument: SynthLead
+      R11:
+        filename: 25_SynthLead6.wav
+        instrument: SynthLead
+      R12:
+        filename: 26_SynthLead7.wav
+        instrument: SynthLead
+      R13:
+        filename: 17_SynthSFX4.wav
+        instrument: SynthSFX
+      R14:
+        filename: 20_SynthLead1.wav
+        instrument: SynthLead
+      R15:
+        filename: 15_SynthSFX2.wav
+        instrument: SynthSFX
+      R16:
+        filename: 11_Synth6.wav
+        instrument: Synth
+      R17:
+        filename: 07_Synth2.wav
+        instrument: Synth
+      R18:
+        filename: 21_SynthLead2.wav
+        instrument: SynthLead
+      R19:
+        filename: 10_Synth5.wav
+        instrument: Synth
+      R20:
+        filename: 14_SynthSFX1.wav
+        instrument: SynthSFX
+      R21:
+        filename: 12_Synth7.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: APZX_Amalgamize_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 16_SynthSFX3.wav
+        instrument: SynthSFX
+      R02:
+        filename: 17_SynthSFX4.wav
+        instrument: SynthSFX
+      R03:
+        filename: 18_SynthSFX5.wav
+        instrument: SynthSFX
+      R04:
+        filename: 14_SynthSFX1.wav
+        instrument: SynthSFX
+      R05:
+        filename: 15_SynthSFX2.wav
+        instrument: SynthSFX
+  S04:
+    component: ''
+    filename: 19_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 19_Organ.wav
+        instrument: Organ
+  S05:
+    component: ''
+    filename: 02_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 02_Bass1.wav
+        instrument: Bass
+  S06:
+    component: ''
+    filename: 04_Bass3.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 04_Bass3.wav
+        instrument: Bass
+  S07:
+    component: ''
+    filename: 03_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 03_Bass2.wav
+        instrument: Bass
+  S08:
+    component: ''
+    filename: 05_Bass4.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 05_Bass4.wav
+        instrument: Bass
+title: Amalgamize
+version: '3.0'
+website: ''

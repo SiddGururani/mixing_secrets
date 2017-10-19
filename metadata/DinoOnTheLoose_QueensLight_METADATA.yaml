@@ -1,0 +1,126 @@
+album: ''
+artist: DinoOnTheLoose
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DinoOnTheLoose_QueensLight_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DinoOnTheLoose_QueensLight_RAW
+stem_dir: DinoOnTheLoose_QueensLight_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DinoOnTheLoose_QueensLight_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R03:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R06:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R07:
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 08_Cowbell.wav
+        instrument: Cowbell
+  S02:
+    component: ''
+    filename: DinoOnTheLoose_QueensLight_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 16_Synth4.wav
+        instrument: Synth
+      R02:
+        filename: 13_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 14_Synth2.wav
+        instrument: Synth
+      R04:
+        filename: 15_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 18_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 18_Hammond.wav
+        instrument: Hammond
+  S04:
+    component: ''
+    filename: 11_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 11_Tambourine.wav
+        instrument: Tambourine
+  S05:
+    component: ''
+    filename: 10_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 10_Shaker.wav
+        instrument: Shaker
+  S06:
+    component: ''
+    filename: 09_Congas.wav
+    instrument: Congas
+    raw:
+      R01:
+        filename: 09_Congas.wav
+        instrument: Congas
+  S07:
+    component: ''
+    filename: 19_ElecPiano1.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 19_ElecPiano1.wav
+        instrument: electric piano
+  S08:
+    component: ''
+    filename: 20_ElecPiano2.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 20_ElecPiano2.wav
+        instrument: electric piano
+  S09:
+    component: ''
+    filename: 17_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 12_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_Bass.wav
+        instrument: electric bass
+title: QueensLight
+version: '3.0'
+website: ''

@@ -1,0 +1,212 @@
+album: ''
+artist: TimoAndTheTimezone
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TimoAndTheTimezone_JustDontTalk_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TimoAndTheTimezone_JustDontTalk_RAW
+stem_dir: TimoAndTheTimezone_JustDontTalk_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TimoAndTheTimezone_JustDontTalk_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Ride1.wav
+        instrument: Ride
+      R02:
+        filename: 01_Drumkit_Kick.wav
+        instrument: Drumkit_Kick
+      R03:
+        filename: 07_Ride2.wav
+        instrument: Ride
+      R04:
+        filename: 02_Drumkit_Overhead.wav
+        instrument: Drumkit_Overhead
+      R05:
+        filename: 05_CymbalSwells.wav
+        instrument: CymbalSwells
+  S02:
+    component: ''
+    filename: 15_ElecPiano.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 15_ElecPiano.wav
+        instrument: electric piano
+  S03:
+    component: ''
+    filename: 18_Speech.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 18_Speech.wav
+        instrument: male speaker
+  S04:
+    component: ''
+    filename: 21_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 24_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox5.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 20_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 23_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox4.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 27_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox8.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 17_LeadVoxDTAdLib.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVoxDTAdLib.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 04_Chimes.wav
+    instrument: Chimes
+    raw:
+      R01:
+        filename: 04_Chimes.wav
+        instrument: Chimes
+  S11:
+    component: ''
+    filename: 22_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox3.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 25_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox6.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 09_Bass1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass1.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 13_ElecGtr3DI.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3DI.wav
+        instrument: clean electric guitar
+  S17:
+    component: ''
+    filename: 26_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox7.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 08_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker.wav
+        instrument: Shaker
+  S19:
+    component: ''
+    filename: 19_Whisper.wav
+    instrument: Whisper
+    raw:
+      R01:
+        filename: 19_Whisper.wav
+        instrument: Whisper
+  S20:
+    component: ''
+    filename: 14_ElecGtr3Amp.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr3Amp.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 10_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass2.wav
+        instrument: electric bass
+  S23:
+    component: ''
+    filename: 03_Bongos.wav
+    instrument: Bongos
+    raw:
+      R01:
+        filename: 03_Bongos.wav
+        instrument: Bongos
+title: JustDontTalk
+version: '3.0'
+website: ''

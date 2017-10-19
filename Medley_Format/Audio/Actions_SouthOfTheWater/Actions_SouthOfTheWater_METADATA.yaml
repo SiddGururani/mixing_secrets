@@ -1,0 +1,231 @@
+album: ''
+artist: Actions
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Actions_SouthOfTheWater_MIX.mp3
+origin: Mixing Secrets
+producer: ''
+raw_dir: Actions_SouthOfTheWater_RAW
+stem_dir: Actions_SouthOfTheWater_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Actions_SouthOfTheWater_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 07_RevCymbal.wav
+        instrument: RevCymbal
+      R04:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R06:
+        filename: 01_KickTrigger.wav
+        instrument: KickTrigger
+  S02:
+    component: ''
+    filename: 30_BackingVox9.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox9.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 12_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr3.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 16_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox1.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 14_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 19_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 19_Piano.wav
+        instrument: piano
+  S08:
+    component: ''
+    filename: 13_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 08_Sprinkles.wav
+    instrument: Sprinkles
+    raw:
+      R01:
+        filename: 08_Sprinkles.wav
+        instrument: Sprinkles
+  S10:
+    component: ''
+    filename: 28_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox7.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 11_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr2.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 27_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox6.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 25_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox4.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 18_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 18_AcGtr.wav
+        instrument: acoustic guitar
+  S15:
+    component: ''
+    filename: 29_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox8.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 10_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr1.wav
+        instrument: clean electric guitar
+  S17:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox2.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 06_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 06_Tambourine.wav
+        instrument: Tambourine
+  S19:
+    component: ''
+    filename: 21_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_LeadVoxDT.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 09_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass.wav
+        instrument: electric bass
+  S21:
+    component: ''
+    filename: 26_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox5.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 24_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox3.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_LeadVox.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 17_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 17_AcGtr.wav
+        instrument: acoustic guitar
+  S25:
+    component: ''
+    filename: 15_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr6.wav
+        instrument: distorted electric guitar
+title: SouthOfTheWater
+version: '3.0'
+website: ''

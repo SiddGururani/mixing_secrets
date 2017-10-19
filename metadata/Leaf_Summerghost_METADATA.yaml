@@ -1,0 +1,235 @@
+album: ''
+artist: Leaf
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Leaf_Summerghost_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Leaf_Summerghost_RAW
+stem_dir: Leaf_Summerghost_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Leaf_Summerghost_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Drums.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: Leaf_Summerghost_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 15_SynthDT.wav
+        instrument: SynthDT
+      R02:
+        filename: 14_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 02_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 02_BassDI.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 08_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 06_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 06_ElecGtr2.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 03_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 03_BassAmp.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 17_LeadVox2DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_LeadVox2DT.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 07_ElecGtr2DT.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr2DT.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 26_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox6.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 05_ElecGtr1DT.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 05_ElecGtr1DT.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 18_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox2.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 11_ElecGtr4DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4DT.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 27_BackingVox7.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox7.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 10_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 21_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox1DT.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 12_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 22_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox2.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 24_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox4.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 13_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 04_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 04_ElecGtr1.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 19_LeadVox2DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_LeadVox2DT.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 25_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox5.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 28_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox8.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 23_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox3.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 09_ElecGtr3DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr3DT.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 20_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox1.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 16_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVox1.wav
+        instrument: female singer
+title: Summerghost
+version: '3.0'
+website: ''

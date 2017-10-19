@@ -1,0 +1,188 @@
+album: ''
+artist: DunningKruger
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: DunningKruger_Sascha_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DunningKruger_Sascha_RAW
+stem_dir: DunningKruger_Sascha_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DunningKruger_Sascha_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 03_TomHi.wav
+        instrument: TomHi
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 04_TomLo.wav
+        instrument: TomLo
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 23_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox3.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 07_RoomMono.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 07_RoomMono.wav
+        instrument: Main System
+  S04:
+    component: ''
+    filename: 09_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassAmp.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 24_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox4.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 18_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 15_Gtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_Gtr6.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 12_Gtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr3.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S10:
+    component: ''
+    filename: 21_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox1.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 22_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox2.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 17_Gtr8DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_Gtr8DI.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 14_Gtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_Gtr5.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 20_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_LeadVox2.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 11_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 13_Gtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr4.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 16_Gtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_Gtr7.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 19_LeadVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVox1DT.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 10_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 06_RoomStereo.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 06_RoomStereo.wav
+        instrument: Main System
+title: Sascha
+version: '3.0'
+website: ''

@@ -1,0 +1,235 @@
+album: ''
+artist: Voelund
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Voelund_ComfortLivesInBelief_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Voelund_ComfortLivesInBelief_RAW
+stem_dir: Voelund_ComfortLivesInBelief_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Voelund_ComfortLivesInBelief_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Ride1.wav
+        instrument: Ride
+      R010:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R04:
+        filename: 03_Snare2.wav
+        instrument: Snare
+      R05:
+        filename: 10_Crash.wav
+        instrument: Crash
+      R06:
+        filename: 02_Snare1.wav
+        instrument: Snare
+      R07:
+        filename: 04_Snare3.wav
+        instrument: Snare
+      R08:
+        filename: 07_Ride2.wav
+        instrument: Ride
+      R09:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: Voelund_ComfortLivesInBelief_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 33_SFX.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 28_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox05.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 17_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 17_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 32_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox09.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 11_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 11_Percussion1.wav
+        instrument: Percussion
+  S07:
+    component: ''
+    filename: 16_Wurlitzer.wav
+    instrument: Wurlitzer
+    raw:
+      R01:
+        filename: 16_Wurlitzer.wav
+        instrument: Wurlitzer
+  S08:
+    component: ''
+    filename: 14_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano.wav
+        instrument: Piano
+  S09:
+    component: ''
+    filename: 21_ElecGtrAltTake2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtrAltTake2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 30_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox07.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 12_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 12_Percussion2.wav
+        instrument: Percussion
+  S12:
+    component: ''
+    filename: 29_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox06.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 26_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox03.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 13_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_Bass.wav
+        instrument: electric bass
+  S15:
+    component: ''
+    filename: 25_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox02.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 24_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox01.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 22_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_LeadVox.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 23_LeadVoxDTs.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_LeadVoxDTs.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 20_ElecGtrAltTake1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtrAltTake1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 15_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 15_Hammond.wav
+        instrument: Hammond
+  S21:
+    component: ''
+    filename: 19_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 27_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox04.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 18_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 18_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S24:
+    component: ''
+    filename: 31_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox08.wav
+        instrument: male singer
+title: ComfortLivesInBelief
+version: '3.0'
+website: ''

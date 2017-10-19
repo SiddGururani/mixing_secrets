@@ -1,0 +1,119 @@
+album: ''
+artist: HowToKillAConversation
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: HowToKillAConversation_Oil_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: HowToKillAConversation_Oil_RAW
+stem_dir: HowToKillAConversation_Oil_STEMS
+stems:
+  S01:
+    component: ''
+    filename: HowToKillAConversation_Oil_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R05:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 16_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox2.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 13_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 09_Tambourine2.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 09_Tambourine2.wav
+        instrument: Tambourine
+  S05:
+    component: ''
+    filename: 12_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 11_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassAmp.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 15_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox1.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 10_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassDI.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 14_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 04_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 04_Room.wav
+        instrument: Main System
+  S11:
+    component: ''
+    filename: 08_Tambourine1.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 08_Tambourine1.wav
+        instrument: Tambourine
+title: Oil
+version: '3.0'
+website: ''

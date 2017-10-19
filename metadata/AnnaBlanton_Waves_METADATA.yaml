@@ -1,0 +1,105 @@
+album: ''
+artist: AnnaBlanton
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AnnaBlanton_Waves_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AnnaBlanton_Waves_RAW
+stem_dir: AnnaBlanton_Waves_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AnnaBlanton_Waves_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: double bass
+  S03:
+    component: ''
+    filename: 08_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 07_AcousticGtrMic.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcousticGtrMic.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 12_BackingVox1.wav
+    instrument: BackingVox
+    raw:
+      R01:
+        filename: 12_BackingVox1.wav
+        instrument: BackingVox
+  S06:
+    component: ''
+    filename: 11_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 11_LeadVox.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 10_Violin2.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 10_Violin2.wav
+        instrument: Violin
+  S08:
+    component: ''
+    filename: 09_Violin1.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 09_Violin1.wav
+        instrument: Violin
+  S09:
+    component: ''
+    filename: 06_AcousticGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtrDI.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 13_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 13_BackingVox2.wav
+        instrument: female singer
+title: Waves
+version: '3.0'
+website: ''

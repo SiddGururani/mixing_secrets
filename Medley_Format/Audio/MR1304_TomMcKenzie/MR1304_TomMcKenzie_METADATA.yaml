@@ -1,0 +1,244 @@
+album: ''
+artist: MR1304
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1304_TomMcKenzie_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1304_TomMcKenzie_RAW
+stem_dir: MR1304_TomMcKenzie_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1304_TomMcKenzie_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 12_AcGtr02.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 12_AcGtr02.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 22_BackingVoxLo01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVoxLo01.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 19_ElecGtr03.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr03.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 14_AcGtr04.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_AcGtr04.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 29_BackingVoxHi03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVoxHi03.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 07_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 07_Tambourine.wav
+        instrument: Tambourine
+  S08:
+    component: ''
+    filename: 11_AcGtr01.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 11_AcGtr01.wav
+        instrument: acoustic guitar
+  S09:
+    component: ''
+    filename: 13_AcGtr03.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_AcGtr03.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 16_AcGtr06.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcGtr06.wav
+        instrument: acoustic guitar
+  S11:
+    component: ''
+    filename: 18_ElecGtr02.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr02.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 20_ElecGtr04.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr04.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 30_BackingVoxHi04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVoxHi04.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 31_BackingVoxHi05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVoxHi05.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 24_BackingVoxLo03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVoxLo03.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 25_BackingVoxLo04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVoxLo04.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 23_BackingVoxLo02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVoxLo02.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 15_AcGtr05.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 15_AcGtr05.wav
+        instrument: acoustic guitar
+  S19:
+    component: ''
+    filename: 10_BassAlternate_Plectrum.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassAlternate_Plectrum.wav
+        instrument: electric bass
+  S20:
+    component: ''
+    filename: 06_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 06_Shaker.wav
+        instrument: Shaker
+  S21:
+    component: ''
+    filename: 17_ElecGtr01.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr01.wav
+        instrument: clean electric guitar
+  S22:
+    component: ''
+    filename: 28_BackingVoxHi02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVoxHi02.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 08_Bongos.wav
+    instrument: Bongos
+    raw:
+      R01:
+        filename: 08_Bongos.wav
+        instrument: Bongos
+  S24:
+    component: ''
+    filename: 09_Bass_Finger.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass_Finger.wav
+        instrument: electric bass
+  S25:
+    component: ''
+    filename: 21_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVox.wav
+        instrument: male singer
+  S26:
+    component: ''
+    filename: 27_BackingVoxHi01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVoxHi01.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 26_BackingVoxLo05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVoxLo05.wav
+        instrument: male singer
+title: TomMcKenzie
+version: '3.0'
+website: ''

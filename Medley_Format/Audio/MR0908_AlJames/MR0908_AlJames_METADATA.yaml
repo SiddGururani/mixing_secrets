@@ -1,0 +1,417 @@
+album: ''
+artist: MR0908
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0908_AlJames_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0908_AlJames_RAW
+stem_dir: MR0908_AlJames_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0908_AlJames_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 15_Tom4.wav
+        instrument: Tom
+      R010:
+        filename: 14_Tom3.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 10_Ride1.wav
+        instrument: Ride
+      R04:
+        filename: 04_Snare3.wav
+        instrument: Snare
+      R05:
+        filename: 12_Tom1.wav
+        instrument: Tom
+      R06:
+        filename: 08_HiHat2.wav
+        instrument: HiHat
+      R07:
+        filename: 09_HiHat3.wav
+        instrument: HiHat
+      R08:
+        filename: 02_Snare1.wav
+        instrument: Snare
+      R09:
+        filename: 18_Cymbal2.wav
+        instrument: Cymbal
+      R11:
+        filename: 07_HiHat1.wav
+        instrument: HiHat
+      R12:
+        filename: 13_Tom2.wav
+        instrument: Tom
+      R13:
+        filename: 17_Cymbal1Reverse.wav
+        instrument: Cymbal
+      R14:
+        filename: 11_Ride2.wav
+        instrument: Ride
+      R15:
+        filename: 03_Snare2.wav
+        instrument: Snare
+      R16:
+        filename: 16_Tom5.wav
+        instrument: Tom
+      R17:
+        filename: 19_Cymbal3.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: MR0908_AlJames_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 20_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MR0908_AlJames_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 36_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 38_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 35_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 37_Synth3.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 43_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox02.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 52_BackingVox11.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 52_BackingVox11.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 56_BackingVox15.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 56_BackingVox15.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 28_ElecGtr3MIDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr3MIDI.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 50_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 50_BackingVox09.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 33_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 33_Strings.wav
+        instrument: Strings
+  S10:
+    component: ''
+    filename: 57_BackingVox16.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 57_BackingVox16.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 62_BackingVox21.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 62_BackingVox21.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 41_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_LeadVoxDT.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 22_Bass.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 22_Bass.wav
+        instrument: Bass
+  S14:
+    component: ''
+    filename: 29_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 47_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 47_BackingVox06.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 32_AcGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 32_AcGtr2.wav
+        instrument: acoustic guitar
+  S17:
+    component: ''
+    filename: 25_SchoolBell.wav
+    instrument: SchoolBell
+    raw:
+      R01:
+        filename: 25_SchoolBell.wav
+        instrument: SchoolBell
+  S18:
+    component: ''
+    filename: 51_BackingVox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 51_BackingVox10.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 46_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox05.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 60_BackingVox19.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 60_BackingVox19.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 55_BackingVox14.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 55_BackingVox14.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 58_BackingVox17.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 58_BackingVox17.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 45_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox04.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 54_BackingVox13.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 54_BackingVox13.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 39_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_LeadVox1.wav
+        instrument: male singer
+  S26:
+    component: ''
+    filename: 30_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S27:
+    component: ''
+    filename: 21_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 21_Tambourine.wav
+        instrument: Tambourine
+  S28:
+    component: ''
+    filename: 31_AcGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 31_AcGtr1.wav
+        instrument: acoustic guitar
+  S29:
+    component: ''
+    filename: 05_Sidestick.wav
+    instrument: Sidestick
+    raw:
+      R01:
+        filename: 05_Sidestick.wav
+        instrument: Sidestick
+  S30:
+    component: ''
+    filename: 48_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 48_BackingVox07.wav
+        instrument: male singer
+  S31:
+    component: ''
+    filename: 24_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 24_Piano2.wav
+        instrument: Piano
+  S32:
+    component: ''
+    filename: 27_ElecGtr2MIDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr2MIDI.wav
+        instrument: distorted electric guitar
+  S33:
+    component: ''
+    filename: 06_Claps.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 06_Claps.wav
+        instrument: Claps
+  S34:
+    component: ''
+    filename: 40_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_LeadVox2.wav
+        instrument: male singer
+  S35:
+    component: ''
+    filename: 26_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr1.wav
+        instrument: clean electric guitar
+  S36:
+    component: ''
+    filename: 53_BackingVox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 53_BackingVox12.wav
+        instrument: male singer
+  S37:
+    component: ''
+    filename: 34_StringsPizz.wav
+    instrument: StringsPizz
+    raw:
+      R01:
+        filename: 34_StringsPizz.wav
+        instrument: StringsPizz
+  S38:
+    component: ''
+    filename: 42_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox01.wav
+        instrument: male singer
+  S39:
+    component: ''
+    filename: 59_BackingVox18.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 59_BackingVox18.wav
+        instrument: male singer
+  S40:
+    component: ''
+    filename: 61_BackingVox20.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 61_BackingVox20.wav
+        instrument: male singer
+  S41:
+    component: ''
+    filename: 23_Piano1Reverse.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 23_Piano1Reverse.wav
+        instrument: Piano
+  S42:
+    component: ''
+    filename: 49_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 49_BackingVox08.wav
+        instrument: male singer
+  S43:
+    component: ''
+    filename: 44_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox03.wav
+        instrument: male singer
+title: AlJames
+version: '3.0'
+website: ''

@@ -1,0 +1,24 @@
+album: ''
+artist: MR1207
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1207_SantiVega_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1207_SantiVega_RAW
+stem_dir: MR1207_SantiVega_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 01_AcGuitar.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 01_AcGuitar.wav
+        instrument: acoustic guitar
+title: SantiVega
+version: '3.0'
+website: ''

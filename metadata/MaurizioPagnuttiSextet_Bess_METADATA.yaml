@@ -1,0 +1,104 @@
+album: ''
+artist: MaurizioPagnuttiSextet
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MaurizioPagnuttiSextet_Bess_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MaurizioPagnuttiSextet_Bess_RAW
+stem_dir: MaurizioPagnuttiSextet_Bess_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MaurizioPagnuttiSextet_Bess_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R03:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        filename: 09_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R08:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R09:
+        filename: 06_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 13_PianoMics2.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 13_PianoMics2.wav
+        instrument: piano
+  S03:
+    component: ''
+    filename: 16_Trumpet.wav
+    instrument: Trumpet
+    raw:
+      R01:
+        filename: 16_Trumpet.wav
+        instrument: Trumpet
+  S04:
+    component: ''
+    filename: 15_Trombone.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 15_Trombone.wav
+        instrument: Trombone
+  S05:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 14_Clarinet.wav
+    instrument: Clarinet
+    raw:
+      R01:
+        filename: 14_Clarinet.wav
+        instrument: Clarinet
+  S07:
+    component: ''
+    filename: 12_PianoMics1.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 12_PianoMics1.wav
+        instrument: piano
+  S08:
+    component: ''
+    filename: 10_BassMic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 10_BassMic.wav
+        instrument: double bass
+title: Bess
+version: '3.0'
+website: ''

@@ -1,0 +1,240 @@
+album: ''
+artist: MR1204
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1204_JokersJacksKings_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1204_JokersJacksKings_RAW
+stem_dir: MR1204_JokersJacksKings_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1204_JokersJacksKings_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 07_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: MR1204_JokersJacksKings_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 27_SynthLead.wav
+        instrument: SynthLead
+      R02:
+        filename: 26_SynthPad.wav
+        instrument: SynthPad
+  S03:
+    component: ''
+    filename: 19_ElecGtr5Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr5Mic1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 20_ElecGtr5Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr5Mic2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 14_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 28_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_LeadVox.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 29_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox1.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 21_ElecGtr6Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr6Mic1.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 10_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassAmp.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 24_ElecGtr7Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr7Mic2.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 18_ElecGtr4Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr4Mic2.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 31_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox3.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 32_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox4.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 33_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox5.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 09_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassDI.wav
+        instrument: electric bass
+  S17:
+    component: ''
+    filename: 12_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 16_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 15_ElecGtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr3Mic1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 22_ElecGtr6Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr6Mic2.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 25_ElecGtr8.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr8.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 13_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 30_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox2.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 17_ElecGtr4Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr4Mic1.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 23_ElecGtr7Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr7Mic1.wav
+        instrument: clean electric guitar
+title: JokersJacksKings
+version: '3.0'
+website: ''

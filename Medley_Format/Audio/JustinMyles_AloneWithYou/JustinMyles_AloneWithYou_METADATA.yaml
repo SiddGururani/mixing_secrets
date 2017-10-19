@@ -1,0 +1,106 @@
+album: ''
+artist: JustinMyles
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JustinMyles_AloneWithYou_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JustinMyles_AloneWithYou_RAW
+stem_dir: JustinMyles_AloneWithYou_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JustinMyles_AloneWithYou_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 07_Tom4.wav
+        instrument: Tom
+      R06:
+        filename: 06_Tom3.wav
+        instrument: Tom
+      R07:
+        filename: 04_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 15_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox2.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 14_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 09_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S08:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 10_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcousticGtr2.wav
+        instrument: acoustic guitar
+title: AloneWithYou
+version: '3.0'
+website: ''

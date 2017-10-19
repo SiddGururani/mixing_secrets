@@ -1,0 +1,114 @@
+album: ''
+artist: Woodfire
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Woodfire_Outer_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Woodfire_Outer_RAW
+stem_dir: Woodfire_Outer_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Woodfire_Outer_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 05_OverheadMono.wav
+        instrument: OverheadMono
+      R05:
+        filename: 06_OverheadStereo.wav
+        instrument: OverheadStereo
+      R06:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R07:
+        filename: 03_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 16_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVoxDT.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 12_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 10_ElecGtr01Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr01Mic2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 13_ElecGtr04Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr04Mic1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 11_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 14_ElecGtr04Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr04Mic2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 09_ElecGtr01Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr01Mic1.wav
+        instrument: distorted electric guitar
+title: Outer
+version: '3.0'
+website: ''

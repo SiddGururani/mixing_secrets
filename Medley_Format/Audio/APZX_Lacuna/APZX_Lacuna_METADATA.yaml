@@ -1,0 +1,170 @@
+album: ''
+artist: APZX
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: APZX_Lacuna_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: APZX_Lacuna_RAW
+stem_dir: APZX_Lacuna_STEMS
+stems:
+  S01:
+    component: ''
+    filename: APZX_Lacuna_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Snare.wav
+        instrument: Snare
+      R010:
+        filename: 14_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 07_Hat2.wav
+        instrument: Hat
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 15_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 09_Hat4.wav
+        instrument: Hat
+      R06:
+        filename: 12_Hat7.wav
+        instrument: Hat
+      R07:
+        filename: 10_Hat5.wav
+        instrument: Hat
+      R08:
+        filename: 08_Hat3.wav
+        instrument: Hat
+      R09:
+        filename: 11_Hat6.wav
+        instrument: Hat
+      R11:
+        filename: 13_Hat8.wav
+        instrument: Hat
+      R12:
+        filename: 06_Hat1.wav
+        instrument: Hat
+  S02:
+    component: ''
+    filename: APZX_Lacuna_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 38_SynthLead3.wav
+        instrument: SynthLead
+      R010:
+        filename: 26_Synth03.wav
+        instrument: Synth
+      R02:
+        filename: 35_Synth12.wav
+        instrument: Synth
+      R03:
+        filename: 36_SynthLead1.wav
+        instrument: SynthLead
+      R04:
+        filename: 34_Synth11.wav
+        instrument: Synth
+      R05:
+        filename: 37_SynthLead2.wav
+        instrument: SynthLead
+      R06:
+        filename: 32_Synth09.wav
+        instrument: Synth
+      R07:
+        filename: 25_Synth02.wav
+        instrument: Synth
+      R08:
+        filename: 27_Synth04.wav
+        instrument: Synth
+      R09:
+        filename: 30_Synth07.wav
+        instrument: Synth
+      R11:
+        filename: 31_Synth08.wav
+        instrument: Synth
+      R12:
+        filename: 28_Synth05.wav
+        instrument: Synth
+      R13:
+        filename: 24_Synth01.wav
+        instrument: Synth
+      R14:
+        filename: 33_Synth10.wav
+        instrument: Synth
+      R15:
+        filename: 29_Synth06.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: APZX_Lacuna_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 21_SFX4.wav
+        instrument: SFX
+      R02:
+        filename: 23_SFX6.wav
+        instrument: SFX
+      R03:
+        filename: 19_SFX2.wav
+        instrument: SFX
+      R04:
+        filename: 18_SFX1.wav
+        instrument: SFX
+      R05:
+        filename: 20_SFX3.wav
+        instrument: SFX
+      R06:
+        filename: 22_SFX5.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 03_RimShot.wav
+    instrument: RimShot
+    raw:
+      R01:
+        filename: 03_RimShot.wav
+        instrument: RimShot
+  S05:
+    component: ''
+    filename: 16_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 16_Bass1.wav
+        instrument: Bass
+  S06:
+    component: ''
+    filename: 02_SubDrop.wav
+    instrument: SubDrop
+    raw:
+      R01:
+        filename: 02_SubDrop.wav
+        instrument: SubDrop
+  S07:
+    component: ''
+    filename: 17_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 17_Bass2.wav
+        instrument: Bass
+  S08:
+    component: ''
+    filename: 05_Clap.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 05_Clap.wav
+        instrument: Clap
+title: Lacuna
+version: '3.0'
+website: ''

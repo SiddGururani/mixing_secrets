@@ -1,0 +1,188 @@
+album: ''
+artist: LittleChicagosFinest
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: LittleChicagosFinest_MyOwn_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LittleChicagosFinest_MyOwn_RAW
+stem_dir: LittleChicagosFinest_MyOwn_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LittleChicagosFinest_MyOwn_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 04_RevCymbal.wav
+        instrument: RevCymbal
+      R03:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 05_Cymbal.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: LittleChicagosFinest_MyOwn_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 10_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 09_Synth1.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 13_LeadVoxVs2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 13_LeadVoxVs2.wav
+        instrument: male rapper
+  S04:
+    component: ''
+    filename: 20_LeadVoxCh1b.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 20_LeadVoxCh1b.wav
+        instrument: male rapper
+  S05:
+    component: ''
+    filename: 15_LeadVoxVs3.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 15_LeadVoxVs3.wav
+        instrument: male rapper
+  S06:
+    component: ''
+    filename: 07_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano1.wav
+        instrument: Piano
+  S07:
+    component: ''
+    filename: 08_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano2.wav
+        instrument: Piano
+  S08:
+    component: ''
+    filename: 21_LeadVoxCh2a.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 21_LeadVoxCh2a.wav
+        instrument: male rapper
+  S09:
+    component: ''
+    filename: 17_LeadVoxVs4.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 17_LeadVoxVs4.wav
+        instrument: male rapper
+  S10:
+    component: ''
+    filename: 22_LeadVoxCh2b.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 22_LeadVoxCh2b.wav
+        instrument: male rapper
+  S11:
+    component: ''
+    filename: 24_LeadVoxCh4.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 24_LeadVoxCh4.wav
+        instrument: male rapper
+  S12:
+    component: ''
+    filename: 18_LeadVoxVs4DT.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 18_LeadVoxVs4DT.wav
+        instrument: male rapper
+  S13:
+    component: ''
+    filename: 11_LeadVoxVs1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 11_LeadVoxVs1.wav
+        instrument: male rapper
+  S14:
+    component: ''
+    filename: 16_LeadVoxVs3DT.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 16_LeadVoxVs3DT.wav
+        instrument: male rapper
+  S15:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: Bass synth
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: Bass synth
+  S16:
+    component: ''
+    filename: 23_LeadVoxCh3.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 23_LeadVoxCh3.wav
+        instrument: male rapper
+  S17:
+    component: ''
+    filename: 14_LeadVoxVs2DT.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 14_LeadVoxVs2DT.wav
+        instrument: male rapper
+  S18:
+    component: ''
+    filename: 12_LeadVoxVs1DT.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 12_LeadVoxVs1DT.wav
+        instrument: male rapper
+  S19:
+    component: ''
+    filename: 19_LeadVoxCh1a.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 19_LeadVoxCh1a.wav
+        instrument: male rapper
+  S20:
+    component: ''
+    filename: 02_Clap.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 02_Clap.wav
+        instrument: Clap
+title: MyOwn
+version: '3.0'
+website: ''

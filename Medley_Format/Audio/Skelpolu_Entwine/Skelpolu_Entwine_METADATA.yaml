@@ -1,0 +1,75 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_Entwine_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_Entwine_RAW
+stem_dir: Skelpolu_Entwine_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_Entwine_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 04_Cymbal.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: Skelpolu_Entwine_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 12_Synth6.wav
+        instrument: Synth
+      R02:
+        filename: 10_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 13_Synth6FX.wav
+        instrument: Synth
+      R04:
+        filename: 08_Synth2.wav
+        instrument: Synth
+      R05:
+        filename: 09_Synth3.wav
+        instrument: Synth
+      R06:
+        filename: 11_Synth5.wav
+        instrument: Synth
+      R07:
+        filename: 07_Synth1.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: bass synth
+  S04:
+    component: ''
+    filename: 06_SubBass.wav
+    instrument: SubBass
+    raw:
+      R01:
+        filename: 06_SubBass.wav
+        instrument: SubBass
+title: Entwine
+version: '3.0'
+website: ''

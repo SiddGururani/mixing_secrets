@@ -1,0 +1,233 @@
+album: ''
+artist: Pepelpovetru
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Pepelpovetru_Tochka_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Pepelpovetru_Tochka_RAW
+stem_dir: Pepelpovetru_Tochka_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Pepelpovetru_Tochka_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 06_Drumkit_SnareUp.wav
+        instrument: Drumkit_SnareUp
+      R010:
+        filename: 10_Drumkit_Cymbal.wav
+        instrument: Drumkit_Cymbal
+      R02:
+        filename: 12_Drumkit_Room.wav
+        instrument: Drumkit_Room
+      R03:
+        filename: 07_Drumkit_SnareDown.wav
+        instrument: Drumkit_SnareDown
+      R04:
+        filename: 09_Drumkit_Tom2.wav
+        instrument: Drumkit_Tom
+      R05:
+        filename: 05_Drumkit_Kick.wav
+        instrument: Drumkit_Kick
+      R06:
+        filename: 04_CymbalSFX.wav
+        instrument: CymbalSFX
+      R07:
+        filename: 11_Drumkit_Overheads.wav
+        instrument: Drumkit_Overheads
+      R08:
+        filename: 08_Drumkit_Tom1.wav
+        instrument: Drumkit_Tom
+      R09:
+        filename: 01_KickSample.wav
+        instrument: KickSample
+      R11:
+        filename: 02_SnareSample.wav
+        instrument: SnareSample
+  S02:
+    component: ''
+    filename: Pepelpovetru_Tochka_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 26_SfX.wav
+        instrument: SfX
+      R02:
+        filename: 04_CymbalSFX.wav
+        instrument: CymbalSFX
+  S03:
+    component: ''
+    filename: 03_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 03_Percussion.wav
+        instrument: Percussion
+  S04:
+    component: ''
+    filename: 31_BackingVox1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 31_BackingVox1.wav
+        instrument: male rapper
+  S05:
+    component: ''
+    filename: 30_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_LeadVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 25_Horns.wav
+    instrument: Horns
+    raw:
+      R01:
+        filename: 25_Horns.wav
+        instrument: Horns
+  S07:
+    component: ''
+    filename: 27_LeadVox1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 27_LeadVox1.wav
+        instrument: male rapper
+  S08:
+    component: ''
+    filename: 22_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 22_Piano.wav
+        instrument: Piano
+  S09:
+    component: ''
+    filename: 20_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 23_Sample.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 23_Sample.wav
+        instrument: Sample
+  S11:
+    component: ''
+    filename: 13_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 13_Percussion.wav
+        instrument: Percussion
+  S12:
+    component: ''
+    filename: 16_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 19_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 18_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 15_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 15_Bass2.wav
+        instrument: bass synth
+  S16:
+    component: ''
+    filename: 24_Choir.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 24_Choir.wav
+        instrument: Choir
+  S17:
+    component: ''
+    filename: 32_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox2.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 14_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 14_Bass1.wav
+        instrument: bass synth
+  S19:
+    component: ''
+    filename: 33_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox3.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 21_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 28_LeadVox1DT.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 28_LeadVox1DT.wav
+        instrument: male rapper
+  S22:
+    component: ''
+    filename: 17_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2.wav
+        instrument: clean electric guitar
+  S23:
+    component: ''
+    filename: 29_LeadVox1FX.wav
+    instrument: male rapper FX
+    raw:
+      R01:
+        filename: 29_LeadVox1FX.wav
+        instrument: male rapper FX
+title: Tochka
+version: '3.0'
+website: ''

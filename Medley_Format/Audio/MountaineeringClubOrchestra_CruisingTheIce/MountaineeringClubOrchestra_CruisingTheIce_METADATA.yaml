@@ -1,0 +1,163 @@
+album: ''
+artist: MountaineeringClubOrchestra
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MountaineeringClubOrchestra_CruisingTheIce_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MountaineeringClubOrchestra_CruisingTheIce_RAW
+stem_dir: MountaineeringClubOrchestra_CruisingTheIce_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 15_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 03_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 04_SFX2.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 19_CelloMIDI.wav
+    instrument: Cello samples
+    raw:
+      R01:
+        filename: 19_CelloMIDI.wav
+        instrument: Cello samples
+  S06:
+    component: ''
+    filename: 14_ElecGtr8.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr8.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_ViolaMIDI.wav
+    instrument: Viola samples
+    raw:
+      R01:
+        filename: 18_ViolaMIDI.wav
+        instrument: Viola samples
+  S08:
+    component: ''
+    filename: 08_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 16_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 16_Strings.wav
+        instrument: Strings
+  S10:
+    component: ''
+    filename: 05_BassMIDI.wav
+    instrument: Bass samples
+    raw:
+      R01:
+        filename: 05_BassMIDI.wav
+        instrument: Bass samples
+  S11:
+    component: ''
+    filename: 17_ViolinMIDI.wav
+    instrument: Violin samples
+    raw:
+      R01:
+        filename: 17_ViolinMIDI.wav
+        instrument: Violin samples
+  S12:
+    component: ''
+    filename: 07_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr1.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 13_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 10_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 09_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 11_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 12_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano.wav
+        instrument: Piano
+title: CruisingTheIce
+version: '3.0'
+website: ''

@@ -1,0 +1,40 @@
+album: ''
+artist: JoannaWard
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: JoannaWard_Away_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JoannaWard_Away_RAW
+stem_dir: JoannaWard_Away_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 03_CloseMicRight.wav
+    instrument: ['cello', 'flute', 'oboe', 'violin']
+    raw:
+      R01:
+        filename: 03_CloseMicRight.wav
+        instrument: CloseMicRight
+  S02:
+    component: ''
+    filename: 01_MainXYPair.wav
+    instrument: ['cello', 'flute', 'oboe', 'violin']
+    raw:
+      R01:
+        filename: 01_MainXYPair.wav
+        instrument: MainXYPair
+  S03:
+    component: ''
+    filename: 02_CloseMicLeft.wav
+    instrument: ['cello', 'flute', 'oboe', 'violin']
+    raw:
+      R01:
+        filename: 02_CloseMicLeft.wav
+        instrument: CloseMicLeft
+title: Away
+version: '3.0'
+website: ''

@@ -1,0 +1,73 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Spektakulatius_JedenWinter_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_JedenWinter_RAW
+stem_dir: Spektakulatius_JedenWinter_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_JedenWinter_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 04_Toms.wav
+        instrument: Toms
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 06_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_BassDI.wav
+        instrument: double bass
+  S03:
+    component: ''
+    filename: 05_BassMic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic.wav
+        instrument: double bass
+  S04:
+    component: ''
+    filename: 07_Sax.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 07_Sax.wav
+        instrument: Saxophone
+  S05:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 08_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano.wav
+        instrument: Piano
+title: JedenWinter
+version: '3.0'
+website: ''

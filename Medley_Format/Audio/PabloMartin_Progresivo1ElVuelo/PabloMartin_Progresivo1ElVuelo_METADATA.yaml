@@ -1,0 +1,353 @@
+album: ''
+artist: PabloMartin
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: PabloMartin_Progresivo1ElVuelo_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: PabloMartin_Progresivo1ElVuelo_RAW
+stem_dir: PabloMartin_Progresivo1ElVuelo_STEMS
+stems:
+  S01:
+    component: ''
+    filename: PabloMartin_Progresivo1ElVuelo_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 15_Tom8.wav
+        instrument: Tom
+      R010:
+        filename: 13_Tom6.wav
+        instrument: Tom
+      R02:
+        filename: 10_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 03_Snare2a.wav
+        instrument: Snare
+      R04:
+        filename: 02_Snare1.wav
+        instrument: Snare
+      R05:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R06:
+        filename: 22_Cymbal4.wav
+        instrument: Cymbal
+      R07:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 11_Tom4.wav
+        instrument: Tom
+      R09:
+        filename: 07_Snare2e.wav
+        instrument: Snare
+      R11:
+        filename: 05_Snare2c.wav
+        instrument: Snare
+      R12:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R13:
+        filename: 21_Cymbal3.wav
+        instrument: Cymbal
+      R14:
+        filename: 14_Tom7.wav
+        instrument: Tom
+      R15:
+        filename: 12_Tom5.wav
+        instrument: Tom
+      R16:
+        filename: 04_Snare2b.wav
+        instrument: Snare
+      R17:
+        filename: 23_Overheads.wav
+        instrument: Overheads
+      R18:
+        filename: 17_Ride1.wav
+        instrument: Ride
+      R19:
+        filename: 24_DrumsRoom.wav
+        instrument: DrumsRoom
+      R20:
+        filename: 19_Cymbal1.wav
+        instrument: Cymbal
+      R21:
+        filename: 16_HiHat.wav
+        instrument: HiHat
+      R22:
+        filename: 06_Snare2d.wav
+        instrument: Snare
+      R23:
+        filename: 20_Cymbal2.wav
+        instrument: Cymbal
+  S02:
+    component: ''
+    filename: PabloMartin_Progresivo1ElVuelo_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 56_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 57_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 58_Synth3.wav
+        instrument: Synth
+      R04:
+        filename: 59_Synth4.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: PabloMartin_Progresivo1ElVuelo_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 27_SFX2.wav
+        instrument: SFX
+      R02:
+        filename: 28_SFX3.wav
+        instrument: SFX
+      R03:
+        filename: 26_SFX1.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 47_ElecGtr13.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 47_ElecGtr13.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 33_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 35_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 36_ElecGtr05DT1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr05DT1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 18_Rde2.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 18_Rde2.wav
+        instrument: Ride
+  S09:
+    component: ''
+    filename: 38_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 43_ElecGtr09.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 43_ElecGtr09.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 41_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 41_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 25_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 25_Tambourine.wav
+        instrument: Tambourine
+  S13:
+    component: ''
+    filename: 37_ElecGtr05DT2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr05DT2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 48_ElecGtr14.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 48_ElecGtr14.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 51_Strings1.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 51_Strings1.wav
+        instrument: Strings
+  S16:
+    component: ''
+    filename: 32_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 52_Strings3.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 52_Strings3.wav
+        instrument: Strings
+  S18:
+    component: ''
+    filename: 49_OboeBassoon.wav
+    instrument: [Oboe, Bassoon]
+    raw:
+      R01:
+        filename: 49_OboeBassoon.wav
+        instrument: [Oboe, Bassoon]
+  S19:
+    component: ''
+    filename: 40_ElecGtr06DT2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 40_ElecGtr06DT2.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 29_Bass1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 29_Bass1.wav
+        instrument: electric bass
+  S21:
+    component: ''
+    filename: 39_ElecGtr06DT1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr06DT1.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 50_Tuba.wav
+    instrument: Tuba
+    raw:
+      R01:
+        filename: 50_Tuba.wav
+        instrument: Tuba
+  S23:
+    component: ''
+    filename: 55_Marimba.wav
+    instrument: Marimba
+    raw:
+      R01:
+        filename: 55_Marimba.wav
+        instrument: Marimba
+  S24:
+    component: ''
+    filename: 45_ElecGtr11.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 45_ElecGtr11.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 44_ElecGtr10.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 44_ElecGtr10.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 34_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S27:
+    component: ''
+    filename: 42_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 42_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 53_Strings2.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 53_Strings2.wav
+        instrument: Strings
+  S29:
+    component: ''
+    filename: 54_Bells.wav
+    instrument: Bells
+    raw:
+      R01:
+        filename: 54_Bells.wav
+        instrument: Bells
+  S30:
+    component: ''
+    filename: 30_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 30_Bass2.wav
+        instrument: electric bass
+  S31:
+    component: ''
+    filename: 46_ElecGtr12.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 46_ElecGtr12.wav
+        instrument: distorted electric guitar
+  S32:
+    component: ''
+    filename: 31_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr01.wav
+        instrument: distorted electric guitar
+title: Progresivo1ElVuelo
+version: '3.0'
+website: ''

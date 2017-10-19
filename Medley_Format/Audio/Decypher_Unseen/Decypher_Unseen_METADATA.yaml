@@ -1,0 +1,208 @@
+album: ''
+artist: Decypher
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Decypher_Unseen_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Decypher_Unseen_RAW
+stem_dir: Decypher_Unseen_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Decypher_Unseen_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 09_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 04_SnareTrigger.wav
+        instrument: SnareTrigger
+      R07:
+        filename: 08_Tom4.wav
+        instrument: Tom
+      R08:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R09:
+        filename: 02_KickTrigger.wav
+        instrument: KickTrigger
+  S02:
+    component: ''
+    filename: 29_LeadVoxDT.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 29_LeadVoxDT.wav
+        instrument: male screamer
+  S03:
+    component: ''
+    filename: 14_Bass2Mic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 14_Bass2Mic1.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 23_ElecGtr02DIMic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr02DIMic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 17_ElecGtr01Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr01Mic1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 10_Bass1DI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass1DI.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 21_ElecGtr01DTMic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr01DTMic2.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 13_Bass2DI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 13_Bass2DI.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 24_ElecGtr02DIMic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr02DIMic2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 25_ElecGtr02DTDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr02DTDI.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 15_Bass2Mic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_Bass2Mic2.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 20_ElecGtr01DTMic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr01DTMic1.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 18_ElecGtr01Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr01Mic2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 16_ElecGtr01DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr01DI.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 28_LeadVox.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 28_LeadVox.wav
+        instrument: male screamer
+  S16:
+    component: ''
+    filename: 27_ElecGtr02DTMic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr02DTMic2.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 19_ElecGtr01DTDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr01DTDI.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 12_Bass1Mic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_Bass1Mic2.wav
+        instrument: electric bass
+  S19:
+    component: ''
+    filename: 26_ElecGtr02DTMic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr02DTMic1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 11_Bass1Mic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_Bass1Mic1.wav
+        instrument: electric bass
+  S21:
+    component: ''
+    filename: 22_ElecGtr02DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr02DI.wav
+        instrument: distorted electric guitar
+title: Unseen
+version: '3.0'
+website: ''

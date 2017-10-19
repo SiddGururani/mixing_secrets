@@ -1,0 +1,96 @@
+album: ''
+artist: AnnaBlanton
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AnnaBlanton_Rachel_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AnnaBlanton_Rachel_RAW
+stem_dir: AnnaBlanton_Rachel_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: female singer
+  S02:
+    component: ''
+    filename: 05_UkeleleDI.wav
+    instrument: UkeleleDI
+    raw:
+      R01:
+        filename: 05_UkeleleDI.wav
+        instrument: UkeleleDI
+  S03:
+    component: ''
+    filename: 04_UkeleleMic.wav
+    instrument: UkeleleMic
+    raw:
+      R01:
+        filename: 04_UkeleleMic.wav
+        instrument: UkeleleMic
+  S04:
+    component: ''
+    filename: 03_Bass2.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 03_Bass2.wav
+        instrument: double bass
+  S05:
+    component: ''
+    filename: 07_Viola.wav
+    instrument: Viola
+    raw:
+      R01:
+        filename: 07_Viola.wav
+        instrument: Viola
+  S06:
+    component: ''
+    filename: 10_BackingVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 10_BackingVox.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 06_Violin.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 06_Violin.wav
+        instrument: Violin
+  S08:
+    component: ''
+    filename: 08_Cello.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 08_Cello.wav
+        instrument: Cello
+  S09:
+    component: ''
+    filename: 02_Bass1.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 02_Bass1.wav
+        instrument: double bass
+  S10:
+    component: ''
+    filename: 01_Congas.wav
+    instrument: Congas
+    raw:
+      R01:
+        filename: 01_Congas.wav
+        instrument: Congas
+title: Rachel
+version: '3.0'
+website: ''

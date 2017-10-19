@@ -1,0 +1,62 @@
+album: ''
+artist: BigStoneCulture
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: BigStoneCulture_FragileThoughts_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BigStoneCulture_FragileThoughts_RAW
+stem_dir: BigStoneCulture_FragileThoughts_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BigStoneCulture_FragileThoughts_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_Overhead.wav
+        instrument: Overhead
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 07_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 07_LeadVox.wav
+        instrument: female singer
+  S03:
+    component: ''
+    filename: 04_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 04_BassDI.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 05_Gtr.wav
+    instrument: Gtr
+    raw:
+      R01:
+        filename: 05_Gtr.wav
+        instrument: Gtr
+  S05:
+    component: ''
+    filename: 06_Percussion.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 06_Percussion.wav
+        instrument: Percussion
+title: FragileThoughts
+version: '3.0'
+website: ''

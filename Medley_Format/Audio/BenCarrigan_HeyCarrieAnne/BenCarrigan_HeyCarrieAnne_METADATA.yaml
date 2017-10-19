@@ -1,0 +1,203 @@
+album: ''
+artist: BenCarrigan
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BenCarrigan_HeyCarrieAnne_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BenCarrigan_HeyCarrieAnne_RAW
+stem_dir: BenCarrigan_HeyCarrieAnne_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BenCarrigan_HeyCarrieAnne_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Cymbal.wav
+        instrument: Cymbal
+      R02:
+        filename: 01_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 13_ViolinSamples.wav
+    instrument: ViolinSamples
+    raw:
+      R01:
+        filename: 13_ViolinSamples.wav
+        instrument: ViolinSamples
+  S03:
+    component: ''
+    filename: 21_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVox.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 14_ViolaSamples.wav
+    instrument: ViolaSamples
+    raw:
+      R01:
+        filename: 14_ViolaSamples.wav
+        instrument: ViolaSamples
+  S05:
+    component: ''
+    filename: 20_Harmonica.wav
+    instrument: Harmonica
+    raw:
+      R01:
+        filename: 20_Harmonica.wav
+        instrument: Harmonica
+  S06:
+    component: ''
+    filename: 15_CelloSamples.wav
+    instrument: CelloSamples
+    raw:
+      R01:
+        filename: 15_CelloSamples.wav
+        instrument: CelloSamples
+  S07:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 06_Piano.wav
+        instrument: piano
+  S08:
+    component: ''
+    filename: 07_Glockenspiel.wav
+    instrument: Glockenspiel
+    raw:
+      R01:
+        filename: 07_Glockenspiel.wav
+        instrument: Glockenspiel
+  S09:
+    component: ''
+    filename: 09_Violin2.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 09_Violin2.wav
+        instrument: Violin
+  S10:
+    component: ''
+    filename: 04_Timp.wav
+    instrument: Timp
+    raw:
+      R01:
+        filename: 04_Timp.wav
+        instrument: Timp
+  S11:
+    component: ''
+    filename: 18_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 16_DoubleBassSamples1.wav
+    instrument: DoubleBassSamples
+    raw:
+      R01:
+        filename: 16_DoubleBassSamples1.wav
+        instrument: DoubleBassSamples
+  S13:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox1.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 17_DoubleBassSamples2.wav
+    instrument: DoubleBassSamples
+    raw:
+      R01:
+        filename: 17_DoubleBassSamples2.wav
+        instrument: DoubleBassSamples
+  S15:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox2.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 11_Cello.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 11_Cello.wav
+        instrument: Cello
+  S17:
+    component: ''
+    filename: 24_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox3.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 12_StringsMix.wav
+    instrument: StringsMix
+    raw:
+      R01:
+        filename: 12_StringsMix.wav
+        instrument: StringsMix
+  S19:
+    component: ''
+    filename: 19_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr.wav
+        instrument: clean electric guitar
+  S20:
+    component: ''
+    filename: 10_Viola.wav
+    instrument: Viola
+    raw:
+      R01:
+        filename: 10_Viola.wav
+        instrument: Viola
+  S21:
+    component: ''
+    filename: 03_Tambo.wav
+    instrument: Tambo
+    raw:
+      R01:
+        filename: 03_Tambo.wav
+        instrument: Tambo
+  S22:
+    component: ''
+    filename: 08_Violin1.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 08_Violin1.wav
+        instrument: Violin
+  S23:
+    component: ''
+    filename: 02_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 02_Shaker.wav
+        instrument: Shaker
+title: HeyCarrieAnne
+version: '3.0'
+website: ''

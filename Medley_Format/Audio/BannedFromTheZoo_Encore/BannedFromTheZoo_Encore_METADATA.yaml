@@ -1,0 +1,109 @@
+album: ''
+artist: BannedFromTheZoo
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: BannedFromTheZoo_Encore_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BannedFromTheZoo_Encore_RAW
+stem_dir: BannedFromTheZoo_Encore_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BannedFromTheZoo_Encore_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        filename: 07_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 10_RoomLoFi.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 10_RoomLoFi.wav
+        instrument: RoomLoFi
+  S03:
+    component: ''
+    filename: 14_Ukelele.wav
+    instrument: Ukelele
+    raw:
+      R01:
+        filename: 14_Ukelele.wav
+        instrument: Ukelele
+  S04:
+    component: ''
+    filename: 09_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 09_Room.wav
+        instrument: Main System
+  S05:
+    component: ''
+    filename: 12_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_BassAmp.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassDI.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 13_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 16_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: male singer
+title: Encore
+version: '3.0'
+website: ''

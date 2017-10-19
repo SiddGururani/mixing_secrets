@@ -1,0 +1,180 @@
+album: ''
+artist: HeadwoundHarry
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: HeadwoundHarry_XXXV_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: HeadwoundHarry_XXXV_RAW
+stem_dir: HeadwoundHarry_XXXV_STEMS
+stems:
+  S01:
+    component: ''
+    filename: HeadwoundHarry_XXXV_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 03_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: ElecGtr
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: ElecGtr
+  S03:
+    component: ''
+    filename: 12_Vox02.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 12_Vox02.wav
+        instrument: male screamer
+  S04:
+    component: ''
+    filename: 18_Vox08.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 18_Vox08.wav
+        instrument: male screamer
+  S05:
+    component: ''
+    filename: 23_Vox13.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 23_Vox13.wav
+        instrument: male screamer
+  S06:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: ElecGtr
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: ElecGtr
+  S07:
+    component: ''
+    filename: 21_Vox11.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 21_Vox11.wav
+        instrument: male screamer
+  S08:
+    component: ''
+    filename: 15_Vox05.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 15_Vox05.wav
+        instrument: male screamer
+  S09:
+    component: ''
+    filename: 22_Vox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_Vox12.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 16_Vox06.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 16_Vox06.wav
+        instrument: male screamer
+  S11:
+    component: ''
+    filename: 17_Vox07.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 17_Vox07.wav
+        instrument: male screamer
+  S12:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: ElecGtr
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: ElecGtr
+  S13:
+    component: ''
+    filename: 19_Vox09.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 19_Vox09.wav
+        instrument: male screamer
+  S14:
+    component: ''
+    filename: 06_MonoRoom.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 06_MonoRoom.wav
+        instrument: Main System
+  S15:
+    component: ''
+    filename: 20_Vox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_Vox10.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 13_Vox03.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 13_Vox03.wav
+        instrument: male screamer
+  S17:
+    component: ''
+    filename: 11_Vox01.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 11_Vox01.wav
+        instrument: male screamer
+  S18:
+    component: ''
+    filename: 07_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_BassDI.wav
+        instrument: electric bass
+  S19:
+    component: ''
+    filename: 14_Vox04.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 14_Vox04.wav
+        instrument: male screamer
+title: XXXV
+version: '3.0'
+website: ''

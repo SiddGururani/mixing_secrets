@@ -1,0 +1,154 @@
+album: ''
+artist: TheBlackCrown
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TheBlackCrown_Flames_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TheBlackCrown_Flames_RAW
+stem_dir: TheBlackCrown_Flames_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TheBlackCrown_Flames_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 11_Tom3.wav
+        instrument: Tom
+      R010:
+        filename: 15_DrumsRoomMono.wav
+        instrument: DrumsRoomMono
+      R02:
+        filename: 14_DrumsRoomStereo.wav
+        instrument: DrumsRoomStereo
+      R03:
+        filename: 12_Tom4.wav
+        instrument: Tom
+      R04:
+        filename: 06_Snare2Up.wav
+        instrument: Snare
+      R05:
+        filename: 02_KickInMic2.wav
+        instrument: KickInMic
+      R06:
+        filename: 03_KickOut.wav
+        instrument: KickOut
+      R07:
+        filename: 10_Tom2.wav
+        instrument: Tom
+      R08:
+        filename: 09_Tom1.wav
+        instrument: Tom
+      R09:
+        filename: 08_HiHat.wav
+        instrument: HiHat
+      R11:
+        filename: 04_Snare1Up.wav
+        instrument: Snare
+      R12:
+        filename: 05_Snare1Down.wav
+        instrument: Snare
+      R13:
+        filename: 13_Overheads.wav
+        instrument: Overheads
+      R14:
+        filename: 01_KickInMic1.wav
+        instrument: KickInMic
+      R15:
+        filename: 07_Snare2Room.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 19_ElecGtr1DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr1DI.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 17_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_BassAmp.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 18_ElecGtr1Amp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr1Amp.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 26_LeadVoxDT2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_LeadVoxDT2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 24_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_LeadVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 16_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 16_BassDI.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 20_ElecGtr1DTAmp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr1DTAmp.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 22_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 25_LeadVoxDT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_LeadVoxDT1.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 21_ElecGtr1DTDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr1DTDI.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 23_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr3.wav
+        instrument: distorted electric guitar
+title: Flames
+version: '3.0'
+website: ''

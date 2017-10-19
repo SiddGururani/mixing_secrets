@@ -1,0 +1,150 @@
+album: ''
+artist: MR1101
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1101_JohnnyLokke_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1101_JohnnyLokke_RAW
+stem_dir: MR1101_JohnnyLokke_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1101_JohnnyLokke_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 11_Tom3.wav
+        instrument: Tom
+      R010:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 08_Cymbal.wav
+        instrument: Cymbal
+      R03:
+        filename: 04_DrumsRoom1.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 07_Ride.wav
+        instrument: Ride
+      R06:
+        filename: 10_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R08:
+        filename: 06_DrumsRoom3.wav
+        instrument: DrumsRoom
+      R09:
+        filename: 09_Tom1.wav
+        instrument: Tom
+      R11:
+        filename: 05_DrumsRoom2.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: 13_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 17_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 14_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 19_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 20_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox2.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 16_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 23_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox5.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 18_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 21_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox3.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 15_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 12_Bass.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 12_Bass.wav
+        instrument: Bass
+  S13:
+    component: ''
+    filename: 22_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox4.wav
+        instrument: male singer
+title: JohnnyLokke
+version: '3.0'
+website: ''

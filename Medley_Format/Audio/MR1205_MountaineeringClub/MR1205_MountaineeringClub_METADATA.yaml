@@ -1,0 +1,343 @@
+album: ''
+artist: MR1205
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1205_MountaineeringClub_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1205_MountaineeringClub_RAW
+stem_dir: MR1205_MountaineeringClub_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1205_MountaineeringClub_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R02:
+        filename: 01_Loop1.wav
+        instrument: Loop
+      R03:
+        filename: 02_Loop2.wav
+        instrument: Loop
+  S02:
+    component: ''
+    filename: MR1205_MountaineeringClub_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 39_Synth3.wav
+        instrument: Synth
+      R02:
+        filename: 38_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 37_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 05_BassSynth.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: MR1205_MountaineeringClub_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 16_PianoRevSFX.wav
+        instrument: PianoRevSFX
+  S04:
+    component: ''
+    filename: 30_ElecGtr07b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr07b.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 40_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 32_ElecGtr08b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr08b.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 31_ElecGtr08a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr08a.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 11_Piano3b.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 11_Piano3b.wav
+        instrument: Piano
+  S09:
+    component: ''
+    filename: 33_ElecGtr09a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr09a.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 12_Piano4a.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 12_Piano4a.wav
+        instrument: Piano
+  S11:
+    component: ''
+    filename: 04_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 04_Bass.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 13_Piano4b.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 13_Piano4b.wav
+        instrument: Piano
+  S13:
+    component: ''
+    filename: 43_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox3.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 20_ElecGtr02b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr02b.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 19_ElecGtr02a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr02a.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 34_ElecGtr09b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr09b.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 35_ElecGtr10a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr10a.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 36_ElecGtr10b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr10b.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 26_ElecGtr05b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr05b.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 24_ElecGtr04b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr04b.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 44_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox4.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 15_Piano5b.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 15_Piano5b.wav
+        instrument: Piano
+  S23:
+    component: ''
+    filename: 09_Piano2b.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 09_Piano2b.wav
+        instrument: Piano
+  S24:
+    component: ''
+    filename: 41_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVox1.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 17_ElecGtr01a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr01a.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 06_Piano1a.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano1a.wav
+        instrument: Piano
+  S27:
+    component: ''
+    filename: 14_Piano5a.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 14_Piano5a.wav
+        instrument: Piano
+  S28:
+    component: ''
+    filename: 10_Piano3a.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 10_Piano3a.wav
+        instrument: Piano
+  S29:
+    component: ''
+    filename: 23_ElecGtr04a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr04a.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 42_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox2.wav
+        instrument: male singer
+  S31:
+    component: ''
+    filename: 28_ElecGtr06b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr06b.wav
+        instrument: distorted electric guitar
+  S32:
+    component: ''
+    filename: 22_ElecGtr03b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr03b.wav
+        instrument: distorted electric guitar
+  S33:
+    component: ''
+    filename: 08_Piano2a.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano2a.wav
+        instrument: Piano
+  S34:
+    component: ''
+    filename: 25_ElecGtr05a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr05a.wav
+        instrument: distorted electric guitar
+  S35:
+    component: ''
+    filename: 07_Piano1b.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano1b.wav
+        instrument: Piano
+  S36:
+    component: ''
+    filename: 21_ElecGtr03a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr03a.wav
+        instrument: distorted electric guitar
+  S37:
+    component: ''
+    filename: 18_ElecGtr01b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr01b.wav
+        instrument: distorted electric guitar
+  S38:
+    component: ''
+    filename: 27_ElecGtr06a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr06a.wav
+        instrument: distorted electric guitar
+  S39:
+    component: ''
+    filename: 29_ElecGtr07a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr07a.wav
+        instrument: distorted electric guitar
+title: MountaineeringClub
+version: '3.0'
+website: ''

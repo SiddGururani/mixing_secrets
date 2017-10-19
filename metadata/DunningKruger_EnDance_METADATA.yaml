@@ -1,0 +1,191 @@
+album: ''
+artist: DunningKruger
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: DunningKruger_EnDance_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DunningKruger_EnDance_RAW
+stem_dir: DunningKruger_EnDance_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DunningKruger_EnDance_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_TomHi.wav
+        instrument: TomHi
+      R03:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 04_TomLo.wav
+        instrument: TomLo
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: DunningKruger_EnDance_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 18_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 19_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 15_Gtr6aDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_Gtr6aDI.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 07_Claps.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 07_Claps.wav
+        instrument: Claps
+  S05:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: BackingVox
+    raw:
+      R01:
+        filename: 23_BackingVox2.wav
+        instrument: BackingVox
+  S06:
+    component: ''
+    filename: 25_BackingVox4.wav
+    instrument: BackingVox
+    raw:
+      R01:
+        filename: 25_BackingVox4.wav
+        instrument: BackingVox
+  S07:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: BackingVox
+    raw:
+      R01:
+        filename: 22_BackingVox1.wav
+        instrument: BackingVox
+  S08:
+    component: ''
+    filename: 16_Gtr6bAmp1.wav
+    instrument: Gtr
+    raw:
+      R01:
+        filename: 16_Gtr6bAmp1.wav
+        instrument: Gtr
+  S09:
+    component: ''
+    filename: 12_Gtr4aDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_Gtr4aDI.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 11_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr3.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 17_Gtr6cAmp2.wav
+    instrument: Gtr
+    raw:
+      R01:
+        filename: 17_Gtr6cAmp2.wav
+        instrument: Gtr
+  S13:
+    component: ''
+    filename: 06_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 06_Room.wav
+        instrument: Main System
+  S14:
+    component: ''
+    filename: 09_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_Gtr1.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 13_Gtr4bAmp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_Gtr4bAmp.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 21_LeadVoxDT.wav
+    instrument: LeadVoxDT
+    raw:
+      R01:
+        filename: 21_LeadVoxDT.wav
+        instrument: LeadVoxDT
+  S17:
+    component: ''
+    filename: 14_Gtr5DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_Gtr5DI.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: LeadVox
+    raw:
+      R01:
+        filename: 20_LeadVox.wav
+        instrument: LeadVox
+  S19:
+    component: ''
+    filename: 24_BackingVox3.wav
+    instrument: BackingVox
+    raw:
+      R01:
+        filename: 24_BackingVox3.wav
+        instrument: BackingVox
+  S20:
+    component: ''
+    filename: 10_Gtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr2.wav
+        instrument: clean electric guitar
+title: EnDance
+version: '3.0'
+website: ''

@@ -1,0 +1,56 @@
+album: ''
+artist: AsamClassicalSoloists
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AsamClassicalSoloists_JesuJoy_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AsamClassicalSoloists_JesuJoy_RAW
+stem_dir: AsamClassicalSoloists_JesuJoy_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AsamClassicalSoloists_JesuJoy_STEM_drums.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_Pair_OverheadORTF.wav
+        instrument: Pair_OverheadORTF
+  S02:
+    component: ''
+    filename: 02_Pair_FrontMS.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_Pair_FrontMS.wav
+        instrument: Main System
+  S03:
+    component: ''
+    filename: 05_Spot_Vocals.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 05_Spot_Vocals.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 04_Spot_HighStrings.wav
+    instrument: Spot_HighStrings
+    raw:
+      R01:
+        filename: 04_Spot_HighStrings.wav
+        instrument: Spot_HighStrings
+  S05:
+    component: ''
+    filename: 03_Spot_LowStrings.wav
+    instrument: Spot_LowStrings
+    raw:
+      R01:
+        filename: 03_Spot_LowStrings.wav
+        instrument: Spot_LowStrings
+title: JesuJoy
+version: '3.0'
+website: ''

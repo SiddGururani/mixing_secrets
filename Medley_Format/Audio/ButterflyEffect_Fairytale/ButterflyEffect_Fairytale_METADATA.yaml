@@ -1,0 +1,154 @@
+album: ''
+artist: ButterflyEffect
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: ButterflyEffect_Fairytale_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ButterflyEffect_Fairytale_RAW
+stem_dir: ButterflyEffect_Fairytale_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ButterflyEffect_Fairytale_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R06:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: ButterflyEffect_Fairytale_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 14_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 15_SFX2.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 20_BackingVox4Dist.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox4Dist.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 12_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox2.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 21_BackingVox5Dist.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox5Dist.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 17_BackingVox1Wet.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_BackingVox1Wet.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 19_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox3.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 13_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr6.wav
+        instrument: distorted electric guitar
+title: Fairytale
+version: '3.0'
+website: ''

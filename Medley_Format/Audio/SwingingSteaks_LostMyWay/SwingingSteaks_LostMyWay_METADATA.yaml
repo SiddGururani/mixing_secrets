@@ -1,0 +1,199 @@
+album: ''
+artist: SwingingSteaks
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: SwingingSteaks_LostMyWay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SwingingSteaks_LostMyWay_RAW
+stem_dir: SwingingSteaks_LostMyWay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SwingingSteaks_LostMyWay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R06:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 14_AcousticGtr.wav
+    instrument: AcousticGtr
+    raw:
+      R01:
+        filename: 14_AcousticGtr.wav
+        instrument: AcousticGtr
+  S03:
+    component: ''
+    filename: 08_Bass1DI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass1DI.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 25_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox7.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 12_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 22_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox4.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 13_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 09_Bass1Amp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass1Amp.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 16_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 16_Piano1.wav
+        instrument: Piano
+  S10:
+    component: ''
+    filename: 23_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox5.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 21_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox3.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 17_Piano2Reverb.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 17_Piano2Reverb.wav
+        instrument: Piano
+  S13:
+    component: ''
+    filename: 11_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 18_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 10_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass2.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 05_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 05_Room.wav
+        instrument: Main System
+  S17:
+    component: ''
+    filename: 15_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 15_Hammond.wav
+        instrument: Hammond
+  S18:
+    component: ''
+    filename: 26_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox8.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 24_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox6.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 19_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox1.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 20_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox2.wav
+        instrument: male singer
+title: LostMyWay
+version: '3.0'
+website: ''

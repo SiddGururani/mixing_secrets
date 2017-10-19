@@ -1,0 +1,180 @@
+album: ''
+artist: Actions
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Actions_OneMinuteSmile_MIX.mp3
+origin: Mixing Secrets
+producer: ''
+raw_dir: Actions_OneMinuteSmile_RAW
+stem_dir: Actions_OneMinuteSmile_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Actions_OneMinuteSmile_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_KickTrigger.wav
+        instrument: KickTrigger
+      R04:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 22_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox6.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 11_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 06_Tambourine.wav
+    instrument: tambourine
+    raw:
+      R01:
+        filename: 06_Tambourine.wav
+        instrument: tambourine
+  S06:
+    component: ''
+    filename: 15_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox2.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 14_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 14_LeadVox1.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 20_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox4.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 18_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_BackingVox2.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 16_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVoxDT.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 21_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox5.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 13_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 23_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox7.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 12_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 17_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox1.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 19_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox3.wav
+        instrument: male singer
+title: OneMinuteSmile
+version: '3.0'
+website: ''

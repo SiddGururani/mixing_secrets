@@ -1,0 +1,109 @@
+album: ''
+artist: JamesMay
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JamesMay_IfYouSay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JamesMay_IfYouSay_RAW
+stem_dir: JamesMay_IfYouSay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JamesMay_IfYouSay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Drums1Snare.wav
+        instrument: Drums
+      R02:
+        filename: 05_Drums1Tom1.wav
+        instrument: Drums
+      R03:
+        filename: 07_Drums2Conga.wav
+        instrument: Drums
+      R04:
+        filename: 03_Drums1HiHat.wav
+        instrument: Drums
+      R05:
+        filename: 06_Drums1Tom2.wav
+        instrument: Drums
+      R06:
+        filename: 01_Drums1Kick.wav
+        instrument: Drums
+      R07:
+        filename: 04_Drums1Overheads.wav
+        instrument: Drums
+      R08:
+        filename: 08_Drums2Overheads.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: 15_Clarinet2.wav
+    instrument: Clarinet
+    raw:
+      R01:
+        filename: 15_Clarinet2.wav
+        instrument: Clarinet
+  S03:
+    component: ''
+    filename: 11_AcGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 11_AcGtrDI.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 12_AcGtrMic.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 12_AcGtrMic.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 09_BassMic1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassMic1.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 10_BassMic2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassMic2.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 13_Accordion.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 13_Accordion.wav
+        instrument: Accordion
+  S08:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 14_Clarinet1.wav
+    instrument: Clarinet
+    raw:
+      R01:
+        filename: 14_Clarinet1.wav
+        instrument: Clarinet
+title: IfYouSay
+version: '3.0'
+website: ''

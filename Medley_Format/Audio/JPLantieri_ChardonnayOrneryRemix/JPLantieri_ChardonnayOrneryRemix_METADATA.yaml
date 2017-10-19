@@ -1,0 +1,138 @@
+album: ''
+artist: JPLantieri
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JPLantieri_ChardonnayOrneryRemix_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JPLantieri_ChardonnayOrneryRemix_RAW
+stem_dir: JPLantieri_ChardonnayOrneryRemix_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JPLantieri_ChardonnayOrneryRemix_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_KickTop.wav
+        instrument: KickTop
+      R02:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_KickMain.wav
+        instrument: KickMain
+      R04:
+        filename: 05_HiHat2.wav
+        instrument: HiHat
+      R05:
+        filename: 04_HiHat1.wav
+        instrument: HiHat
+      R06:
+        filename: 06_Crash.wav
+        instrument: Crash
+  S02:
+    component: ''
+    filename: JPLantieri_ChardonnayOrneryRemix_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 15_Synth05.wav
+        instrument: Synth
+      R010:
+        filename: 19_Synth09.wav
+        instrument: Synth
+      R02:
+        filename: 17_Synth07.wav
+        instrument: Synth
+      R03:
+        filename: 18_Synth08.wav
+        instrument: Synth
+      R04:
+        filename: 13_Synth03.wav
+        instrument: Synth
+      R05:
+        filename: 23_Synth13.wav
+        instrument: Synth
+      R06:
+        filename: 16_Synth06.wav
+        instrument: Synth
+      R07:
+        filename: 20_Synth10.wav
+        instrument: Synth
+      R08:
+        filename: 12_Synth02.wav
+        instrument: Synth
+      R09:
+        filename: 21_Synth11.wav
+        instrument: Synth
+      R11:
+        filename: 11_Synth01.wav
+        instrument: Synth
+      R12:
+        filename: 24_Synth14.wav
+        instrument: Synth
+      R13:
+        filename: 14_Synth04.wav
+        instrument: Synth
+      R14:
+        filename: 22_Synth12.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: JPLantieri_ChardonnayOrneryRemix_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 27_SFX3.wav
+        instrument: SFX
+      R02:
+        filename: 26_SFX2.wav
+        instrument: SFX
+      R03:
+        filename: 25_SFX1.wav
+        instrument: SFX
+      R04:
+        filename: 29_SFX5.wav
+        instrument: SFX
+      R05:
+        filename: 28_SFX4.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 09_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 09_Percussion3.wav
+        instrument: Percussion
+  S05:
+    component: ''
+    filename: 07_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 07_Percussion1.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: bass synth
+  S07:
+    component: ''
+    filename: 08_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 08_Percussion2.wav
+        instrument: Percussion
+title: ChardonnayOrneryRemix
+version: '3.0'
+website: ''

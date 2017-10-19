@@ -1,0 +1,119 @@
+album: ''
+artist: JamesMay
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JamesMay_ElizaJane_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JamesMay_ElizaJane_RAW
+stem_dir: JamesMay_ElizaJane_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JamesMay_ElizaJane_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 04_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 13_HammondMic2Lo.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 13_HammondMic2Lo.wav
+        instrument: Hammond
+  S03:
+    component: ''
+    filename: 09_AcousticGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 09_AcousticGtr2.wav
+        instrument: acoustic guitar
+  S04:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 12_HammondMic1Hi.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 12_HammondMic1Hi.wav
+        instrument: Hammond
+  S06:
+    component: ''
+    filename: 08_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 10_Mandolin1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 10_Mandolin1.wav
+        instrument: Mandolin
+  S08:
+    component: ''
+    filename: 11_Mandolin2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 11_Mandolin2.wav
+        instrument: Mandolin
+  S09:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 16_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 14_PedalSteel.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_PedalSteel.wav
+        instrument: clean electric guitar
+title: ElizaJane
+version: '3.0'
+website: ''

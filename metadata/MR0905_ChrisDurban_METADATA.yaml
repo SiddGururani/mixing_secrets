@@ -1,0 +1,218 @@
+album: ''
+artist: MR0905
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0905_ChrisDurban_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0905_ChrisDurban_RAW
+stem_dir: MR0905_ChrisDurban_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0905_ChrisDurban_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R02:
+        filename: 08_HiHatClosed2.wav
+        instrument: HiHatClosed
+      R03:
+        filename: 05_HiHatOpen.wav
+        instrument: HiHatOpen
+      R04:
+        filename: 06_HiHatPedal.wav
+        instrument: HiHatPedal
+      R05:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R06:
+        filename: 07_HiHatClosed1.wav
+        instrument: HiHatClosed
+      R07:
+        filename: 03_Snare1.wav
+        instrument: Snare
+      R08:
+        filename: 04_Snare2.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MR0905_ChrisDurban_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 11_SynthLoop2.wav
+        instrument: SynthLoop
+      R02:
+        filename: 10_SynthLoop.wav
+        instrument: SynthLoop
+  S03:
+    component: ''
+    filename: MR0905_ChrisDurban_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 11_SynthLoop2.wav
+        instrument: SynthLoop
+      R02:
+        filename: 10_SynthLoop.wav
+        instrument: SynthLoop
+      R03:
+        filename: 12_SynthLead1.wav
+        instrument: SynthLead
+      R04:
+        filename: 15_SynthSFX2.wav
+        instrument: SynthSFX
+      R05:
+        filename: 14_SynthSFX1.wav
+        instrument: SynthSFX
+      R06:
+        filename: 13_SynthLead2.wav
+        instrument: SynthLead
+  S04:
+    component: ''
+    filename: MR0905_ChrisDurban_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 14_SynthSFX1.wav
+        instrument: SynthSFX
+      R02:
+        filename: 15_SynthSFX2.wav
+        instrument: SynthSFX
+  S05:
+    component: ''
+    filename: 17_ElecGtr1bFX.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 17_ElecGtr1bFX.wav
+        instrument: fx/processed sound
+  S06:
+    component: ''
+    filename: 18_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 28_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_BackingVox5.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 22_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_LeadVox2.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 09_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 09_Bass.wav
+        instrument: bass synth
+  S10:
+    component: ''
+    filename: 30_BackingVox7.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox7.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 21_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_LeadVox1.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 29_BackingVox6.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_BackingVox6.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 26_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox3.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 24_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox1.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 16_ElecGtr1a.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr1a.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 25_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox2.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 23_LeadVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_LeadVox3.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 19_ElecGtr3aDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr3aDI.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 20_ElecGtr3bAmp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr3bAmp.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 27_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox4.wav
+        instrument: female singer
+title: ChrisDurban
+version: '3.0'
+website: ''

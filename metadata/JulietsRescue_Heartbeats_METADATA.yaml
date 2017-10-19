@@ -1,0 +1,261 @@
+album: ''
+artist: JulietsRescue
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JulietsRescue_Heartbeats_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JulietsRescue_Heartbeats_RAW
+stem_dir: JulietsRescue_Heartbeats_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JulietsRescue_Heartbeats_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 14_Cymbals.wav
+        instrument: Cymbals
+      R010:
+        filename: 15_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 08_Snare2Squash.wav
+        instrument: Snare
+      R03:
+        filename: 09_Hat1.wav
+        instrument: Hat
+      R04:
+        filename: 13_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 06_Snare2Over.wav
+        instrument: Snare
+      R06:
+        filename: 12_Tom1.wav
+        instrument: Tom
+      R07:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R08:
+        filename: 11_Hat3.wav
+        instrument: Hat
+      R09:
+        filename: 03_Kick2Out.wav
+        instrument: Kick
+      R11:
+        filename: 05_Snare1.wav
+        instrument: Snare
+      R12:
+        filename: 07_Snare2Under.wav
+        instrument: Snare
+      R13:
+        filename: 02_Kick2In.wav
+        instrument: Kick
+      R14:
+        filename: 04_Kick2Sub.wav
+        instrument: Kick
+      R15:
+        filename: 10_Hat2.wav
+        instrument: Hat
+      R16:
+        filename: 16_DrumsRoom.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: JulietsRescue_Heartbeats_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 33_Synth01.wav
+        instrument: Synth
+      R02:
+        filename: 37_Synth05.wav
+        instrument: Synth
+      R03:
+        filename: 34_Synth02.wav
+        instrument: Synth
+      R04:
+        filename: 41_Synth09.wav
+        instrument: Synth
+      R05:
+        filename: 40_Synth08.wav
+        instrument: Synth
+      R06:
+        filename: 39_Synth07.wav
+        instrument: Synth
+      R07:
+        filename: 38_Synth06.wav
+        instrument: Synth
+      R08:
+        filename: 36_Synth04.wav
+        instrument: Synth
+      R09:
+        filename: 35_Synth03.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 22_ElecGtr02.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr02.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 32_ElecGtr12.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr12.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 43_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 43_LeadVox2.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 21_ElecGtr01.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr01.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 27_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 29_ElecGtr09.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr09.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 24_ElecGtr04.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr04.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 28_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 44_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 44_BackingVox1.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 20_BassSlideAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 20_BassSlideAmp.wav
+        instrument: electric bass
+  S13:
+    component: ''
+    filename: 17_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_BassDI.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 26_ElecGtr06.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr06.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 25_ElecGtr05.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr05.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 19_BassSlideDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 19_BassSlideDI.wav
+        instrument: electric bass
+  S17:
+    component: ''
+    filename: 31_ElecGtr11.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr11.wav
+        instrument: clean electric guitar
+  S18:
+    component: ''
+    filename: 42_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 42_LeadVox1.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 30_ElecGtr10.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr10.wav
+        instrument: clean electric guitar
+  S20:
+    component: ''
+    filename: 18_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 18_BassAmp.wav
+        instrument: electric bass
+  S21:
+    component: ''
+    filename: 23_ElecGtr03.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr03.wav
+        instrument: clean electric guitar
+  S22:
+    component: ''
+    filename: 45_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 45_BackingVox2.wav
+        instrument: female singer
+title: Heartbeats
+version: '3.0'
+website: ''

@@ -1,0 +1,292 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_Widow_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_Widow_RAW
+stem_dir: Triviul_Widow_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_Widow_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Loop1Drums.wav
+        instrument: Loop
+      R02:
+        filename: 04_Cymbals.wav
+        instrument: Cymbals
+  S02:
+    component: ''
+    filename: Triviul_Widow_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop1Drums.wav
+        instrument: Loop
+      R02:
+        filename: 03_Loop3Percussion.wav
+        instrument: Loop
+      R03:
+        filename: 02_Loop2Percussion.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Triviul_Widow_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 11_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 12_Synth2.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 33_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 33_BackingVox3.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 14_Mellotron2.wav
+    instrument: Mellotron
+    raw:
+      R01:
+        filename: 14_Mellotron2.wav
+        instrument: Mellotron
+  S06:
+    component: ''
+    filename: 25_LeadVox3DT4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_LeadVox3DT4.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 22_LeadVox3DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_LeadVox3DT1.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 20_LeadVox2DT4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_LeadVox2DT4.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 26_LeadVox4AdLibs.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_LeadVox4AdLibs.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 13_Mellotron1.wav
+    instrument: Mellotron
+    raw:
+      R01:
+        filename: 13_Mellotron1.wav
+        instrument: Mellotron
+  S11:
+    component: ''
+    filename: 08_Sample2Harp.wav
+    instrument: harp Sample
+    raw:
+      R01:
+        filename: 08_Sample2Harp.wav
+        instrument: harp Sample
+  S12:
+    component: ''
+    filename: 21_LeadVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_LeadVox3.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 09_Clav1.wav
+    instrument: Clavinet
+    raw:
+      R01:
+        filename: 09_Clav1.wav
+        instrument: Clavinet
+  S14:
+    component: ''
+    filename: 32_BackingVox2DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox2DT2.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 23_LeadVox3DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_LeadVox3DT2.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 18_LeadVox2DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_LeadVox2DT2.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 35_BackingVox3DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 35_BackingVox3DT2.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 06_Bass2.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 06_Bass2.wav
+        instrument: Bass
+  S19:
+    component: ''
+    filename: 24_LeadVox3DT3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_LeadVox3DT3.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 17_LeadVox2DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_LeadVox2DT1.wav
+        instrument: female singer
+  S21:
+    component: ''
+    filename: 05_Bass1.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 05_Bass1.wav
+        instrument: Bass
+  S22:
+    component: ''
+    filename: 16_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVox2.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 34_BackingVox3DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 34_BackingVox3DT1.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 29_BackingVox1DT2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_BackingVox1DT2.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 30_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox2.wav
+        instrument: female singer
+  S26:
+    component: ''
+    filename: 07_Sample1Vox.wav
+    instrument: female singer sample
+    raw:
+      R01:
+        filename: 07_Sample1Vox.wav
+        instrument: female singer sample
+  S27:
+    component: ''
+    filename: 36_BackingVox3DT3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 36_BackingVox3DT3.wav
+        instrument: female singer
+  S28:
+    component: ''
+    filename: 15_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox1.wav
+        instrument: female singer
+  S29:
+    component: ''
+    filename: 28_BackingVox1DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_BackingVox1DT1.wav
+        instrument: female singer
+  S30:
+    component: ''
+    filename: 31_BackingVox2DT1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox2DT1.wav
+        instrument: female singer
+  S31:
+    component: ''
+    filename: 19_LeadVox2DT3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_LeadVox2DT3.wav
+        instrument: female singer
+  S32:
+    component: ''
+    filename: 10_Clav2.wav
+    instrument: Clav
+    raw:
+      R01:
+        filename: 10_Clav2.wav
+        instrument: Clav
+  S33:
+    component: ''
+    filename: 27_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox1.wav
+        instrument: female singer
+title: Widow
+version: '3.0'
+website: ''

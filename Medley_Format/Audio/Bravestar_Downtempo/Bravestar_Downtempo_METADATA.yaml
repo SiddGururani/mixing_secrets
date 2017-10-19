@@ -1,0 +1,149 @@
+album: ''
+artist: Bravestar
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Bravestar_Downtempo_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Bravestar_Downtempo_RAW
+stem_dir: Bravestar_Downtempo_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Bravestar_Downtempo_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_KickLayer1.wav
+        instrument: KickLayer
+      R02:
+        filename: 03_KickLayer2.wav
+        instrument: KickLayer
+      R03:
+        filename: 05_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 07_Cymbal.wav
+        instrument: Cymbal
+      R05:
+        filename: 04_KickLayer3.wav
+        instrument: KickLayer
+      R06:
+        filename: 06_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: Bravestar_Downtempo_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_MainLoop.wav
+        instrument: MainLoop
+  S03:
+    component: ''
+    filename: Bravestar_Downtempo_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 12_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: Bravestar_Downtempo_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 17_SFX02.wav
+        instrument: SFX
+      R010:
+        filename: 24_SFX09.wav
+        instrument: SFX
+      R02:
+        filename: 22_SFX07.wav
+        instrument: SFX
+      R03:
+        filename: 25_SFX10.wav
+        instrument: SFX
+      R04:
+        filename: 16_SFX01.wav
+        instrument: SFX
+      R05:
+        filename: 26_SFX11.wav
+        instrument: SFX
+      R06:
+        filename: 20_SFX05.wav
+        instrument: SFX
+      R07:
+        filename: 23_SFX08.wav
+        instrument: SFX
+      R08:
+        filename: 19_SFX04.wav
+        instrument: SFX
+      R09:
+        filename: 21_SFX06.wav
+        instrument: SFX
+      R11:
+        filename: 18_SFX03.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 09_MetalHit.wav
+    instrument: MetalHit
+    raw:
+      R01:
+        filename: 09_MetalHit.wav
+        instrument: MetalHit
+  S06:
+    component: ''
+    filename: 10_Timpani.wav
+    instrument: Timpani
+    raw:
+      R01:
+        filename: 10_Timpani.wav
+        instrument: Timpani
+  S07:
+    component: ''
+    filename: 13_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 13_Strings.wav
+        instrument: Strings
+  S08:
+    component: ''
+    filename: 08_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker.wav
+        instrument: Shaker
+  S09:
+    component: ''
+    filename: 15_Harp.wav
+    instrument: Harp
+    raw:
+      R01:
+        filename: 15_Harp.wav
+        instrument: Harp
+  S10:
+    component: ''
+    filename: 14_Choir.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 14_Choir.wav
+        instrument: Choir
+  S11:
+    component: ''
+    filename: 11_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 11_Bass.wav
+        instrument: bass synth
+title: Downtempo
+version: '3.0'
+website: ''

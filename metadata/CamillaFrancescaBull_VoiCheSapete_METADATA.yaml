@@ -1,0 +1,64 @@
+album: ''
+artist: CamillaFrancescaBull
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: CamillaFrancescaBull_VoiCheSapete_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: CamillaFrancescaBull_VoiCheSapete_RAW
+stem_dir: CamillaFrancescaBull_VoiCheSapete_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 06_VoxSpot4_U67.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 06_VoxSpot4_U67.wav
+        instrument: female singer
+  S02:
+    component: ''
+    filename: 01_MainPair.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_MainPair.wav
+        instrument: Main System
+  S03:
+    component: ''
+    filename: 04_VoxSpot2_R102.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 04_VoxSpot2_R102.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 05_VoxSpot3_U47.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 05_VoxSpot3_U47.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 02_PianoSpot.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 02_PianoSpot.wav
+        instrument: piano
+  S06:
+    component: ''
+    filename: 03_VoxSpot1_V4U.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 03_VoxSpot1_V4U.wav
+        instrument: female singer
+title: VoiCheSapete
+version: '3.0'
+website: ''

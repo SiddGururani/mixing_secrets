@@ -1,0 +1,342 @@
+album: ''
+artist: Giselle
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Giselle_You_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Giselle_You_RAW
+stem_dir: Giselle_You_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Giselle_You_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 15_CymbalRoll2.wav
+        instrument: CymbalRoll
+      R02:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R03:
+        filename: 14_CymbalRoll1.wav
+        instrument: CymbalRoll
+      R04:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R05:
+        filename: 13_Cymbal.wav
+        instrument: Cymbal
+      R06:
+        filename: 16_CymbalRoll3.wav
+        instrument: CymbalRoll
+      R07:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R08:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: Giselle_You_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 05_Loop1.wav
+        instrument: Loop
+      R010:
+        filename: 28_SynthLoop4.wav
+        instrument: SynthLoop
+      R02:
+        filename: 07_Loop3.wav
+        instrument: Loop
+      R03:
+        filename: 25_SynthLoop1.wav
+        instrument: SynthLoop
+      R04:
+        filename: 31_SynthLoop7.wav
+        instrument: SynthLoop
+      R05:
+        filename: 29_SynthLoop5.wav
+        instrument: SynthLoop
+      R06:
+        filename: 26_SynthLoop2.wav
+        instrument: SynthLoop
+      R07:
+        filename: 08_Loop4.wav
+        instrument: Loop
+      R08:
+        filename: 27_SynthLoop3.wav
+        instrument: SynthLoop
+      R09:
+        filename: 30_SynthLoop6.wav
+        instrument: SynthLoop
+      R11:
+        filename: 06_Loop2.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Giselle_You_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 34_Synth01.wav
+        instrument: Synth
+      R010:
+        filename: 30_SynthLoop6.wav
+        instrument: SynthLoop
+      R02:
+        filename: 47_Synth13.wav
+        instrument: Synth
+      R03:
+        filename: 25_SynthLoop1.wav
+        instrument: SynthLoop
+      R04:
+        filename: 26_SynthLoop2.wav
+        instrument: SynthLoop
+      R05:
+        filename: 45_Synth11.wav
+        instrument: Synth
+      R06:
+        filename: 37_Synth04.wav
+        instrument: Synth
+      R07:
+        filename: 41_Synth07.wav
+        instrument: Synth
+      R08:
+        filename: 35_Synth02.wav
+        instrument: Synth
+      R09:
+        filename: 38_Synth05.wav
+        instrument: Synth
+      R11:
+        filename: 46_Synth12.wav
+        instrument: Synth
+      R12:
+        filename: 28_SynthLoop4.wav
+        instrument: SynthLoop
+      R13:
+        filename: 48_Synth14.wav
+        instrument: Synth
+      R14:
+        filename: 42_Synth08.wav
+        instrument: Synth
+      R15:
+        filename: 43_Synth09.wav
+        instrument: Synth
+      R16:
+        filename: 31_SynthLoop7.wav
+        instrument: SynthLoop
+      R17:
+        filename: 29_SynthLoop5.wav
+        instrument: SynthLoop
+      R18:
+        filename: 36_Synth03.wav
+        instrument: Synth
+      R19:
+        filename: 44_Synth10.wav
+        instrument: Synth
+      R20:
+        filename: 40_Synth06Dry.wav
+        instrument: Synth
+      R21:
+        filename: 39_Synth06Wet.wav
+        instrument: Synth
+      R22:
+        filename: 27_SynthLoop3.wav
+        instrument: SynthLoop
+  S04:
+    component: ''
+    filename: Giselle_You_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 56_SFXVox.wav
+        instrument: SFXVox
+      R02:
+        filename: 59_SFXVox.wav
+        instrument: SFXVox
+      R03:
+        filename: 60_SFXVox.wav
+        instrument: SFXVox
+      R04:
+        filename: 57_SFXVox.wav
+        instrument: SFXVox
+      R05:
+        filename: 58_SFXVox.wav
+        instrument: SFXVox
+  S05:
+    component: ''
+    filename: 19_VinylNoise1.wav
+    instrument: VinylNoise
+    raw:
+      R01:
+        filename: 19_VinylNoise1.wav
+        instrument: VinylNoise
+  S06:
+    component: ''
+    filename: 33_PianoWet.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 33_PianoWet.wav
+        instrument: piano
+  S07:
+    component: ''
+    filename: 22_TubularBells.wav
+    instrument: TubularBells
+    raw:
+      R01:
+        filename: 22_TubularBells.wav
+        instrument: TubularBells
+  S08:
+    component: ''
+    filename: 12_Transition2.wav
+    instrument: Transition
+    raw:
+      R01:
+        filename: 12_Transition2.wav
+        instrument: Transition
+  S09:
+    component: ''
+    filename: 21_VinylNoise3.wav
+    instrument: VinylNoise
+    raw:
+      R01:
+        filename: 21_VinylNoise3.wav
+        instrument: VinylNoise
+  S10:
+    component: ''
+    filename: 17_GongRoll1.wav
+    instrument: GongRoll
+    raw:
+      R01:
+        filename: 17_GongRoll1.wav
+        instrument: GongRoll
+  S11:
+    component: ''
+    filename: 54_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 54_LeadVox.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 24_Kalimba.wav
+    instrument: Kalimba
+    raw:
+      R01:
+        filename: 24_Kalimba.wav
+        instrument: Kalimba
+  S13:
+    component: ''
+    filename: 55_BackingVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 55_BackingVox.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 53_Strings05Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 53_Strings05Bass.wav
+        instrument: double bass
+  S15:
+    component: ''
+    filename: 49_Strings01Violin1.wav
+    instrument: violin
+    raw:
+      R01:
+        filename: 49_Strings01Violin1.wav
+        instrument: violin
+  S16:
+    component: ''
+    filename: 50_Srtings02Violin2.wav
+    instrument: violin
+    raw:
+      R01:
+        filename: 50_Srtings02Violin2.wav
+        instrument: violin
+  S17:
+    component: ''
+    filename: 09_Boom.wav
+    instrument: Boom
+    raw:
+      R01:
+        filename: 09_Boom.wav
+        instrument: Boom
+  S18:
+    component: ''
+    filename: 23_HandBells.wav
+    instrument: HandBells
+    raw:
+      R01:
+        filename: 23_HandBells.wav
+        instrument: HandBells
+  S19:
+    component: ''
+    filename: 51_Strings03Viola.wav
+    instrument: viola
+    raw:
+      R01:
+        filename: 51_Strings03Viola.wav
+        instrument: viola
+  S20:
+    component: ''
+    filename: 18_GongRoll2.wav
+    instrument: GongRoll
+    raw:
+      R01:
+        filename: 18_GongRoll2.wav
+        instrument: GongRoll
+  S21:
+    component: ''
+    filename: 20_VinylNoise2.wav
+    instrument: VinylNoise
+    raw:
+      R01:
+        filename: 20_VinylNoise2.wav
+        instrument: VinylNoise
+  S22:
+    component: ''
+    filename: 32_PianoDry.wav
+    instrument: PianoDry
+    raw:
+      R01:
+        filename: 32_PianoDry.wav
+        instrument: PianoDry
+  S23:
+    component: ''
+    filename: 52_Strings04Cello.wav
+    instrument: cello
+    raw:
+      R01:
+        filename: 52_Strings04Cello.wav
+        instrument: cello
+  S24:
+    component: ''
+    filename: 10_ElecNoise.wav
+    instrument: ElecNoise
+    raw:
+      R01:
+        filename: 10_ElecNoise.wav
+        instrument: ElecNoise
+  S25:
+    component: ''
+    filename: 11_Transition1.wav
+    instrument: Transition
+    raw:
+      R01:
+        filename: 11_Transition1.wav
+        instrument: Transition
+title: You
+version: '3.0'
+website: ''

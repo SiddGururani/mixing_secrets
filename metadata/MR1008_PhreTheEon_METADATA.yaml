@@ -1,0 +1,156 @@
+album: ''
+artist: MR1008
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1008_PhreTheEon_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1008_PhreTheEon_RAW
+stem_dir: MR1008_PhreTheEon_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1008_PhreTheEon_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_Ride.wav
+        instrument: Ride
+      R010:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R02:
+        filename: 09_Crash1.wav
+        instrument: Crash
+      R03:
+        filename: 04_SnareUp2.wav
+        instrument: SnareUp
+      R04:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R05:
+        filename: 11_Tom1.wav
+        instrument: Tom
+      R06:
+        filename: 05_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 12_Tom2.wav
+        instrument: Tom
+      R09:
+        filename: 06_HiHat.wav
+        instrument: HiHat
+      R11:
+        filename: 13_Tom3.wav
+        instrument: Tom
+      R12:
+        filename: 03_SnareUp1.wav
+        instrument: SnareUp
+      R13:
+        filename: 10_Crash2.wav
+        instrument: Crash
+  S02:
+    component: ''
+    filename: 22_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 21_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 24_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_LeadVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 14_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 14_BassDI.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 17_AcGtrMicHi.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 17_AcGtrMicHi.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 20_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 25_LeadVoxHarm.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_LeadVoxHarm.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 16_AcGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcGtrDI.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 15_BassCab.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_BassCab.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 19_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 18_AcGtrMicLo.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 18_AcGtrMicLo.wav
+        instrument: acoustic guitar
+  S13:
+    component: ''
+    filename: 23_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr5.wav
+        instrument: distorted electric guitar
+title: PhreTheEon
+version: '3.0'
+website: ''

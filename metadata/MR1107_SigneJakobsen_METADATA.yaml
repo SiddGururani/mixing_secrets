@@ -1,0 +1,266 @@
+album: ''
+artist: MR1107
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1107_SigneJakobsen_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1107_SigneJakobsen_RAW
+stem_dir: MR1107_SigneJakobsen_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1107_SigneJakobsen_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        filename: 04_Hihat.wav
+        instrument: Hihat
+      R04:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R05:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R06:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 14_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 32_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox3.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 16_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 20_ElecGtr10.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr10.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 30_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox1.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 15_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 12_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 24_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 24_Piano2.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 31_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox2.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 22_MIDIElecGtr2.wav
+    instrument: distorted electric guitar samples
+    raw:
+      R01:
+        filename: 22_MIDIElecGtr2.wav
+        instrument: distorted electric guitar samples
+  S14:
+    component: ''
+    filename: 08_Shaker1.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker1.wav
+        instrument: Shaker
+  S15:
+    component: ''
+    filename: 17_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 27_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_LeadVox1.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 33_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 33_BackingVox4.wav
+        instrument: female singer
+  S18:
+    component: ''
+    filename: 19_ElecGtr09.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr09.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 35_BackingVox6.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 35_BackingVox6.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 25_StringPad.wav
+    instrument: StringPad
+    raw:
+      R01:
+        filename: 25_StringPad.wav
+        instrument: StringPad
+  S21:
+    component: ''
+    filename: 21_MIDIElecGtr1.wav
+    instrument: distorted electric guitar samples
+    raw:
+      R01:
+        filename: 21_MIDIElecGtr1.wav
+        instrument: distorted electric guitar samples
+  S22:
+    component: ''
+    filename: 09_Shaker2.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 09_Shaker2.wav
+        instrument: Shaker
+  S23:
+    component: ''
+    filename: 26_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 26_Organ.wav
+        instrument: Organ
+  S24:
+    component: ''
+    filename: 28_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_LeadVox2.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 18_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 34_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 34_BackingVox5.wav
+        instrument: female singer
+  S27:
+    component: ''
+    filename: 23_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 23_Piano1.wav
+        instrument: Piano
+  S28:
+    component: ''
+    filename: 29_LeadVox2DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_LeadVox2DT.wav
+        instrument: female singer
+  S29:
+    component: ''
+    filename: 13_ElecGtr03.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr03.wav
+        instrument: clean electric guitar
+title: SigneJakobsen
+version: '3.0'
+website: ''

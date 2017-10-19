@@ -1,0 +1,455 @@
+album: ''
+artist: WessMeetsWest
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: WessMeetsWest_64Bristol_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: WessMeetsWest_64Bristol_RAW
+stem_dir: WessMeetsWest_64Bristol_STEMS
+stems:
+  S01:
+    component: ''
+    filename: WessMeetsWest_64Bristol_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_Drumkit1_Tom2.wav
+        instrument: Drumkit_Tom
+      R010:
+        filename: 10_Drumkit1_RoomMono1.wav
+        instrument: Drumkit_RoomMono
+      R02:
+        filename: 12_Drumkit2_SFX.wav
+        instrument: Drumkit_SFX
+      R03:
+        filename: 14_Drumkit2_Far.wav
+        instrument: Drumkit_Far
+      R04:
+        filename: 06_Drumkit1_Tom1.wav
+        instrument: Drumkit_Tom
+      R05:
+        filename: 04_Drumkit1_SnareDown.wav
+        instrument: Drumkit_SnareDown
+      R06:
+        filename: 03_Drumkit1_SnareUp.wav
+        instrument: Drumkit_SnareUp
+      R07:
+        filename: 11_Drumkit1_RoomMono2.wav
+        instrument: Drumkit_RoomMono
+      R08:
+        filename: 16_Sticks2.wav
+        instrument: Sticks
+      R09:
+        filename: 15_Sticks1.wav
+        instrument: Sticks
+      R11:
+        filename: 09_Drumkit1_RoomStereo.wav
+        instrument: Drumkit_RoomStereo
+      R12:
+        filename: 01_Drumkit1_KickIn.wav
+        instrument: Drumkit_KickIn
+      R13:
+        filename: 05_Drumkit1_HiHat.wav
+        instrument: Drumkit_HiHat
+      R14:
+        filename: 02_Drumkit1_KickSub.wav
+        instrument: Drumkit_KickSub
+      R15:
+        filename: 08_Drumkit1_Overheads.wav
+        instrument: Drumkit_Overheads
+      R16:
+        filename: 13_Drumkit2_Close.wav
+        instrument: Drumkit_Close
+  S02:
+    component: ''
+    filename: WessMeetsWest_64Bristol_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 12_Drumkit2_SFX.wav
+        instrument: Drumkit_SFX
+      R010:
+        filename: 63_SFX3.wav
+        instrument: SFX
+      R02:
+        filename: 56_ElecGtrSFX05Mic2.wav
+        instrument: distorted electric guitar
+      R03:
+        filename: 51_ElecGtrSFX01.wav
+        instrument: distorted electric guitar
+      R04:
+        filename: 64_SFX4Dry.wav
+        instrument: SFX
+      R05:
+        filename: 57_ElecGtrSFX06Mic1.wav
+        instrument: distorted electric guitar
+      R06:
+        filename: 52_ElecGtrSFX02.wav
+        instrument: distorted electric guitar
+      R07:
+        filename: 55_ElecGtrSFX05Mic1.wav
+        instrument: distorted electric guitar
+      R08:
+        filename: 53_ElecGtrSFX03.wav
+        instrument: distorted electric guitar
+      R09:
+        filename: 66_SFX5.wav
+        instrument: SFX
+      R11:
+        filename: 65_SFX4Wet.wav
+        instrument: SFX
+      R12:
+        filename: 62_SFX2.wav
+        instrument: SFX
+      R13:
+        filename: 61_SFX1.wav
+        instrument: SFX
+      R14:
+        filename: 58_ElecGtrSFX06Mic2.wav
+        instrument: distorted electric guitar
+      R15:
+        filename: 54_ElecGtrSFX04.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 47_ElecGtr19Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 47_ElecGtr19Mic2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 37_ElecGtr12Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr12Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 39_ElecGtr13.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr13.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 41_ElecGtr15Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 41_ElecGtr15Mic1.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 22_ElecGtr02Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr02Mic2.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 69_Vox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 69_Vox3.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 35_ElecGtr11Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr11Mic1.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 21_ElecGtr02Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr02Mic1.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 46_ElecGtr19Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 46_ElecGtr19Mic1.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 17_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_BassDI.wav
+        instrument: electric bass
+  S13:
+    component: ''
+    filename: 20_ElecGtr01Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr01Mic2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 38_ElecGtr12Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr12Mic2.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 60_Bells.wav
+    instrument: Bells
+    raw:
+      R01:
+        filename: 60_Bells.wav
+        instrument: Bells
+  S16:
+    component: ''
+    filename: 45_ElecGtr18.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 45_ElecGtr18.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 32_ElecGtr09Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr09Mic1.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 42_ElecGtr15Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 42_ElecGtr15Mic2.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 72_Vox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 72_Vox6.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 27_ElecGtr06Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr06Mic2.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 25_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 26_ElecGtr06Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr06Mic1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 18_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 18_BassAmp.wav
+        instrument: electric bass
+  S24:
+    component: ''
+    filename: 24_ElecGtr04.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr04.wav
+        instrument: clean electric guitar
+  S25:
+    component: ''
+    filename: 48_ElecGtr20.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 48_ElecGtr20.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 34_ElecGtr10.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr10.wav
+        instrument: distorted electric guitar
+  S27:
+    component: ''
+    filename: 71_Vox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 71_Vox5.wav
+        instrument: male singer
+  S28:
+    component: ''
+    filename: 70_Vox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 70_Vox4.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 31_ElecGtr08Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr08Mic2.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 23_Elec03Gtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_Elec03Gtr.wav
+        instrument: distorted electric guitar
+  S31:
+    component: ''
+    filename: 67_Vox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 67_Vox1.wav
+        instrument: male singer
+  S32:
+    component: ''
+    filename: 28_ElecGtr07Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr07Mic1.wav
+        instrument: distorted electric guitar
+  S33:
+    component: ''
+    filename: 33_ElecGtr09Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr09Mic2.wav
+        instrument: distorted electric guitar
+  S34:
+    component: ''
+    filename: 29_ElecGtr07Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr07Mic2.wav
+        instrument: distorted electric guitar
+  S35:
+    component: ''
+    filename: 59_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 59_Rhodes.wav
+        instrument: Rhodes
+  S36:
+    component: ''
+    filename: 36_ElecGtr11Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr11Mic2.wav
+        instrument: distorted electric guitar
+  S37:
+    component: ''
+    filename: 43_ElecGtr16.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 43_ElecGtr16.wav
+        instrument: distorted electric guitar
+  S38:
+    component: ''
+    filename: 40_ElecGtr14.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 40_ElecGtr14.wav
+        instrument: distorted electric guitar
+  S39:
+    component: ''
+    filename: 30_ElecGtr08Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr08Mic1.wav
+        instrument: distorted electric guitar
+  S40:
+    component: ''
+    filename: 50_ElecGtr22.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 50_ElecGtr22.wav
+        instrument: distorted electric guitar
+  S41:
+    component: ''
+    filename: 68_Vox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 68_Vox2.wav
+        instrument: male singer
+  S42:
+    component: ''
+    filename: 19_ElecGtr01Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr01Mic1.wav
+        instrument: distorted electric guitar
+  S43:
+    component: ''
+    filename: 49_ElecGtr21.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 49_ElecGtr21.wav
+        instrument: clean electric guitar
+  S44:
+    component: ''
+    filename: 44_ElecGtr17.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 44_ElecGtr17.wav
+        instrument: distorted electric guitar
+title: 64Bristol
+version: '3.0'
+website: ''

@@ -1,0 +1,339 @@
+album: ''
+artist: MR1002
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1002_SideEffectsProject_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1002_SideEffectsProject_RAW
+stem_dir: MR1002_SideEffectsProject_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1002_SideEffectsProject_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_HiHat2.wav
+        instrument: HiHat
+      R010:
+        filename: 10_HiHat3.wav
+        instrument: HiHat
+      R02:
+        filename: 03_Snare2.wav
+        instrument: Snare
+      R03:
+        filename: 14_TomRim.wav
+        instrument: TomRim
+      R04:
+        filename: 11_HiHat4.wav
+        instrument: HiHat
+      R05:
+        filename: 15_LowTom.wav
+        instrument: LowTom
+      R06:
+        filename: 08_HiHat1.wav
+        instrument: HiHat
+      R07:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R08:
+        filename: 16_ReverseCymbal.wav
+        instrument: ReverseCymbal
+      R09:
+        filename: 02_Snare1.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MR1002_SideEffectsProject_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 21_ElecGtrLoop.wav
+        instrument: ElecGtrLoop
+  S03:
+    component: ''
+    filename: MR1002_SideEffectsProject_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 20_SynthLead.wav
+        instrument: SynthLead
+  S04:
+    component: ''
+    filename: 41_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVox07.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 05_Clap2.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 05_Clap2.wav
+        instrument: Clap
+  S06:
+    component: ''
+    filename: 34_LeadVoxCh4.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 34_LeadVoxCh4.wav
+        instrument: male rapper
+  S07:
+    component: ''
+    filename: 46_BackingVox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox12.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 44_BackingVox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox10.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 19_Harp.wav
+    instrument: Harp
+    raw:
+      R01:
+        filename: 19_Harp.wav
+        instrument: Harp
+  S10:
+    component: ''
+    filename: 36_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_BackingVox02.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 28_LeadVox2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 28_LeadVox2.wav
+        instrument: male rapper
+  S12:
+    component: ''
+    filename: 06_Clap3.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 06_Clap3.wav
+        instrument: Clap
+  S13:
+    component: ''
+    filename: 39_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVox05.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 31_LeadVoxCh1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 31_LeadVoxCh1.wav
+        instrument: male rapper
+  S15:
+    component: ''
+    filename: 24_Sample3.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 24_Sample3.wav
+        instrument: Sample
+  S16:
+    component: ''
+    filename: 27_LeadVox1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 27_LeadVox1.wav
+        instrument: male rapper
+  S17:
+    component: ''
+    filename: 07_Clap4.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 07_Clap4.wav
+        instrument: Clap
+  S18:
+    component: ''
+    filename: 30_LeadVoxDT2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 30_LeadVoxDT2.wav
+        instrument: male rapper
+  S19:
+    component: ''
+    filename: 13_Timbale.wav
+    instrument: Timbale
+    raw:
+      R01:
+        filename: 13_Timbale.wav
+        instrument: Timbale
+  S20:
+    component: ''
+    filename: 25_Sample4.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 25_Sample4.wav
+        instrument: Sample
+  S21:
+    component: ''
+    filename: 32_LeadVoxCh2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 32_LeadVoxCh2.wav
+        instrument: male rapper
+  S22:
+    component: ''
+    filename: 37_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 37_BackingVox03.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 33_LeadVoxCh3.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 33_LeadVoxCh3.wav
+        instrument: male rapper
+  S24:
+    component: ''
+    filename: 45_BackingVox11.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox11.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 17_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 17_Shaker.wav
+        instrument: Shaker
+  S26:
+    component: ''
+    filename: 38_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 38_BackingVox04.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 35_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_BackingVox01.wav
+        instrument: male singer
+  S28:
+    component: ''
+    filename: 43_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox09.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 42_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox08.wav
+        instrument: male singer
+  S30:
+    component: ''
+    filename: 12_Bongo.wav
+    instrument: Bongo
+    raw:
+      R01:
+        filename: 12_Bongo.wav
+        instrument: Bongo
+  S31:
+    component: ''
+    filename: 18_Bass.wav
+    instrument: Bass
+    raw:
+      R01:
+        filename: 18_Bass.wav
+        instrument: Bass
+  S32:
+    component: ''
+    filename: 22_Sample1.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 22_Sample1.wav
+        instrument: Sample
+  S33:
+    component: ''
+    filename: 04_Clap1.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 04_Clap1.wav
+        instrument: Clap
+  S34:
+    component: ''
+    filename: 26_Sample5.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 26_Sample5.wav
+        instrument: Sample
+  S35:
+    component: ''
+    filename: 23_Sample2.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 23_Sample2.wav
+        instrument: Sample
+  S36:
+    component: ''
+    filename: 29_LeadVoxDT1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 29_LeadVoxDT1.wav
+        instrument: male rapper
+  S37:
+    component: ''
+    filename: 40_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_BackingVox06.wav
+        instrument: male singer
+title: SideEffectsProject
+version: '3.0'
+website: ''

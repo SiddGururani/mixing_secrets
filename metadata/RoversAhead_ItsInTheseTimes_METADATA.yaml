@@ -1,0 +1,314 @@
+album: ''
+artist: RoversAhead
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: RoversAhead_ItsInTheseTimes_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: RoversAhead_ItsInTheseTimes_RAW
+stem_dir: RoversAhead_ItsInTheseTimes_STEMS
+stems:
+  S01:
+    component: ''
+    filename: RoversAhead_ItsInTheseTimes_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R02:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R05:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R07:
+        filename: 07_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: RoversAhead_ItsInTheseTimes_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 09_SFX_Guiness.wav
+        instrument: SFX_Guiness
+  S03:
+    component: ''
+    filename: 30_ViolinMic1.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 30_ViolinMic1.wav
+        instrument: Violin
+  S04:
+    component: ''
+    filename: 10_BassSansamp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassSansamp.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 34_Whistle2Mic1.wav
+    instrument: Whistle
+    raw:
+      R01:
+        filename: 34_Whistle2Mic1.wav
+        instrument: Whistle
+  S06:
+    component: ''
+    filename: 40_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_BackingVox3.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 25_Accordion1Mic3.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 25_Accordion1Mic3.wav
+        instrument: Accordion
+  S08:
+    component: ''
+    filename: 37_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 37_LeadVox2.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 27_Accordion2Mic2.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 27_Accordion2Mic2.wav
+        instrument: Accordion
+  S10:
+    component: ''
+    filename: 11_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassAmp.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 08_Sleighbells.wav
+    instrument: Sleighbells
+    raw:
+      R01:
+        filename: 08_Sleighbells.wav
+        instrument: Sleighbells
+  S12:
+    component: ''
+    filename: 19_Mandolin1Mic2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 19_Mandolin1Mic2.wav
+        instrument: Mandolin
+  S13:
+    component: ''
+    filename: 12_BanjoMic1.wav
+    instrument: Banjo
+    raw:
+      R01:
+        filename: 12_BanjoMic1.wav
+        instrument: Banjo
+  S14:
+    component: ''
+    filename: 39_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVox2.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 15_AcousticGtr1Mic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 15_AcousticGtr1Mic2.wav
+        instrument: acoustic guitar
+  S16:
+    component: ''
+    filename: 22_Autoharp.wav
+    instrument: Autoharp
+    raw:
+      R01:
+        filename: 22_Autoharp.wav
+        instrument: Autoharp
+  S17:
+    component: ''
+    filename: 33_Whistle1Mic2.wav
+    instrument: Whistle
+    raw:
+      R01:
+        filename: 33_Whistle1Mic2.wav
+        instrument: Whistle
+  S18:
+    component: ''
+    filename: 32_Whistle1Mic1.wav
+    instrument: Whistle
+    raw:
+      R01:
+        filename: 32_Whistle1Mic1.wav
+        instrument: Whistle
+  S19:
+    component: ''
+    filename: 31_ViolinMic2.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 31_ViolinMic2.wav
+        instrument: Violin
+  S20:
+    component: ''
+    filename: 36_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_LeadVox1.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 23_Accordion1Mic1.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 23_Accordion1Mic1.wav
+        instrument: Accordion
+  S22:
+    component: ''
+    filename: 16_AcousticGtr2Mic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcousticGtr2Mic1.wav
+        instrument: acoustic guitar
+  S23:
+    component: ''
+    filename: 28_Accordion2Mic3.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 28_Accordion2Mic3.wav
+        instrument: Accordion
+  S24:
+    component: ''
+    filename: 21_Mandolin2Mic2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 21_Mandolin2Mic2.wav
+        instrument: Mandolin
+  S25:
+    component: ''
+    filename: 35_Whistle2Mic2.wav
+    instrument: Whistle
+    raw:
+      R01:
+        filename: 35_Whistle2Mic2.wav
+        instrument: Whistle
+  S26:
+    component: ''
+    filename: 20_Mandolin2Mic1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 20_Mandolin2Mic1.wav
+        instrument: Mandolin
+  S27:
+    component: ''
+    filename: 26_Accordion2Mic1.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 26_Accordion2Mic1.wav
+        instrument: Accordion
+  S28:
+    component: ''
+    filename: 18_Mandolin1Mic1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 18_Mandolin1Mic1.wav
+        instrument: Mandolin
+  S29:
+    component: ''
+    filename: 38_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 38_BackingVox1.wav
+        instrument: male singer
+  S30:
+    component: ''
+    filename: 14_AcousticGtr1Mic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 14_AcousticGtr1Mic1.wav
+        instrument: acoustic guitar
+  S31:
+    component: ''
+    filename: 13_BanjoMic2.wav
+    instrument: Banjo
+    raw:
+      R01:
+        filename: 13_BanjoMic2.wav
+        instrument: Banjo
+  S32:
+    component: ''
+    filename: 17_AcousticGtr2Mic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 17_AcousticGtr2Mic2.wav
+        instrument: acoustic guitar
+  S33:
+    component: ''
+    filename: 41_BackingVoxHarmonizer.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVoxHarmonizer.wav
+        instrument: male singer
+  S34:
+    component: ''
+    filename: 24_Accordion1Mic2.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 24_Accordion1Mic2.wav
+        instrument: Accordion
+  S35:
+    component: ''
+    filename: 29_Cello.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 29_Cello.wav
+        instrument: Cello
+title: ItsInTheseTimes
+version: '3.0'
+website: ''

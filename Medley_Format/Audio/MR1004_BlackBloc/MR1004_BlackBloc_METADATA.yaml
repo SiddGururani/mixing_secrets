@@ -1,0 +1,216 @@
+album: ''
+artist: MR1004
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1004_BlackBloc_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1004_BlackBloc_RAW
+stem_dir: MR1004_BlackBloc_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1004_BlackBloc_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 05_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        filename: 06_SnareSample.wav
+        instrument: SnareSample
+      R05:
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+      R06:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R07:
+        filename: 09_Cowbell.wav
+        instrument: Cowbell
+      R08:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R09:
+        filename: 03_KickSample.wav
+        instrument: KickSample
+  S02:
+    component: ''
+    filename: MR1004_BlackBloc_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 20_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MR1004_BlackBloc_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 21_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: 19_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 24_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 13_ElecGtr1b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr1b.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 28_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox6.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 14_ElecGtr1c.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr1c.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 22_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 17_ElecGtr2c.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2c.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 10_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassDI.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 26_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox4.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 29_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox7.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 18_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 25_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox3.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 27_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox5.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 12_ElecGtr1a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1a.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 30_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox8.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 11_BassCab.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 11_BassCab.wav
+        instrument: electric bass
+  S20:
+    component: ''
+    filename: 23_BackingVox1.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 23_BackingVox1.wav
+        instrument: male speaker
+  S21:
+    component: ''
+    filename: 15_ElecGtr2a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr2a.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 16_ElecGtr2b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr2b.wav
+        instrument: distorted electric guitar
+title: BlackBloc
+version: '3.0'
+website: ''

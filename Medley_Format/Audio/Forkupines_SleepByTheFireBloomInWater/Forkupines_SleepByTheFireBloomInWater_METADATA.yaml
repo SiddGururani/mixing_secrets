@@ -1,0 +1,251 @@
+album: ''
+artist: Forkupines
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Forkupines_SleepByTheFireBloomInWater_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Forkupines_SleepByTheFireBloomInWater_RAW
+stem_dir: Forkupines_SleepByTheFireBloomInWater_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Forkupines_SleepByTheFireBloomInWater_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R010:
+        filename: 23_DrumsRoomFar.wav
+        instrument: DrumsRoomFar
+      R02:
+        filename: 13_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 17_Tom2.wav
+        instrument: Tom
+      R04:
+        filename: 25_DrumsSFXFar.wav
+        instrument: DrumsSFXFar
+      R05:
+        filename: 05_KickSampleRoom.wav
+        instrument: KickSampleRoom
+      R06:
+        filename: 11_SnareSampleRoom1.wav
+        instrument: SnareSampleRoom
+      R07:
+        filename: 06_SnareUp1.wav
+        instrument: SnareUp
+      R08:
+        filename: 20_DrumsSquashMic.wav
+        instrument: DrumsSquashMic
+      R09:
+        filename: 16_Tom1Trigger.wav
+        instrument: Tom
+      R11:
+        filename: 08_SnareDown.wav
+        instrument: SnareDown
+      R12:
+        filename: 21_DrumsRoomClose1.wav
+        instrument: DrumsRoomClose
+      R13:
+        filename: 22_DrumsRoomClose2.wav
+        instrument: DrumsRoomClose
+      R14:
+        filename: 07_SnareUp2.wav
+        instrument: SnareUp
+      R15:
+        filename: 09_SnareTrigger.wav
+        instrument: SnareTrigger
+      R16:
+        filename: 18_Tom2Trigger.wav
+        instrument: Tom
+      R17:
+        filename: 24_DrumsSFXClose.wav
+        instrument: DrumsSFXClose
+      R18:
+        filename: 10_SnareSample1.wav
+        instrument: SnareSample
+      R19:
+        filename: 04_KickSample.wav
+        instrument: KickSample
+      R20:
+        filename: 15_Tom1.wav
+        instrument: Tom
+      R21:
+        filename: 12_SnareSample2.wav
+        instrument: SnareSample
+      R22:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R23:
+        filename: 14_Ride.wav
+        instrument: Ride
+      R24:
+        filename: 03_KickTrigger.wav
+        instrument: KickTrigger
+      R25:
+        filename: 19_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: Forkupines_SleepByTheFireBloomInWater_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 28_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Forkupines_SleepByTheFireBloomInWater_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 24_DrumsSFXClose.wav
+        instrument: DrumsSFXClose
+      R02:
+        filename: 25_DrumsSFXFar.wav
+        instrument: DrumsSFXFar
+  S04:
+    component: ''
+    filename: 36_ElecGtr5Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr5Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 32_ElecGtr3Mc1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr3Mc1.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 38_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 38_LeadVox1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 34_ElecGtr4Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr4Mic1.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 27_BassSansamp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 27_BassSansamp.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 31_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 29_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr1.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 30_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 39_LeadVox1FX.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_LeadVox1FX.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 35_ElecGtr4Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr4Mic2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 37_ElecGtr5Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr5Mic2.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 26_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 26_BassDI.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 42_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_LeadVox3.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 43_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 41_LeadVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_LeadVox2DT.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 33_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 40_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_LeadVox2.wav
+        instrument: male singer
+title: SleepByTheFireBloomInWater
+version: '3.0'
+website: ''

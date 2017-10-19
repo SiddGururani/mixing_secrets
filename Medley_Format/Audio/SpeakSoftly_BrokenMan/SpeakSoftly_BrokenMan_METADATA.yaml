@@ -1,0 +1,137 @@
+album: ''
+artist: SpeakSoftly
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: SpeakSoftly_BrokenMan_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SpeakSoftly_BrokenMan_RAW
+stem_dir: SpeakSoftly_BrokenMan_STEMS
+stems:
+  S01:
+    component: ''
+    filename: SpeakSoftly_BrokenMan_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Drums1.wav
+        instrument: Drums
+      R02:
+        filename: 02_Drums2.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: SpeakSoftly_BrokenMan_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 14_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 13_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 05_BassSynth.wav
+        instrument: BassSynth
+  S03:
+    component: ''
+    filename: 04_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 04_Percussion2.wav
+        instrument: Percussion
+  S04:
+    component: ''
+    filename: 07_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano2.wav
+        instrument: Piano
+  S05:
+    component: ''
+    filename: 10_Rhodes1.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 10_Rhodes1.wav
+        instrument: Rhodes
+  S06:
+    component: ''
+    filename: 16_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_BackingVox1.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 06_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 06_Piano1.wav
+        instrument: Piano
+  S08:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 15_LeadVox.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 08_Piano3.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano3.wav
+        instrument: Piano
+  S10:
+    component: ''
+    filename: 11_Rhodes2.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 11_Rhodes2.wav
+        instrument: Rhodes
+  S11:
+    component: ''
+    filename: 09_Piano4.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 09_Piano4.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 12_Rhodes3.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 12_Rhodes3.wav
+        instrument: Rhodes
+  S13:
+    component: ''
+    filename: 17_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox2.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 03_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 03_Percussion1.wav
+        instrument: Percussion
+title: BrokenMan
+version: '3.0'
+website: ''

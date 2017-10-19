@@ -1,0 +1,134 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Spektakulatius_WhatChildIsThis_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_WhatChildIsThis_RAW
+stem_dir: Spektakulatius_WhatChildIsThis_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_WhatChildIsThis_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Toms.wav
+        instrument: Toms
+      R02:
+        filename: 02_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 14_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox1.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 16_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_BackingVox3.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 09_Bass3DI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 09_Bass3DI.wav
+        instrument: double bass
+  S05:
+    component: ''
+    filename: 08_Bass3Mic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 08_Bass3Mic.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 10_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 10_AcousticGtr.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 11_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 11_Piano.wav
+        instrument: Piano
+  S08:
+    component: ''
+    filename: 12_BassClarinet.wav
+    instrument: bass clarinet
+    raw:
+      R01:
+        filename: 12_BassClarinet.wav
+        instrument: bass clarinet
+  S09:
+    component: ''
+    filename: 04_Bass1Mic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 04_Bass1Mic.wav
+        instrument: double bass
+  S10:
+    component: ''
+    filename: 07_Bass2DI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 07_Bass2DI.wav
+        instrument: double bass
+  S11:
+    component: ''
+    filename: 06_Bass2Mic.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_Bass2Mic.wav
+        instrument: double bass
+  S12:
+    component: ''
+    filename: 15_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox2.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 05_Bass1DI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_Bass1DI.wav
+        instrument: double bass
+  S14:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+title: WhatChildIsThis
+version: '3.0'
+website: ''

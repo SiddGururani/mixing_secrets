@@ -1,0 +1,109 @@
+album: ''
+artist: HollowGround
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: HollowGround_LeftBlind_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: HollowGround_LeftBlind_RAW
+stem_dir: HollowGround_LeftBlind_STEMS
+stems:
+  S01:
+    component: ''
+    filename: HollowGround_LeftBlind_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 08_FloorTom.wav
+        instrument: FloorTom
+      R03:
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R04:
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R05:
+        filename: 07_RackTom.wav
+        instrument: RackTom
+      R06:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R07:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R08:
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: 10_Gangs.wav
+    instrument: Gangs
+    raw:
+      R01:
+        filename: 10_Gangs.wav
+        instrument: Gangs
+  S03:
+    component: ''
+    filename: 12_ElecGtrDI2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtrDI2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 16_LeadVox2.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 16_LeadVox2.wav
+        instrument: male screamer
+  S05:
+    component: ''
+    filename: 14_ElecGtrLead.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtrLead.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 13_ElecGtrDI3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtrDI3.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 09_BassMic.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassMic.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 11_ElecGtrDI1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtrDI1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 15_LeadVox1.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 15_LeadVox1.wav
+        instrument: male screamer
+title: LeftBlind
+version: '3.0'
+website: ''

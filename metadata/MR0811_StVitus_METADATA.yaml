@@ -1,0 +1,102 @@
+album: ''
+artist: MR0811
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0811_StVitus_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0811_StVitus_RAW
+stem_dir: MR0811_StVitus_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0811_StVitus_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R02:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R03:
+        filename: 01_Loop1.wav
+        instrument: Loop
+  S02:
+    component: ''
+    filename: MR0811_StVitus_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 09_PadSFX.wav
+        instrument: PadSFX
+  S03:
+    component: ''
+    filename: 10_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 10_Strings.wav
+        instrument: Strings
+  S04:
+    component: ''
+    filename: 08_AcGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcGtrDI.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 05_Bass1.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 05_Bass1.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 06_Bass2.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 06_Bass2.wav
+        instrument: bass synth
+  S07:
+    component: ''
+    filename: 07_AcGtrMic.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcGtrMic.wav
+        instrument: acoustic guitar
+  S08:
+    component: ''
+    filename: 04_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 04_Shaker.wav
+        instrument: Shaker
+  S09:
+    component: ''
+    filename: 12_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_BackingVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 11_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_LeadVox.wav
+        instrument: male singer
+title: StVitus
+version: '3.0'
+website: ''

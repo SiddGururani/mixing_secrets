@@ -1,0 +1,460 @@
+album: ''
+artist: TrafficExperiment
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TrafficExperiment_OnceMore_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TrafficExperiment_OnceMore_RAW
+stem_dir: TrafficExperiment_OnceMore_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TrafficExperiment_OnceMore_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R010:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 10_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 11_ReverseCymbal.wav
+        instrument: ReverseCymbal
+      R04:
+        filename: 02_KickSub.wav
+        instrument: KickSub
+      R05:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R07:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R08:
+        filename: 12_Ride.wav
+        instrument: Ride
+      R09:
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R11:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: TrafficExperiment_OnceMore_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 28_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 30_Synth3.wav
+        instrument: Synth
+      R03:
+        filename: 29_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 45_BackingVox14.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_BackingVox14.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 61_BackingVox30.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 61_BackingVox30.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 22_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 55_BackingVox24.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 55_BackingVox24.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 17_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 17_BassDI.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 35_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_BackingVox04.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 56_BackingVox25.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 56_BackingVox25.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 13_Maracas.wav
+    instrument: Maracas
+    raw:
+      R01:
+        filename: 13_Maracas.wav
+        instrument: Maracas
+  S11:
+    component: ''
+    filename: 47_BackingVox16.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 47_BackingVox16.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 48_BackingVox17.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 48_BackingVox17.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 16_Handclap.wav
+    instrument: Handclap
+    raw:
+      R01:
+        filename: 16_Handclap.wav
+        instrument: Handclap
+  S14:
+    component: ''
+    filename: 62_BackingVox31.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 62_BackingVox31.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 34_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox03.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 26_Organ1.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 26_Organ1.wav
+        instrument: Organ
+  S17:
+    component: ''
+    filename: 57_BackingVox26.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 57_BackingVox26.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 50_BackingVox19.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 50_BackingVox19.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 52_BackingVox21.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 52_BackingVox21.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 15_Bongos.wav
+    instrument: Bongos
+    raw:
+      R01:
+        filename: 15_Bongos.wav
+        instrument: Bongos
+  S21:
+    component: ''
+    filename: 54_BackingVox23.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 54_BackingVox23.wav
+        instrument: male screamer
+  S22:
+    component: ''
+    filename: 18_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 18_BassAmp.wav
+        instrument: electric bass
+  S23:
+    component: ''
+    filename: 51_BackingVox20.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 51_BackingVox20.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 33_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox02.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 58_BackingVox27.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 58_BackingVox27.wav
+        instrument: male singer
+  S26:
+    component: ''
+    filename: 63_BackingVox32.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 63_BackingVox32.wav
+        instrument: female singer
+  S27:
+    component: ''
+    filename: 21_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 53_BackingVox22.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 53_BackingVox22.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 14_Triangle.wav
+    instrument: Triangle
+    raw:
+      R01:
+        filename: 14_Triangle.wav
+        instrument: Triangle
+  S30:
+    component: ''
+    filename: 31_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_LeadVox.wav
+        instrument: male singer
+  S31:
+    component: ''
+    filename: 59_BackingVox28.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 59_BackingVox28.wav
+        instrument: male singer
+  S32:
+    component: ''
+    filename: 49_BackingVox18.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 49_BackingVox18.wav
+        instrument: female singer
+  S33:
+    component: ''
+    filename: 38_BackingVox07.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 38_BackingVox07.wav
+        instrument: female singer
+  S34:
+    component: ''
+    filename: 41_BackingVox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_BackingVox10.wav
+        instrument: male singer
+  S35:
+    component: ''
+    filename: 36_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_BackingVox05.wav
+        instrument: male singer
+  S36:
+    component: ''
+    filename: 27_Organ2.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 27_Organ2.wav
+        instrument: Organ
+  S37:
+    component: ''
+    filename: 32_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_BackingVox01.wav
+        instrument: male singer
+  S38:
+    component: ''
+    filename: 44_BackingVox13.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 44_BackingVox13.wav
+        instrument: male singer
+  S39:
+    component: ''
+    filename: 37_BackingVox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 37_BackingVox06.wav
+        instrument: female singer
+  S40:
+    component: ''
+    filename: 19_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S41:
+    component: ''
+    filename: 25_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 25_Piano.wav
+        instrument: Piano
+  S42:
+    component: ''
+    filename: 39_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVox08.wav
+        instrument: male singer
+  S43:
+    component: ''
+    filename: 60_BackingVox29.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 60_BackingVox29.wav
+        instrument: male singer
+  S44:
+    component: ''
+    filename: 20_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S45:
+    component: ''
+    filename: 46_BackingVox15.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox15.wav
+        instrument: male singer
+  S46:
+    component: ''
+    filename: 40_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 40_BackingVox09.wav
+        instrument: male singer
+  S47:
+    component: ''
+    filename: 24_AcGuitar2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 24_AcGuitar2.wav
+        instrument: acoustic guitar
+  S48:
+    component: ''
+    filename: 23_AcGuitar1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 23_AcGuitar1.wav
+        instrument: acoustic guitar
+  S49:
+    component: ''
+    filename: 42_BackingVox11.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_BackingVox11.wav
+        instrument: male singer
+  S50:
+    component: ''
+    filename: 07_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 07_Room.wav
+        instrument: Main System
+  S51:
+    component: ''
+    filename: 43_BackingVox12.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_BackingVox12.wav
+        instrument: male singer
+title: OnceMore
+version: '3.0'
+website: ''

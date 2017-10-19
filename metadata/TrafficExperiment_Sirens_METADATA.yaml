@@ -1,0 +1,222 @@
+album: ''
+artist: TrafficExperiment
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TrafficExperiment_Sirens_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TrafficExperiment_Sirens_RAW
+stem_dir: TrafficExperiment_Sirens_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TrafficExperiment_Sirens_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_KickSub.wav
+        instrument: KickSub
+      R010:
+        filename: 10_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 11_FloorTom.wav
+        instrument: FloorTom
+      R03:
+        filename: 08_DrumAmb.wav
+        instrument: DrumAmb
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 07_DrumRoom.wav
+        instrument: DrumRoom
+      R06:
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R08:
+        filename: 09_Tom1.wav
+        instrument: Tom
+      R09:
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R11:
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: TrafficExperiment_Sirens_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 21_SynthPad.wav
+        instrument: SynthPad
+  S03:
+    component: ''
+    filename: 12_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 12_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 17_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 22_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 22_Piano.wav
+        instrument: Piano
+  S06:
+    component: ''
+    filename: 27_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_BackingVox3.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 31_BackingVox7.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox7.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 14_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr1.wav
+        instrument: clean electric guitar
+  S09:
+    component: ''
+    filename: 16_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 20_LapSteelGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_LapSteelGtr.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 30_BackingVox6.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_BackingVox6.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 28_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_BackingVox4.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 13_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 13_AcGtr.wav
+        instrument: acoustic guitar
+  S14:
+    component: ''
+    filename: 18_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 25_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox1.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 19_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 24_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_LeadVox.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 15_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 26_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 26_BackingVox2.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 29_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_BackingVox5.wav
+        instrument: female singer
+  S21:
+    component: ''
+    filename: 32_BackingVox8.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox8.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 23_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 23_Hammond.wav
+        instrument: Hammond
+title: Sirens
+version: '3.0'
+website: ''

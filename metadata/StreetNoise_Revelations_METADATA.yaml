@@ -1,0 +1,92 @@
+album: ''
+artist: StreetNoise
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: StreetNoise_Revelations_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: StreetNoise_Revelations_RAW
+stem_dir: StreetNoise_Revelations_STEMS
+stems:
+  S01:
+    component: ''
+    filename: StreetNoise_Revelations_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Cymbals.wav
+        instrument: Cymbals
+      R02:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R05:
+        filename: 03-Overheads-130729_0912.wav
+        instrument: ''
+  S02:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 07_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_HammondLeslieLo.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 11_HammondLeslieLo.wav
+        instrument: Hammond
+  S05:
+    component: ''
+    filename: 08_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 10_HammondLeslieHi.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 10_HammondLeslieHi.wav
+        instrument: Hammond
+  S07:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 06_Congas.wav
+    instrument: Congas
+    raw:
+      R01:
+        filename: 06_Congas.wav
+        instrument: Congas
+title: Revelations
+version: '3.0'
+website: ''

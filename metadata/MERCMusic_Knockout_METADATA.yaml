@@ -1,0 +1,329 @@
+album: ''
+artist: MERCMusic
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MERCMusic_Knockout_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MERCMusic_Knockout_RAW
+stem_dir: MERCMusic_Knockout_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MERCMusic_Knockout_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Snare1.wav
+        instrument: Snare
+      R010:
+        filename: 14_Cymbal1.wav
+        instrument: Cymbal
+      R02:
+        filename: 15_Cymbal2.wav
+        instrument: Cymbal
+      R03:
+        filename: 12_Ride.wav
+        instrument: Ride
+      R04:
+        filename: 16_Cymbal3.wav
+        instrument: Cymbal
+      R05:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R06:
+        filename: 03_Kick3.wav
+        instrument: Kick
+      R07:
+        filename: 07_Snare4.wav
+        instrument: Snare
+      R08:
+        filename: 05_Snare2.wav
+        instrument: Snare
+      R09:
+        filename: 11_HiHatOpen.wav
+        instrument: HiHatOpen
+      R11:
+        filename: 10_HiHatClosed.wav
+        instrument: HiHatClosed
+      R12:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R13:
+        filename: 08_Snare5.wav
+        instrument: Snare
+      R14:
+        filename: 06_Snare3.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MERCMusic_Knockout_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 20_SynthLead2.wav
+        instrument: SynthLead
+      R010:
+        filename: 22_SynthPad2.wav
+        instrument: SynthPad
+      R02:
+        filename: 28_SynthSFX2.wav
+        instrument: SynthSFX
+      R03:
+        filename: 26_SynthFill3.wav
+        instrument: SynthFill
+      R04:
+        filename: 25_SynthFill2.wav
+        instrument: SynthFill
+      R05:
+        filename: 19_SynthLead1.wav
+        instrument: SynthLead
+      R06:
+        filename: 23_SynthSaw.wav
+        instrument: SynthS
+      R07:
+        filename: 21_SynthPad1.wav
+        instrument: SynthPad
+      R08:
+        filename: 27_SynthSFX1.wav
+        instrument: SynthSFX
+      R09:
+        filename: 29_SynthSFX3.wav
+        instrument: SynthSFX
+      R11:
+        filename: 24_SynthFill1.wav
+        instrument: SynthFill
+  S03:
+    component: ''
+    filename: MERCMusic_Knockout_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 27_SynthSFX1.wav
+        instrument: SynthSFX
+      R02:
+        filename: 28_SynthSFX2.wav
+        instrument: SynthSFX
+      R03:
+        filename: 29_SynthSFX3.wav
+        instrument: SynthSFX
+      R04:
+        filename: 43_LeadVoxVs1SFX.wav
+        instrument: male singer
+      R05:
+        filename: 47_LeadVoxVs2SFX.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 40_LeadVoxVs1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 40_LeadVoxVs1.wav
+        instrument: male rapper
+  S05:
+    component: ''
+    filename: 13_Hit.wav
+    instrument: Hit
+    raw:
+      R01:
+        filename: 13_Hit.wav
+        instrument: Hit
+  S06:
+    component: ''
+    filename: 50_BackingVoxBr1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 50_BackingVoxBr1.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 36_LeadVoxChDT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_LeadVoxChDT1.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 30_Tubas.wav
+    instrument: Tubas
+    raw:
+      R01:
+        filename: 30_Tubas.wav
+        instrument: Tubas
+  S09:
+    component: ''
+    filename: 32_Violin.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 32_Violin.wav
+        instrument: Violin
+  S10:
+    component: ''
+    filename: 17_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 17_Bass.wav
+        instrument: bass synth
+  S11:
+    component: ''
+    filename: 34_VoxIntro2.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 34_VoxIntro2.wav
+        instrument: male speaker
+  S12:
+    component: ''
+    filename: 42_LeadVoxVs1DT2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 42_LeadVoxVs1DT2.wav
+        instrument: male rapper
+  S13:
+    component: ''
+    filename: 51_BackingVoxBr2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 51_BackingVoxBr2.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 49_LeadVoxBr2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 49_LeadVoxBr2.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 46_LeadVoxVs2DT2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 46_LeadVoxVs2DT2.wav
+        instrument: male rapper
+  S16:
+    component: ''
+    filename: 31_Horns.wav
+    instrument: Horns
+    raw:
+      R01:
+        filename: 31_Horns.wav
+        instrument: Horns
+  S17:
+    component: ''
+    filename: 48_LeadVoxBr1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 48_LeadVoxBr1.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 44_LeadVoxVs2.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 44_LeadVoxVs2.wav
+        instrument: male rapper
+  S19:
+    component: ''
+    filename: 38_BackingVoxCh1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 38_BackingVoxCh1.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 41_LeadVoxVs1DT1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 41_LeadVoxVs1DT1.wav
+        instrument: male rapper
+  S21:
+    component: ''
+    filename: 33_VoxIntro1.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 33_VoxIntro1.wav
+        instrument: male speaker
+  S22:
+    component: ''
+    filename: 39_BackingVoxCh2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 39_BackingVoxCh2.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 18_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 18_Piano.wav
+        instrument: Piano
+  S24:
+    component: ''
+    filename: 53_BackingVoxBr4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 53_BackingVoxBr4.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 09_Clap.wav
+    instrument: Clap
+    raw:
+      R01:
+        filename: 09_Clap.wav
+        instrument: Clap
+  S26:
+    component: ''
+    filename: 45_LeadVoxVs2DT1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 45_LeadVoxVs2DT1.wav
+        instrument: male rapper
+  S27:
+    component: ''
+    filename: 52_BackingVoxBr3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 52_BackingVoxBr3.wav
+        instrument: male singer
+  S28:
+    component: ''
+    filename: 37_LeadVoxChDT2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 37_LeadVoxChDT2.wav
+        instrument: male singer
+  S29:
+    component: ''
+    filename: 35_LeadVoxCh.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_LeadVoxCh.wav
+        instrument: male singer
+title: Knockout
+version: '3.0'
+website: ''

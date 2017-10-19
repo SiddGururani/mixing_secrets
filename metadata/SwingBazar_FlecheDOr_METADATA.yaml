@@ -1,0 +1,80 @@
+album: ''
+artist: SwingBazar
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: SwingBazar_FlecheDOr_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: SwingBazar_FlecheDOr_RAW
+stem_dir: SwingBazar_FlecheDOr_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 05_ElecGtr2Amp.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 05_ElecGtr2Amp.wav
+        instrument: clean electric guitar
+  S02:
+    component: ''
+    filename: 07_Accordion.wav
+    instrument: Accordion
+    raw:
+      R01:
+        filename: 07_Accordion.wav
+        instrument: Accordion
+  S03:
+    component: ''
+    filename: 08_Violin.wav
+    instrument: Violin
+    raw:
+      R01:
+        filename: 08_Violin.wav
+        instrument: Violin
+  S04:
+    component: ''
+    filename: 04_ElecGtr1Amp.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 04_ElecGtr1Amp.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 06_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcousticGtr.wav
+        instrument: acoustic guitar
+  S06:
+    component: ''
+    filename: 01_BassMic1.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 01_BassMic1.wav
+        instrument: double bass
+  S07:
+    component: ''
+    filename: 03_ElecGtr1Mic.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 03_ElecGtr1Mic.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 02_BassMic2.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 02_BassMic2.wav
+        instrument: double bass
+title: FlecheDOr
+version: '3.0'
+website: ''

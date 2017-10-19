@@ -1,0 +1,307 @@
+album: ''
+artist: DetskySad
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DetskySad_WalkieTalkie_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DetskySad_WalkieTalkie_RAW
+stem_dir: DetskySad_WalkieTalkie_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DetskySad_WalkieTalkie_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 11_Cymbal.wav
+        instrument: Cymbal
+      R010:
+        filename: 03_Kick3.wav
+        instrument: Kick
+      R02:
+        filename: 07_Snare2.wav
+        instrument: Snare
+      R03:
+        filename: 09_Snare4.wav
+        instrument: Snare
+      R04:
+        filename: 08_Snare3.wav
+        instrument: Snare
+      R05:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R06:
+        filename: 06_Snare1.wav
+        instrument: Snare
+      R07:
+        filename: 10_Snare5.wav
+        instrument: Snare
+      R08:
+        filename: 05_Kick5.wav
+        instrument: Kick
+      R09:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R11:
+        filename: 04_Kick4.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: DetskySad_WalkieTalkie_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 14_Loop3.wav
+        instrument: Loop
+      R02:
+        filename: 17_Loop6.wav
+        instrument: Loop
+      R03:
+        filename: 12_Loop1.wav
+        instrument: Loop
+      R04:
+        filename: 16_Loop5.wav
+        instrument: Loop
+      R05:
+        filename: 13_Loop2.wav
+        instrument: Loop
+      R06:
+        filename: 15_Loop4.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: DetskySad_WalkieTalkie_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 48_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: DetskySad_WalkieTalkie_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 22_SampleSFX2.wav
+        instrument: SampleSFX
+      R010:
+        filename: 23_SampleSFX3.wav
+        instrument: SampleSFX
+      R02:
+        filename: 24_SampleSFX4.wav
+        instrument: SampleSFX
+      R03:
+        filename: 28_SampleSFX8.wav
+        instrument: SampleSFX
+      R04:
+        filename: 27_SampleSFX7.wav
+        instrument: SampleSFX
+      R05:
+        filename: 25_SampleSFX5.wav
+        instrument: SampleSFX
+      R06:
+        filename: 50_BackingVoxSFX1.wav
+        instrument: BackingVoxSFX
+      R07:
+        filename: 51_BackingVoxSFX2.wav
+        instrument: BackingVoxSFX
+      R08:
+        filename: 52_BackingVoxSFX3.wav
+        instrument: BackingVoxSFX
+      R09:
+        filename: 26_SampleSFX6.wav
+        instrument: SampleSFX
+      R11:
+        filename: 21_SampleSFX1.wav
+        instrument: SampleSFX
+  S05:
+    component: ''
+    filename: 47_Gtr07d_Mic4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 47_Gtr07d_Mic4.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 33_Gtr02a_Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 33_Gtr02a_Mic1.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 36_Gtr03b_Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 36_Gtr03b_Mic2.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 44_Gtr07a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 44_Gtr07a_Mic1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 34_Gtr02b_Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 34_Gtr02b_Mic2.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 35_Gtr03a_Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 35_Gtr03a_Mic1.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 43_Gtr06b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 43_Gtr06b_Mic2.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 41_Gtr05b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 41_Gtr05b_Mic2.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 39_Gtr04b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 39_Gtr04b_Mic2.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 40_Gtr05a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 40_Gtr05a_Mic1.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 37_Gtr03c_Mic3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 37_Gtr03c_Mic3.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 30_Gtr01a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_Gtr01a_Mic1.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 46_Gtr07c_Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 46_Gtr07c_Mic3.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 19_Break2.wav
+    instrument: Break
+    raw:
+      R01:
+        filename: 19_Break2.wav
+        instrument: Break
+  S19:
+    component: ''
+    filename: 31_Gtr01b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_Gtr01b_Mic2.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 29_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 29_Bass.wav
+        instrument: electric bass
+  S21:
+    component: ''
+    filename: 45_Gtr07b_Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 45_Gtr07b_Mic2.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 38_Gtr04a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 38_Gtr04a_Mic1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 32_Gtr01c_Mic3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_Gtr01c_Mic3.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 49_LeadVox.wav
+    instrument: LeadVox
+    raw:
+      R01:
+        filename: 49_LeadVox.wav
+        instrument: LeadVox
+  S25:
+    component: ''
+    filename: 18_Break1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 18_Break1.wav
+        instrument: Break
+  S26:
+    component: ''
+    filename: 20_Break2.wav
+    instrument: Break
+    raw:
+      R01:
+        filename: 20_Break2.wav
+        instrument: Break
+  S27:
+    component: ''
+    filename: 42_Gtr06a_Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 42_Gtr06a_Mic1.wav
+        instrument: distorted electric guitar
+title: WalkieTalkie
+version: '3.0'
+website: ''

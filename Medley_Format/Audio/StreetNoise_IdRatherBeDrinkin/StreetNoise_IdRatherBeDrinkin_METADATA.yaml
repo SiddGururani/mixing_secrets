@@ -1,0 +1,85 @@
+album: ''
+artist: StreetNoise
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: StreetNoise_IdRatherBeDrinkin_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: StreetNoise_IdRatherBeDrinkin_RAW
+stem_dir: StreetNoise_IdRatherBeDrinkin_STEMS
+stems:
+  S01:
+    component: ''
+    filename: StreetNoise_IdRatherBeDrinkin_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R06:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R07:
+        filename: 06_Tom3.wav
+        instrument: Tom
+      R08:
+        filename: 08_CymbalSample.wav
+        instrument: CymbalSample
+  S02:
+    component: ''
+    filename: 09_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 10_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 12_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 12_Piano.wav
+        instrument: Piano
+  S06:
+    component: ''
+    filename: 11_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr2.wav
+        instrument: distorted electric guitar
+title: IdRatherBeDrinkin
+version: '3.0'
+website: ''

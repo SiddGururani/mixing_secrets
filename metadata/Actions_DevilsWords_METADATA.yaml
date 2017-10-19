@@ -1,0 +1,202 @@
+album: ''
+artist: Actions
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Actions_DevilsWords_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Actions_DevilsWords_RAW
+stem_dir: Actions_DevilsWords_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Actions_DevilsWords_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_KickTrigger.wav
+        instrument: KickTrigger
+      R02:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 08_DrumsReverb.wav
+        instrument: DrumsReverb
+      R04:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 09_ReverseCymbal.wav
+        instrument: ReverseCymbal
+      R06:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R07:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: Actions_DevilsWords_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 07_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: 12_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr2.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 06_Tambourine.wav
+    instrument: tambourine
+    raw:
+      R01:
+        filename: 06_Tambourine.wav
+        instrument: Tambourine
+  S05:
+    component: ''
+    filename: 17_ElecGtr6.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr6.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 14_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 22_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 22_BackingVox3.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 20_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 20_BackingVox1.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 13_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr3.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 16_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 19_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_LeadVoxDT.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 23_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 23_BackingVox4.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 27_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox8.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 25_BackingVox6.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 25_BackingVox6.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 26_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox7.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 21_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 21_BackingVox2.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 15_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 24_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 24_BackingVox5.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 18_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_LeadVox.wav
+        instrument: female singer
+  S20:
+    component: ''
+    filename: 11_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 10_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_Bass.wav
+        instrument: electric bass
+title: DevilsWords
+version: '3.0'
+website: ''

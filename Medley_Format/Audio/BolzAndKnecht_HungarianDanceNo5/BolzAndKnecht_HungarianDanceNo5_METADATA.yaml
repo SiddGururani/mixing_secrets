@@ -1,0 +1,40 @@
+album: ''
+artist: BolzAndKnecht
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: BolzAndKnecht_HungarianDanceNo5_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BolzAndKnecht_HungarianDanceNo5_RAW
+stem_dir: BolzAndKnecht_HungarianDanceNo5_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 03_Saxophone.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 03_Saxophone.wav
+        instrument: Saxophone
+  S02:
+    component: ''
+    filename: 01_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 01_AcousticGtr.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 02_AcousticGtrDI.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 02_AcousticGtrDI.wav
+        instrument: acoustic guitar
+title: HungarianDanceNo5
+version: '3.0'
+website: ''

@@ -1,0 +1,73 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Spektakulatius_WayfaringStranger_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_WayfaringStranger_RAW
+stem_dir: Spektakulatius_WayfaringStranger_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_WayfaringStranger_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Toms_LiveRoom.wav
+        instrument: Toms_LiveRoom
+      R02:
+        filename: 03_Overheads_LiveRoom.wav
+        instrument: Overheads_LiveRoom
+      R03:
+        filename: 01_Kick_LiveRoom.wav
+        instrument: Kick_LiveRoom
+      R04:
+        filename: 02_Snare_LiveRoom.wav
+        instrument: Snare_LiveRoom
+  S02:
+    component: ''
+    filename: 07_Piano_LiveRoom.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 07_Piano_LiveRoom.wav
+        instrument: Piano
+  S03:
+    component: ''
+    filename: 08_Saxophone_LiveRoom.wav
+    instrument: saxophone
+    raw:
+      R01:
+        filename: 08_Saxophone_LiveRoom.wav
+        instrument: saxophone
+  S04:
+    component: ''
+    filename: 06_BassDI_LiveRoom.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_BassDI_LiveRoom.wav
+        instrument: double bass
+  S05:
+    component: ''
+    filename: 05_BassMic_LiveRoom.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic_LiveRoom.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 09_LeadVox_IsoBooth.wav
+    instrument: female singer_IsoBooth
+    raw:
+      R01:
+        filename: 09_LeadVox_IsoBooth.wav
+        instrument: female singer_IsoBooth
+title: WayfaringStranger
+version: '3.0'
+website: ''

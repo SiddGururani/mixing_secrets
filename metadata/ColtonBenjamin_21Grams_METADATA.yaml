@@ -1,0 +1,162 @@
+album: ''
+artist: ColtonBenjamin
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: ColtonBenjamin_21Grams_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ColtonBenjamin_21Grams_RAW
+stem_dir: ColtonBenjamin_21Grams_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ColtonBenjamin_21Grams_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R05:
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R06:
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+      R07:
+        filename: 04_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 12_ElecGtrDI4.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtrDI4.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 13_ElecGtrDI5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtrDI5.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 20_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox1DT.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 19_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 11_ElecGtrDI3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtrDI3.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 16_LeadVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_LeadVox1DT.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 09_ElecGtrDI1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtrDI1.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 10_ElecGtrDI2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtrDI2.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 22_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox3.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 17_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_LeadVox2.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 21_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox2.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 18_LeadVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_LeadVox2DT.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 14_Hammond.wav
+    instrument: Hammond
+    raw:
+      R01:
+        filename: 14_Hammond.wav
+        instrument: Hammond
+  S16:
+    component: ''
+    filename: 15_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_LeadVox1.wav
+        instrument: male singer
+title: 21Grams
+version: '3.0'
+website: ''

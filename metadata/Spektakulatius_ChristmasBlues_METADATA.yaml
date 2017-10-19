@@ -1,0 +1,89 @@
+album: ''
+artist: Spektakulatius
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Spektakulatius_ChristmasBlues_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Spektakulatius_ChristmasBlues_RAW
+stem_dir: Spektakulatius_ChristmasBlues_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Spektakulatius_ChristmasBlues_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 04_Toms.wav
+        instrument: Toms
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 10_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_BackingVox01.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 08_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 08_Piano.wav
+        instrument: Piano
+  S04:
+    component: ''
+    filename: 07_Saxophone.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 07_Saxophone.wav
+        instrument: Saxophone
+  S05:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 06_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 06_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 05_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_BassDI.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 11_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 11_BackingVox02.wav
+        instrument: female singer
+title: ChristmasBlues
+version: '3.0'
+website: ''

@@ -1,0 +1,151 @@
+album: ''
+artist: ButterflyEffect
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: ButterflyEffect_AnUltraVioletApology_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: ButterflyEffect_AnUltraVioletApology_RAW
+stem_dir: ButterflyEffect_AnUltraVioletApology_STEMS
+stems:
+  S01:
+    component: ''
+    filename: ButterflyEffect_AnUltraVioletApology_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 03_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 05_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: ButterflyEffect_AnUltraVioletApology_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 20_LeadVoxSFX.wav
+        instrument: LeadVoxSFX
+  S03:
+    component: ''
+    filename: 11_ElecGtr1a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr1a.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 09_BassDI1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_BassDI1.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 19_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 12_ElecGtr1b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1b.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 16_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 08_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker.wav
+        instrument: Shaker
+  S09:
+    component: ''
+    filename: 10_BassDI2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 10_BassDI2.wav
+        instrument: electric bass
+  S10:
+    component: ''
+    filename: 17_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 18_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 07_Bells.wav
+    instrument: Bells
+    raw:
+      R01:
+        filename: 07_Bells.wav
+        instrument: Bells
+  S13:
+    component: ''
+    filename: 13_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr2.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 14_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr3.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 15_ElecGtr4.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr4.wav
+        instrument: clean electric guitar
+title: AnUltraVioletApology
+version: '3.0'
+website: ''

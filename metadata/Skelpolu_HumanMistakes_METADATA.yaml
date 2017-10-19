@@ -1,0 +1,98 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_HumanMistakes_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_HumanMistakes_RAW
+stem_dir: Skelpolu_HumanMistakes_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_HumanMistakes_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Cymbal.wav
+        instrument: Cymbal
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: Skelpolu_HumanMistakes_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 08_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 10_Synth4.wav
+        instrument: Synth
+      R03:
+        filename: 07_Synth1.wav
+        instrument: Synth
+      R04:
+        filename: 09_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 14_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox2.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 13_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_BackingVox1.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 11_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 11_Piano.wav
+        instrument: Piano
+  S08:
+    component: ''
+    filename: 05_Noise.wav
+    instrument: Noise
+    raw:
+      R01:
+        filename: 05_Noise.wav
+        instrument: Noise
+title: HumanMistakes
+version: '3.0'
+website: ''

@@ -1,0 +1,332 @@
+album: ''
+artist: TurnBackToSpring
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TurnBackToSpring_AnotherDayCalling_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TurnBackToSpring_AnotherDayCalling_RAW
+stem_dir: TurnBackToSpring_AnotherDayCalling_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TurnBackToSpring_AnotherDayCalling_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 02_SnareAndCymbal.wav
+        instrument: SnareAndCymbal
+      R03:
+        filename: 04_Cymbal.wav
+        instrument: Cymbal
+      R04:
+        filename: 03_Hat.wav
+        instrument: Hat
+  S02:
+    component: ''
+    filename: TurnBackToSpring_AnotherDayCalling_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 23_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 24_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: TurnBackToSpring_AnotherDayCalling_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 08_Mandolin1SFX.wav
+        instrument: Mandolin
+  S04:
+    component: ''
+    filename: 29_LeadVoxAlt.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 29_LeadVoxAlt.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 10_Mandolin3.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 10_Mandolin3.wav
+        instrument: Mandolin
+  S06:
+    component: ''
+    filename: 14_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 35_BackingVox3.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 35_BackingVox3.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 32_BackingVox1DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 32_BackingVox1DT.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 36_BackingVox4.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 36_BackingVox4.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 20_ElecGtr6DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr6DT.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 27_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 27_LeadVox.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 11_Mandolin4.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 11_Mandolin4.wav
+        instrument: Mandolin
+  S13:
+    component: ''
+    filename: 16_ElecGtr4DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr4DT.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 06_BassAlt.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_BassAlt.wav
+        instrument: electric bass
+  S15:
+    component: ''
+    filename: 40_BackingVox7.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 40_BackingVox7.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: double bass
+  S17:
+    component: ''
+    filename: 17_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 30_LeadVoxAltDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 30_LeadVoxAltDT.wav
+        instrument: female singer
+  S19:
+    component: ''
+    filename: 12_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 33_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 33_BackingVox2.wav
+        instrument: female singer
+  S21:
+    component: ''
+    filename: 25_Piano1.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 25_Piano1.wav
+        instrument: Piano
+  S22:
+    component: ''
+    filename: 39_BackingVox6.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 39_BackingVox6.wav
+        instrument: female singer
+  S23:
+    component: ''
+    filename: 13_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 28_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 28_LeadVoxDT.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 22_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 22_Strings.wav
+        instrument: Strings
+  S26:
+    component: ''
+    filename: 19_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S27:
+    component: ''
+    filename: 15_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 41_BackingVox8.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 41_BackingVox8.wav
+        instrument: female singer
+  S29:
+    component: ''
+    filename: 21_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 31_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 31_BackingVox1.wav
+        instrument: female singer
+  S31:
+    component: ''
+    filename: 26_Piano2.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 26_Piano2.wav
+        instrument: Piano
+  S32:
+    component: ''
+    filename: 37_BackingVox4DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 37_BackingVox4DT.wav
+        instrument: female singer
+  S33:
+    component: ''
+    filename: 09_Mandolin2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 09_Mandolin2.wav
+        instrument: Mandolin
+  S34:
+    component: ''
+    filename: 42_BackingVox9.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 42_BackingVox9.wav
+        instrument: female singer
+  S35:
+    component: ''
+    filename: 07_Mandolin1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 07_Mandolin1.wav
+        instrument: Mandolin
+  S36:
+    component: ''
+    filename: 34_BackingVox2DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 34_BackingVox2DT.wav
+        instrument: female singer
+  S37:
+    component: ''
+    filename: 38_BackingVox5.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 38_BackingVox5.wav
+        instrument: female singer
+  S38:
+    component: ''
+    filename: 18_ElecGtr5DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr5DT.wav
+        instrument: distorted electric guitar
+title: AnotherDayCalling
+version: '3.0'
+website: ''

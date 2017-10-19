@@ -1,0 +1,169 @@
+album: ''
+artist: TheLongWait
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: TheLongWait_BackHomeToBlue_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: TheLongWait_BackHomeToBlue_RAW
+stem_dir: TheLongWait_BackHomeToBlue_STEMS
+stems:
+  S01:
+    component: ''
+    filename: TheLongWait_BackHomeToBlue_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 04_DrumsRoom.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 06_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 06_AcGtr.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 12_ElecGtr4Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr4Mic1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 17_LeadVoxDT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_LeadVoxDT.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 20_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox2.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 19_BackingVox1DT.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 19_BackingVox1DT.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 16_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_LeadVox.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 11_ElecGtr3Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr3Mic2.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 13_ElecGtr4Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 13_ElecGtr4Mic2.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 14_ElecGtr5Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 14_ElecGtr5Mic1.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 08_ElecGtr1Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1Mic2.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 18_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 18_BackingVox1.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 15_ElecGtr5Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 15_ElecGtr5Mic2.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 10_ElecGtr3Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3Mic1.wav
+        instrument: clean electric guitar
+  S17:
+    component: ''
+    filename: 07_ElecGtr1Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr1Mic1.wav
+        instrument: clean electric guitar
+  S18:
+    component: ''
+    filename: 21_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox2DT.wav
+        instrument: male singer
+title: BackHomeToBlue
+version: '3.0'
+website: ''

@@ -1,0 +1,112 @@
+album: ''
+artist: DonCamilloChoir
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: DonCamilloChoir_MarshMarigoldsSong_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DonCamilloChoir_MarshMarigoldsSong_RAW
+stem_dir: DonCamilloChoir_MarshMarigoldsSong_STEMS
+stems:
+  S01:
+    component: ''
+    filename: 05_SpotMic3_Sopranos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 05_SpotMic3_Sopranos.wav
+        instrument: vocalists
+  S02:
+    component: ''
+    filename: 07_BassCloseMic1.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 07_BassCloseMic1.wav
+        instrument: vocalists
+  S03:
+    component: ''
+    filename: 11_BassCloseMic5.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 11_BassCloseMic5.wav
+        instrument: vocalists
+  S04:
+    component: ''
+    filename: 02_MainPair2.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 02_MainPair2.wav
+        instrument: Main System
+  S05:
+    component: ''
+    filename: 06_SpotMic4_Altos.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 06_SpotMic4_Altos.wav
+        instrument: vocalists
+  S06:
+    component: ''
+    filename: 03_SpotMic1_Tenors.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 03_SpotMic1_Tenors.wav
+        instrument: vocalists
+  S07:
+    component: ''
+    filename: 10_BassCloseMic4.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 10_BassCloseMic4.wav
+        instrument: vocalists
+  S08:
+    component: ''
+    filename: 09_BassCloseMic3.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 09_BassCloseMic3.wav
+        instrument: vocalists
+  S09:
+    component: ''
+    filename: 01_MainPair1.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 01_MainPair1.wav
+        instrument: Main System
+  S10:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: female singer
+  S11:
+    component: ''
+    filename: 04_SpotMic2_Basses.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 04_SpotMic2_Basses.wav
+        instrument: vocalists
+  S12:
+    component: ''
+    filename: 08_BassCloseMic2.wav
+    instrument: vocalists
+    raw:
+      R01:
+        filename: 08_BassCloseMic2.wav
+        instrument: vocalists
+title: MarshMarigoldsSong
+version: '3.0'
+website: ''

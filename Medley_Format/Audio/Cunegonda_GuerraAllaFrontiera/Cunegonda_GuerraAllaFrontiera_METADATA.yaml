@@ -1,0 +1,196 @@
+album: ''
+artist: Cunegonda
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Cunegonda_GuerraAllaFrontiera_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Cunegonda_GuerraAllaFrontiera_RAW
+stem_dir: Cunegonda_GuerraAllaFrontiera_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Cunegonda_GuerraAllaFrontiera_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        filename: 03_SnareDelay.wav
+        instrument: SnareDelay
+      R03:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 05_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 19_BackingVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox3DT.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 17_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 17_BackingVox2.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 22_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox5.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 23_BackingVox5DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox5DT.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 14_LeadVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_LeadVox3DT.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 06_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_BassDI.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 18_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox3.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 07_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 07_ElecGtr.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 13_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox3.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 25_BackingVox6DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox6DT.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 11_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_LeadVox2.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 08_ElecGtrDT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtrDT.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 12_LeadVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox2DT.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 20_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 20_BackingVox4.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 10_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_LeadVoxDT.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 15_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox1.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 24_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox6.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 21_BackingVox4DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_BackingVox4DT.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 16_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox1DT.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 09_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_LeadVox.wav
+        instrument: male singer
+title: GuerraAllaFrontiera
+version: '3.0'
+website: ''

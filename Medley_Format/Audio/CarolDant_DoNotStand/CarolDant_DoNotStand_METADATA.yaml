@@ -1,0 +1,72 @@
+album: ''
+artist: CarolDant
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: CarolDant_DoNotStand_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: CarolDant_DoNotStand_RAW
+stem_dir: CarolDant_DoNotStand_STEMS
+stems:
+  S01:
+    component: ''
+    filename: CarolDant_DoNotStand_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop.wav
+        instrument: Loop
+  S02:
+    component: ''
+    filename: 07_LeadVox.wav
+    instrument: female speaker
+    raw:
+      R01:
+        filename: 07_LeadVox.wav
+        instrument: female speaker
+  S03:
+    component: ''
+    filename: 02_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 02_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 03_Choir.wav
+    instrument: Choir
+    raw:
+      R01:
+        filename: 03_Choir.wav
+        instrument: Choir
+  S05:
+    component: ''
+    filename: 04_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        filename: 04_Piano.wav
+        instrument: piano
+  S06:
+    component: ''
+    filename: 06_Rhodes2.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 06_Rhodes2.wav
+        instrument: Rhodes
+  S07:
+    component: ''
+    filename: 05_Rhodes1.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 05_Rhodes1.wav
+        instrument: Rhodes
+title: DoNotStand
+version: '3.0'
+website: ''

@@ -1,0 +1,168 @@
+album: ''
+artist: MikeSkalandunas
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MikeSkalandunas_SunDrenched_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MikeSkalandunas_SunDrenched_RAW
+stem_dir: MikeSkalandunas_SunDrenched_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MikeSkalandunas_SunDrenched_STEM_drums.wav
+    instrument: Roman WarDrum
+    raw:
+      R01:
+        filename: 02_RomanWarDrum.wav
+        instrument: RomanWarDrum
+  S02:
+    component: ''
+    filename: 01_Daiko.wav
+    instrument: Daiko
+    raw:
+      R01:
+        filename: 01_Daiko.wav
+        instrument: Daiko
+  S03:
+    component: ''
+    filename: 04_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 04_Percussion1.wav
+        instrument: Percussion
+  S04:
+    component: ''
+    filename: 07_Harp.wav
+    instrument: Harp
+    raw:
+      R01:
+        filename: 07_Harp.wav
+        instrument: Harp
+  S05:
+    component: ''
+    filename: 15_Violas.wav
+    instrument: Violas
+    raw:
+      R01:
+        filename: 15_Violas.wav
+        instrument: Violas
+  S06:
+    component: ''
+    filename: 12_Pad2.wav
+    instrument: Pad
+    raw:
+      R01:
+        filename: 12_Pad2.wav
+        instrument: Pad
+  S07:
+    component: ''
+    filename: 14_Violins2.wav
+    instrument: Violins
+    raw:
+      R01:
+        filename: 14_Violins2.wav
+        instrument: Violins
+  S08:
+    component: ''
+    filename: 10_Psaltery.wav
+    instrument: Psaltery
+    raw:
+      R01:
+        filename: 10_Psaltery.wav
+        instrument: Psaltery
+  S09:
+    component: ''
+    filename: 06_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 06_Percussion3.wav
+        instrument: Percussion
+  S10:
+    component: ''
+    filename: 13_Violins1.wav
+    instrument: Violins
+    raw:
+      R01:
+        filename: 13_Violins1.wav
+        instrument: Violins
+  S11:
+    component: ''
+    filename: 09_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 09_Piano.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 08_HarpHarmonics.wav
+    instrument: HarpHarmonics
+    raw:
+      R01:
+        filename: 08_HarpHarmonics.wav
+        instrument: HarpHarmonics
+  S13:
+    component: ''
+    filename: 17_Tuba.wav
+    instrument: Tuba
+    raw:
+      R01:
+        filename: 17_Tuba.wav
+        instrument: Tuba
+  S14:
+    component: ''
+    filename: 11_Pad1.wav
+    instrument: Pad
+    raw:
+      R01:
+        filename: 11_Pad1.wav
+        instrument: Pad
+  S15:
+    component: ''
+    filename: 05_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 05_Percussion2.wav
+        instrument: Percussion
+  S16:
+    component: ''
+    filename: 03_MalaysianDjembe.wav
+    instrument: MalaysianDjembe
+    raw:
+      R01:
+        filename: 03_MalaysianDjembe.wav
+        instrument: MalaysianDjembe
+  S17:
+    component: ''
+    filename: 18_FrenchHorn1.wav
+    instrument: FrenchHorn
+    raw:
+      R01:
+        filename: 18_FrenchHorn1.wav
+        instrument: FrenchHorn
+  S18:
+    component: ''
+    filename: 16_Trombone.wav
+    instrument: Trombone
+    raw:
+      R01:
+        filename: 16_Trombone.wav
+        instrument: Trombone
+  S19:
+    component: ''
+    filename: 19_FrenchHorn2.wav
+    instrument: FrenchHorn
+    raw:
+      R01:
+        filename: 19_FrenchHorn2.wav
+        instrument: FrenchHorn
+title: SunDrenched
+version: '3.0'
+website: ''

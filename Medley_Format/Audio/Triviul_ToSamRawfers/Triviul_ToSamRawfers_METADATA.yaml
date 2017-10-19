@@ -1,0 +1,144 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_ToSamRawfers_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_ToSamRawfers_RAW
+stem_dir: Triviul_ToSamRawfers_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_ToSamRawfers_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Drums.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: Triviul_ToSamRawfers_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 02_SFX.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 06_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 06_LeadVox.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 11_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 11_BackingVox3.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 07_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 07_BackingVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 14_BackingVox4DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox4DT.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 03_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 03_Bass.wav
+        instrument: bass synth
+  S08:
+    component: ''
+    filename: 05_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 05_Organ.wav
+        instrument: Organ
+  S09:
+    component: ''
+    filename: 16_BackingVox5DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 16_BackingVox5DT.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 10_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 10_BackingVox2DT.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 04_Kalimba.wav
+    instrument: Kalimba
+    raw:
+      R01:
+        filename: 04_Kalimba.wav
+        instrument: Kalimba
+  S12:
+    component: ''
+    filename: 08_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 08_BackingVox1DT.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 15_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_BackingVox5.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 09_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_BackingVox2.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 13_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_BackingVox4.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 12_BackingVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_BackingVox3DT.wav
+        instrument: male singer
+title: ToSamRawfers
+version: '3.0'
+website: ''

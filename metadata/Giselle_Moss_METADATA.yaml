@@ -1,0 +1,243 @@
+album: ''
+artist: Giselle
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Giselle_Moss_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Giselle_Moss_RAW
+stem_dir: Giselle_Moss_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Giselle_Moss_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 09_CymbalRoll1.wav
+        instrument: CymbalRoll
+      R02:
+        filename: 11_CymbalRoll3.wav
+        instrument: CymbalRoll
+      R03:
+        filename: 05_Snare2.wav
+        instrument: Snare
+      R04:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R05:
+        filename: 10_CymbalRoll2.wav
+        instrument: CymbalRoll
+      R06:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R07:
+        filename: 04_Snare1.wav
+        instrument: Snare
+      R08:
+        filename: 03_Kick3.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: Giselle_Moss_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 07_ShakerLoop2.wav
+        instrument: ShakerLoop
+      R02:
+        filename: 08_Loop.wav
+        instrument: Loop
+      R03:
+        filename: 06_ShakerLoop1.wav
+        instrument: ShakerLoop
+  S03:
+    component: ''
+    filename: Giselle_Moss_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 27_SynthPad3.wav
+        instrument: SynthPad
+      R010:
+        filename: 15_SynthBass.wav
+        instrument: SynthBass
+      R02:
+        filename: 21_SynthArp1.wav
+        instrument: SynthArp
+      R03:
+        filename: 19_SynthRiff4.wav
+        instrument: SynthRiff
+      R04:
+        filename: 31_SynthPad7.wav
+        instrument: SynthPad
+      R05:
+        filename: 28_SynthPad4.wav
+        instrument: SynthPad
+      R06:
+        filename: 33_SynthPad9.wav
+        instrument: SynthPad
+      R07:
+        filename: 30_SynthPad6.wav
+        instrument: SynthPad
+      R08:
+        filename: 26_SynthPad2.wav
+        instrument: SynthPad
+      R09:
+        filename: 24_SynthArp4.wav
+        instrument: SynthArp
+      R11:
+        filename: 17_SynthRiff2.wav
+        instrument: SynthRiff
+      R12:
+        filename: 25_SynthPad1.wav
+        instrument: SynthPad
+      R13:
+        filename: 32_SynthPad8.wav
+        instrument: SynthPad
+      R14:
+        filename: 20_SynthLead.wav
+        instrument: SynthLead
+      R15:
+        filename: 23_SynthArp3.wav
+        instrument: SynthArp
+      R16:
+        filename: 18_SynthRiff3.wav
+        instrument: SynthRiff
+      R17:
+        filename: 22_SynthArp2.wav
+        instrument: SynthArp
+      R18:
+        filename: 16_SynthRiff1.wav
+        instrument: SynthRiff
+      R19:
+        filename: 29_SynthPad5.wav
+        instrument: SynthPad
+  S04:
+    component: ''
+    filename: Giselle_Moss_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 44_SFX09.wav
+        instrument: SFX
+      R010:
+        filename: 37_SFX02.wav
+        instrument: SFX
+      R02:
+        filename: 42_SFX07.wav
+        instrument: SFX
+      R03:
+        filename: 14_SFXTransition2.wav
+        instrument: SFXTransition
+      R04:
+        filename: 43_SFX08.wav
+        instrument: SFX
+      R05:
+        filename: 40_SFX05.wav
+        instrument: SFX
+      R06:
+        filename: 39_SFX04.wav
+        instrument: SFX
+      R07:
+        filename: 46_SFX11.wav
+        instrument: SFX
+      R08:
+        filename: 45_SFX10.wav
+        instrument: SFX
+      R09:
+        filename: 41_SFX06.wav
+        instrument: SFX
+      R11:
+        filename: 48_SFX13.wav
+        instrument: SFX
+      R12:
+        filename: 36_SFX01.wav
+        instrument: SFX
+      R13:
+        filename: 13_SFXTransition1.wav
+        instrument: SFXTransition
+      R14:
+        filename: 47_SFX12.wav
+        instrument: SFX
+      R15:
+        filename: 38_SFX03.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 35_Handbells.wav
+    instrument: Handbells
+    raw:
+      R01:
+        filename: 35_Handbells.wav
+        instrument: Handbells
+  S06:
+    component: ''
+    filename: 54_BackingVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 54_BackingVox.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 52_Cellos.wav
+    instrument: Cellos
+    raw:
+      R01:
+        filename: 52_Cellos.wav
+        instrument: Cellos
+  S08:
+    component: ''
+    filename: 34_Wineglasses.wav
+    instrument: Wineglasses
+    raw:
+      R01:
+        filename: 34_Wineglasses.wav
+        instrument: Wineglasses
+  S09:
+    component: ''
+    filename: 49_Violins1.wav
+    instrument: Violins
+    raw:
+      R01:
+        filename: 49_Violins1.wav
+        instrument: Violins
+  S10:
+    component: ''
+    filename: 50_Violins2.wav
+    instrument: Violins
+    raw:
+      R01:
+        filename: 50_Violins2.wav
+        instrument: Violins
+  S11:
+    component: ''
+    filename: 51_Violas.wav
+    instrument: Violas
+    raw:
+      R01:
+        filename: 51_Violas.wav
+        instrument: Violas
+  S12:
+    component: ''
+    filename: 12_GongRoll.wav
+    instrument: GongRoll
+    raw:
+      R01:
+        filename: 12_GongRoll.wav
+        instrument: GongRoll
+  S13:
+    component: ''
+    filename: 53_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 53_LeadVox.wav
+        instrument: female singer
+title: Moss
+version: '3.0'
+website: ''

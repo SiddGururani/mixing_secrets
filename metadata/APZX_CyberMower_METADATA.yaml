@@ -1,0 +1,182 @@
+album: ''
+artist: APZX
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: APZX_CyberMower_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: APZX_CyberMower_RAW
+stem_dir: APZX_CyberMower_STEMS
+stems:
+  S01:
+    component: ''
+    filename: APZX_CyberMower_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Snare2.wav
+        instrument: Snare
+      R010:
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R03:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 15_RevCrash.wav
+        instrument: RevCrash
+      R05:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R06:
+        filename: 03_Snare1.wav
+        instrument: Snare
+      R07:
+        filename: 17_Crash2.wav
+        instrument: Crash
+      R08:
+        filename: 16_Crash1.wav
+        instrument: Crash
+      R09:
+        filename: 01_Kick1.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: APZX_CyberMower_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 30_Synth12.wav
+        instrument: Synth
+      R010:
+        filename: 27_Synth09.wav
+        instrument: Synth
+      R02:
+        filename: 29_Synth11.wav
+        instrument: Synth
+      R03:
+        filename: 24_Synth06.wav
+        instrument: Synth
+      R04:
+        filename: 32_Synth14.wav
+        instrument: Synth
+      R05:
+        filename: 22_Synth04.wav
+        instrument: Synth
+      R06:
+        filename: 20_Synth02.wav
+        instrument: Synth
+      R07:
+        filename: 21_Synth03.wav
+        instrument: Synth
+      R08:
+        filename: 25_Synth07.wav
+        instrument: Synth
+      R09:
+        filename: 19_Synth01.wav
+        instrument: Synth
+      R11:
+        filename: 23_Synth05.wav
+        instrument: Synth
+      R12:
+        filename: 31_Synth13.wav
+        instrument: Synth
+      R13:
+        filename: 26_Synth08.wav
+        instrument: Synth
+      R14:
+        filename: 28_Synth10.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: APZX_CyberMower_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 33_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 35_SFX3.wav
+        instrument: SFX
+      R03:
+        filename: 34_SFX2.wav
+        instrument: SFX
+      R04:
+        filename: 37_SFX5.wav
+        instrument: SFX
+      R05:
+        filename: 36_SFX4.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 08_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 08_Shaker.wav
+        instrument: Shaker
+  S05:
+    component: ''
+    filename: 10_Percussion1.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 10_Percussion1.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 11_Percussion2.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 11_Percussion2.wav
+        instrument: Percussion
+  S07:
+    component: ''
+    filename: 14_Percussion5.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 14_Percussion5.wav
+        instrument: Percussion
+  S08:
+    component: ''
+    filename: 18_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 18_Bass.wav
+        instrument: Bass
+  S09:
+    component: ''
+    filename: 13_Percussion4.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 13_Percussion4.wav
+        instrument: Percussion
+  S10:
+    component: ''
+    filename: 09_SubDrop.wav
+    instrument: SubDrop
+    raw:
+      R01:
+        filename: 09_SubDrop.wav
+        instrument: SubDrop
+  S11:
+    component: ''
+    filename: 12_Percussion3.wav
+    instrument: Percussion
+    raw:
+      R01:
+        filename: 12_Percussion3.wav
+        instrument: Percussion
+title: CyberMower
+version: '3.0'
+website: ''

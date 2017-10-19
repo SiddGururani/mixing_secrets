@@ -1,0 +1,214 @@
+album: ''
+artist: PatrickTalbot
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: PatrickTalbot_UpperHand_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: PatrickTalbot_UpperHand_RAW
+stem_dir: PatrickTalbot_UpperHand_STEMS
+stems:
+  S01:
+    component: ''
+    filename: PatrickTalbot_UpperHand_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_SnareDown.wav
+        instrument: SnareDown
+      R010:
+        filename: 08_Tom3.wav
+        instrument: Tom
+      R02:
+        filename: 10_DrumsRoom1_Stereo.wav
+        instrument: DrumsRoom_Stereo
+      R03:
+        filename: 11_DrumsRoom2_Mono.wav
+        instrument: DrumsRoom_Mono
+      R04:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R05:
+        filename: 03_KickSample.wav
+        instrument: KickSample
+      R06:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R07:
+        filename: 06_Tom1.wav
+        instrument: Tom
+      R08:
+        filename: 07_Tom2.wav
+        instrument: Tom
+      R09:
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+      R11:
+        filename: 09_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: PatrickTalbot_UpperHand_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 22_SFX.wav
+        instrument: SFX
+  S03:
+    component: ''
+    filename: 18_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 31_BackingVox8.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_BackingVox8.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 19_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 19_Rhodes.wav
+        instrument: Rhodes
+  S06:
+    component: ''
+    filename: 15_AcousticGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 15_AcousticGtr1.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 14_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 14_Bass.wav
+        instrument: double bass
+  S08:
+    component: ''
+    filename: 29_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 29_BackingVox6.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 17_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 16_AcoustiGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcoustiGtr2.wav
+        instrument: acoustic guitar
+  S11:
+    component: ''
+    filename: 23_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_LeadVox.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 20_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 20_Piano.wav
+        instrument: Piano
+  S13:
+    component: ''
+    filename: 28_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 28_BackingVox5.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 27_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 27_BackingVox4.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 30_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 30_BackingVox7.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 13_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 13_Tambourine.wav
+        instrument: Tambourine
+  S17:
+    component: ''
+    filename: 21_Horns.wav
+    instrument: Horns
+    raw:
+      R01:
+        filename: 21_Horns.wav
+        instrument: Horns
+  S18:
+    component: ''
+    filename: 24_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 24_BackingVox1.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 25_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 25_BackingVox2.wav
+        instrument: male singer
+  S20:
+    component: ''
+    filename: 12_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 12_Shaker.wav
+        instrument: Shaker
+  S21:
+    component: ''
+    filename: 26_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 26_BackingVox3.wav
+        instrument: male singer
+title: UpperHand
+version: '3.0'
+website: ''

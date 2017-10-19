@@ -1,0 +1,381 @@
+album: ''
+artist: DarkRide
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: DarkRide_DeadEnemies_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DarkRide_DeadEnemies_RAW
+stem_dir: DarkRide_DeadEnemies_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DarkRide_DeadEnemies_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 08_HiHat.wav
+        instrument: HiHat
+      R010:
+        filename: 02_KickMic2.wav
+        instrument: KickMic
+      R02:
+        filename: 11_Tom3.wav
+        instrument: Tom
+      R03:
+        filename: 13_Overheads.wav
+        instrument: Overheads
+      R04:
+        filename: 07_SnareSample.wav
+        instrument: SnareSample
+      R05:
+        filename: 05_SnareUpMic2.wav
+        instrument: SnareUpMic
+      R06:
+        filename: 12_Tom4.wav
+        instrument: Tom
+      R07:
+        filename: 04_SnareUpMic1.wav
+        instrument: SnareUpMic
+      R08:
+        filename: 06_SnareDown.wav
+        instrument: SnareDown
+      R09:
+        filename: 14_DrumsRoom.wav
+        instrument: DrumsRoom
+      R11:
+        filename: 03_KickSample.wav
+        instrument: KickSample
+      R12:
+        filename: 10_Tom2.wav
+        instrument: Tom
+      R13:
+        filename: 09_Tom1.wav
+        instrument: Tom
+      R14:
+        filename: 01_KickMic1.wav
+        instrument: KickMic
+  S02:
+    component: ''
+    filename: DarkRide_DeadEnemies_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 35_Synth03.wav
+        instrument: Synth
+      R02:
+        filename: 33_Synth01.wav
+        instrument: Synth
+      R03:
+        filename: 34_Synth02.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: DarkRide_DeadEnemies_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 40_SFX.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 15_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 15_Bass.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 48_BackingVox03.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 48_BackingVox03.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 42_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 42_LeadVox2.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 31_ElecGtr13DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 31_ElecGtr13DI.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 29_ElecGtr11DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 29_ElecGtr11DI.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 27_ElecGtr09DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 27_ElecGtr09DI.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 51_BackingVox06.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 51_BackingVox06.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 39_Lightning.wav
+    instrument: Lightning
+    raw:
+      R01:
+        filename: 39_Lightning.wav
+        instrument: Lightning
+  S12:
+    component: ''
+    filename: 19_ElecGtr02DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 19_ElecGtr02DT.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 36_Storm.wav
+    instrument: Storm
+    raw:
+      R01:
+        filename: 36_Storm.wav
+        instrument: Storm
+  S14:
+    component: ''
+    filename: 52_BackingVox07.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 52_BackingVox07.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 54_BackingVox09.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 54_BackingVox09.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 55_BackingVox10.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 55_BackingVox10.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 46_BackingVox01.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 46_BackingVox01.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 44_LeadVox4.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 44_LeadVox4.wav
+        instrument: male speaker
+  S19:
+    component: ''
+    filename: 20_ElecGtr03DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 20_ElecGtr03DI.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 18_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 18_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S21:
+    component: ''
+    filename: 23_ElecGtr06.wav
+    instrument: ElecGtr
+    raw:
+      R01:
+        filename: 23_ElecGtr06.wav
+        instrument: ElecGtr
+  S22:
+    component: ''
+    filename: 53_BackingVox08.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 53_BackingVox08.wav
+        instrument: male singer
+  S23:
+    component: ''
+    filename: 28_ElecGtr10DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 28_ElecGtr10DI.wav
+        instrument: distorted electric guitar
+  S24:
+    component: ''
+    filename: 49_BackingVox04.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 49_BackingVox04.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 21_ElecGtr04DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 21_ElecGtr04DI.wav
+        instrument: distorted electric guitar
+  S26:
+    component: ''
+    filename: 26_ElecGtr08DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr08DT.wav
+        instrument: distorted electric guitar
+  S27:
+    component: ''
+    filename: 24_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 22_ElecGtr05.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 22_ElecGtr05.wav
+        instrument: distorted electric guitar
+  S29:
+    component: ''
+    filename: 32_ElecGtr14DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr14DI.wav
+        instrument: distorted electric guitar
+  S30:
+    component: ''
+    filename: 38_Piano02.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 38_Piano02.wav
+        instrument: Piano
+  S31:
+    component: ''
+    filename: 25_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S32:
+    component: ''
+    filename: 30_ElecGtr12DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 30_ElecGtr12DI.wav
+        instrument: distorted electric guitar
+  S33:
+    component: ''
+    filename: 37_Piano01.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 37_Piano01.wav
+        instrument: Piano
+  S34:
+    component: ''
+    filename: 45_LeadVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 45_LeadVox5.wav
+        instrument: male singer
+  S35:
+    component: ''
+    filename: 47_BackingVox02.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 47_BackingVox02.wav
+        instrument: male singer
+  S36:
+    component: ''
+    filename: 41_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 41_LeadVox1.wav
+        instrument: male singer
+  S37:
+    component: ''
+    filename: 43_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 43_LeadVox3.wav
+        instrument: male singer
+  S38:
+    component: ''
+    filename: 16_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 16_AcousticGtr.wav
+        instrument: acoustic guitar
+  S39:
+    component: ''
+    filename: 17_ElecGtr01.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr01.wav
+        instrument: distorted electric guitar
+  S40:
+    component: ''
+    filename: 50_BackingVox05.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 50_BackingVox05.wav
+        instrument: male singer
+title: DeadEnemies
+version: '3.0'
+website: ''

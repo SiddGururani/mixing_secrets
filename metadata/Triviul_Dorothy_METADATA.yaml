@@ -1,0 +1,153 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_Dorothy_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_Dorothy_RAW
+stem_dir: Triviul_Dorothy_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_Dorothy_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Cymbals.wav
+        instrument: Cymbals
+      R02:
+        filename: 01_Drums.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: Triviul_Dorothy_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 08_Synth1.wav
+        instrument: Synth
+      R02:
+        filename: 09_Synth2.wav
+        instrument: Synth
+      R03:
+        filename: 10_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 15_LeadVoxKiddie.wav
+    instrument: male speaker
+    raw:
+      R01:
+        filename: 15_LeadVoxKiddie.wav
+        instrument: male speaker
+  S04:
+    component: ''
+    filename: 17_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 17_BackingVox2.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 18_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 18_BackingVox3.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 03_Bass1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 03_Bass1.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 14_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_LeadVoxDT.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 04_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 04_Bass2.wav
+        instrument: electric bass
+  S09:
+    component: ''
+    filename: 07_Mellotron.wav
+    instrument: Mellotron
+    raw:
+      R01:
+        filename: 07_Mellotron.wav
+        instrument: Mellotron
+  S10:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 06_MIDIGtr.wav
+    instrument: clean electric guitar samples
+    raw:
+      R01:
+        filename: 06_MIDIGtr.wav
+        instrument: clean electric guitar samples
+  S12:
+    component: ''
+    filename: 12_Harp.wav
+    instrument: Harp
+    raw:
+      R01:
+        filename: 12_Harp.wav
+        instrument: Harp
+  S13:
+    component: ''
+    filename: 16_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 16_BackingVox1.wav
+        instrument: female singer
+  S14:
+    component: ''
+    filename: 11_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 11_Strings.wav
+        instrument: Strings
+  S15:
+    component: ''
+    filename: 19_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 19_BackingVox4.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 05_PizzBass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_PizzBass.wav
+        instrument: double bass
+title: Dorothy
+version: '3.0'
+website: ''

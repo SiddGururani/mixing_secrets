@@ -1,0 +1,91 @@
+album: ''
+artist: Skelpolu
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Skelpolu_Resurrection_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Skelpolu_Resurrection_RAW
+stem_dir: Skelpolu_Resurrection_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Skelpolu_Resurrection_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R03:
+        filename: 05_Cymbal.wav
+        instrument: Cymbal
+      R04:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: Skelpolu_Resurrection_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 07_Synth01.wav
+        instrument: Synth
+      R02:
+        filename: 13_Synth07.wav
+        instrument: Synth
+      R03:
+        filename: 08_Synth02.wav
+        instrument: Synth
+      R04:
+        filename: 09_Synth03.wav
+        instrument: Synth
+      R05:
+        filename: 10_Synth04.wav
+        instrument: Synth
+      R06:
+        filename: 12_Synth06.wav
+        instrument: Synth
+      R07:
+        filename: 11_Synth05.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 14_Vox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_Vox1.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 04_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 04_Tambourine.wav
+        instrument: Tambourine
+  S05:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 06_Bass.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 15_Vox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 15_Vox2.wav
+        instrument: male singer
+title: Resurrection
+version: '3.0'
+website: ''

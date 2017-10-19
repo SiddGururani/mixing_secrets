@@ -1,0 +1,293 @@
+album: ''
+artist: LyndseyOllard
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: LyndseyOllard_CatchingUp_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: LyndseyOllard_CatchingUp_RAW
+stem_dir: LyndseyOllard_CatchingUp_STEMS
+stems:
+  S01:
+    component: ''
+    filename: LyndseyOllard_CatchingUp_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 15_Drums2SnareUp.wav
+        instrument: Drums
+      R010:
+        filename: 02_Drums1KickOut.wav
+        instrument: Drums
+      R02:
+        filename: 03_Drums1SnareUp.wav
+        instrument: Drums
+      R03:
+        filename: 01_Drums1KickIn.wav
+        instrument: Drums
+      R04:
+        filename: 21_Drums2Room.wav
+        instrument: Drums
+      R05:
+        filename: 05_Drums1HiHat.wav
+        instrument: Drums
+      R06:
+        filename: 08_Drums1Overheads.wav
+        instrument: Drums
+      R07:
+        filename: 18_Drums2Ride.wav
+        instrument: Drums
+      R08:
+        filename: 09_Drums1Room.wav
+        instrument: Drums
+      R09:
+        filename: 07_Drums1FloorTom.wav
+        instrument: Drums
+      R11:
+        filename: 22_Drums2Amb1.wav
+        instrument: Drums
+      R12:
+        filename: 04_Drums1SnareDown.wav
+        instrument: Drums
+      R13:
+        filename: 17_Drums2HiHat.wav
+        instrument: Drums
+      R14:
+        filename: 12_Drums1Amb3.wav
+        instrument: Drums
+      R15:
+        filename: 10_Drums1Amb1.wav
+        instrument: Drums
+      R16:
+        filename: 06_Drums1Ride.wav
+        instrument: Drums
+      R17:
+        filename: 13_Drums2KickIn.wav
+        instrument: Drums
+      R18:
+        filename: 20_Drums2Overheads.wav
+        instrument: Drums
+      R19:
+        filename: 11_Drums1Amb2.wav
+        instrument: Drums
+      R20:
+        filename: 16_Drums2SnareDown.wav
+        instrument: Drums
+      R21:
+        filename: 23_Drums2Amb2.wav
+        instrument: Drums
+      R22:
+        filename: 19_Drums2FloorTom.wav
+        instrument: Drums
+      R23:
+        filename: 14_Drums2KickOut.wav
+        instrument: Drums
+      R24:
+        filename: 24_Drums2Amb3.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: 35_ElecGtr02Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 35_ElecGtr02Mic2.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: 25_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 25_Tambourine.wav
+        instrument: Tambourine
+  S04:
+    component: ''
+    filename: 45_LeadVoxOD_UncompedTake03.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 45_LeadVoxOD_UncompedTake03.wav
+        instrument: female singer
+  S05:
+    component: ''
+    filename: 34_ElecGtr02Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 34_ElecGtr02Mic1.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 49_BackingVox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 49_BackingVox02.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 38_ElecGtr04Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 38_ElecGtr04Mic1.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 47_LeadVoxOD_UncompedTake05.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 47_LeadVoxOD_UncompedTake05.wav
+        instrument: female singer
+  S09:
+    component: ''
+    filename: 42_LeadVoxScratch.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 42_LeadVoxScratch.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 37_ElecGtr03Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 37_ElecGtr03Mic2.wav
+        instrument: clean electric guitar
+  S11:
+    component: ''
+    filename: 31_AcousticGtr04.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 31_AcousticGtr04.wav
+        instrument: acoustic guitar
+  S12:
+    component: ''
+    filename: 33_ElecGtr01Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 33_ElecGtr01Mic2.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 41_ElecGtr05Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 41_ElecGtr05Mic2.wav
+        instrument: clean electric guitar
+  S14:
+    component: ''
+    filename: 40_ElecGtr05Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 40_ElecGtr05Mic1.wav
+        instrument: clean electric guitar
+  S15:
+    component: ''
+    filename: 36_ElecGtr03Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 36_ElecGtr03Mic1.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 48_BackingVox01.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 48_BackingVox01.wav
+        instrument: female singer
+  S17:
+    component: ''
+    filename: 29_AcousticGtr02.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 29_AcousticGtr02.wav
+        instrument: acoustic guitar
+  S18:
+    component: ''
+    filename: 28_AcousticGtr01.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 28_AcousticGtr01.wav
+        instrument: acoustic guitar
+  S19:
+    component: ''
+    filename: 32_ElecGtr01Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 32_ElecGtr01Mic1.wav
+        instrument: clean electric guitar
+  S20:
+    component: ''
+    filename: 39_ElecGtr04Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 39_ElecGtr04Mic2.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 44_LeadVoxOD_UncompedTake02.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 44_LeadVoxOD_UncompedTake02.wav
+        instrument: female singer
+  S22:
+    component: ''
+    filename: 27_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 27_BassAmp.wav
+        instrument: electric bass
+  S23:
+    component: ''
+    filename: 43_LeadVoxOD_UncompedTake01.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 43_LeadVoxOD_UncompedTake01.wav
+        instrument: female singer
+  S24:
+    component: ''
+    filename: 46_LeadVoxOD_UncompedTake04.wav
+    instrument: female singer
+    raw:
+      R01:
+        filename: 46_LeadVoxOD_UncompedTake04.wav
+        instrument: female singer
+  S25:
+    component: ''
+    filename: 30_AcousticGtr03.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 30_AcousticGtr03.wav
+        instrument: acoustic guitar
+  S26:
+    component: ''
+    filename: 26_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 26_BassDI.wav
+        instrument: electric bass
+title: CatchingUp
+version: '3.0'
+website: ''

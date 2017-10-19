@@ -1,0 +1,88 @@
+album: ''
+artist: MR0904
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: MR0904_TimoCarlier_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0904_TimoCarlier_RAW
+stem_dir: MR0904_TimoCarlier_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0904_TimoCarlier_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 02_Bongo.wav
+    instrument: Bongo
+    raw:
+      R01:
+        filename: 02_Bongo.wav
+        instrument: Bongo
+  S03:
+    component: ''
+    filename: 05_AcGtrPlusVox1.wav
+    instrument: ['acoustic guitar', 'male singer']
+    raw:
+      R01:
+        filename: 05_AcGtrPlusVox1.wav
+        instrument: ['acoustic guitar', 'male singer']
+  S04:
+    component: ''
+    filename: 07_AcGtrPlusVox2.wav
+    instrument: ['acoustic guitar', 'male singer']
+    raw:
+      R01:
+        filename: 07_AcGtrPlusVox2.wav
+        instrument: ['acoustic guitar', 'male singer']
+  S05:
+    component: ''
+    filename: 06_VoxPlusAcGtr1.wav
+    instrument: ['acoustic guitar', 'male singer']
+    raw:
+      R01:
+        filename: 06_VoxPlusAcGtr1.wav
+        instrument: ['acoustic guitar', 'male singer']
+  S06:
+    component: ''
+    filename: 09_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 09_BackingVox.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 03_Tambourine.wav
+    instrument: Tambourine
+    raw:
+      R01:
+        filename: 03_Tambourine.wav
+        instrument: Tambourine
+  S08:
+    component: ''
+    filename: 08_VoxPlusAcGtr2.wav
+    instrument: ['acoustic guitar', 'male singer']
+    raw:
+      R01:
+        filename: 08_VoxPlusAcGtr2.wav
+        instrument: ['acoustic guitar', 'male singer']
+  S09:
+    component: ''
+    filename: 04_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 04_Bass.wav
+        instrument: double bass
+title: TimoCarlier
+version: '3.0'
+website: ''

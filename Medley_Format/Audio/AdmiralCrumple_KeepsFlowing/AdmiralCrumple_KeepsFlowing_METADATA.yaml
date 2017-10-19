@@ -1,0 +1,76 @@
+album: ''
+artist: AdmiralCrumple
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AdmiralCrumple_KeepsFlowing_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AdmiralCrumple_KeepsFlowing_RAW
+stem_dir: AdmiralCrumple_KeepsFlowing_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AdmiralCrumple_KeepsFlowing_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Hat1.wav
+        instrument: Hat
+      R02:
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R03:
+        filename: 05_Hat2.wav
+        instrument: Hat
+      R04:
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R05:
+        filename: 03_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 08_LeadVoxDouble1.wav
+    instrument: male rapper
+    raw:
+      R01:
+        filename: 08_LeadVoxDouble1.wav
+        instrument: male rapper
+  S03:
+    component: ''
+    filename: 10_Scream.wav
+    instrument: Scream
+    raw:
+      R01:
+        filename: 10_Scream.wav
+        instrument: Scream
+  S04:
+    component: ''
+    filename: 07_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 07_LeadVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 06_Sample.wav
+    instrument: Sample
+    raw:
+      R01:
+        filename: 06_Sample.wav
+        instrument: Sample
+  S06:
+    component: ''
+    filename: 09_LeadVoxDouble2.wav
+    instrument: LeadVoxDouble
+    raw:
+      R01:
+        filename: 09_LeadVoxDouble2.wav
+        instrument: LeadVoxDouble
+title: KeepsFlowing
+version: '3.0'
+website: ''

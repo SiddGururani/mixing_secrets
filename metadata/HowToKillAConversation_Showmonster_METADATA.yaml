@@ -1,0 +1,92 @@
+album: ''
+artist: HowToKillAConversation
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: HowToKillAConversation_Showmonster_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: HowToKillAConversation_Showmonster_RAW
+stem_dir: HowToKillAConversation_Showmonster_STEMS
+stems:
+  S01:
+    component: ''
+    filename: HowToKillAConversation_Showmonster_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R02:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R04:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R05:
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: 11_Gtr2b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_Gtr2b.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 10_Gtr2a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_Gtr2a.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 09_Gtr1b.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_Gtr1b.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 08_Gtr1a.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_Gtr1a.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 04_Room.wav
+    instrument: Main System
+    raw:
+      R01:
+        filename: 04_Room.wav
+        instrument: Main System
+title: Showmonster
+version: '3.0'
+website: ''

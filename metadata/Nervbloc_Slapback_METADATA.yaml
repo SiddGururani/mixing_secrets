@@ -1,0 +1,152 @@
+album: ''
+artist: Nervbloc
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Nervbloc_Slapback_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Nervbloc_Slapback_RAW
+stem_dir: Nervbloc_Slapback_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Nervbloc_Slapback_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 07_RevCymbal.wav
+        instrument: RevCymbal
+  S02:
+    component: ''
+    filename: Nervbloc_Slapback_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        filename: 01_Loop1.wav
+        instrument: Loop
+      R02:
+        filename: 03_Loop3.wav
+        instrument: Loop
+      R03:
+        filename: 05_Loop5.wav
+        instrument: Loop
+      R04:
+        filename: 06_Loop6.wav
+        instrument: Loop
+      R05:
+        filename: 02_Loop2.wav
+        instrument: Loop
+      R06:
+        filename: 04_Loop4.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: Nervbloc_Slapback_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 20_Synth6.wav
+        instrument: Synth
+      R02:
+        filename: 15_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 17_Synth3.wav
+        instrument: Synth
+      R04:
+        filename: 21_Synth7.wav
+        instrument: Synth
+      R05:
+        filename: 18_Synth4.wav
+        instrument: Synth
+      R06:
+        filename: 16_Synth2.wav
+        instrument: Synth
+      R07:
+        filename: 19_Synth5.wav
+        instrument: Synth
+      R08:
+        filename: 23_Synth9.wav
+        instrument: Synth
+      R09:
+        filename: 22_Synth8.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: Nervbloc_Slapback_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 27_SFX4.wav
+        instrument: SFX
+      R02:
+        filename: 26_SFX3.wav
+        instrument: SFX
+      R03:
+        filename: 25_SFX2.wav
+        instrument: SFX
+      R04:
+        filename: 24_SFX1.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 11_Bass3b.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 11_Bass3b.wav
+        instrument: bass synth
+  S06:
+    component: ''
+    filename: 09_Bass2.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 09_Bass2.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 08_Bass1.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_Bass1.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 10_Bass3a.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 10_Bass3a.wav
+        instrument: bass synth
+  S09:
+    component: ''
+    filename: 13_Bass4.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 13_Bass4.wav
+        instrument: bass synth
+  S10:
+    component: ''
+    filename: 12_Bass3c.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 12_Bass3c.wav
+        instrument: bass synth
+  S11:
+    component: ''
+    filename: 14_Bass5.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 14_Bass5.wav
+        instrument: bass synth
+title: Slapback
+version: '3.0'
+website: ''

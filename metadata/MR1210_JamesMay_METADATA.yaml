@@ -1,0 +1,108 @@
+album: ''
+artist: MR1210
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1210_JamesMay_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1210_JamesMay_RAW
+stem_dir: MR1210_JamesMay_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1210_JamesMay_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R02:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 05_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 11_Cello1.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 11_Cello1.wav
+        instrument: Cello
+  S04:
+    component: ''
+    filename: 12_Cello2.wav
+    instrument: Cello
+    raw:
+      R01:
+        filename: 12_Cello2.wav
+        instrument: Cello
+  S05:
+    component: ''
+    filename: 09_Mandolin1.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 09_Mandolin1.wav
+        instrument: Mandolin
+  S06:
+    component: ''
+    filename: 08_AcGtr_Mics.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 08_AcGtr_Mics.wav
+        instrument: acoustic guitar
+  S07:
+    component: ''
+    filename: 07_AcGtr_DIConvolved.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 07_AcGtr_DIConvolved.wav
+        instrument: acoustic guitar
+  S08:
+    component: ''
+    filename: 10_Mandolin2.wav
+    instrument: Mandolin
+    raw:
+      R01:
+        filename: 10_Mandolin2.wav
+        instrument: Mandolin
+  S09:
+    component: ''
+    filename: 14_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 14_BackingVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 06_BassStudioPros.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 06_BassStudioPros.wav
+        instrument: electric bass
+title: JamesMay
+version: '3.0'
+website: ''

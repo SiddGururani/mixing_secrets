@@ -1,0 +1,90 @@
+album: ''
+artist: Woodfire
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Woodfire_WealthyInTime_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Woodfire_WealthyInTime_RAW
+stem_dir: Woodfire_WealthyInTime_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Woodfire_WealthyInTime_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_Tom2.wav
+        instrument: Tom
+      R02:
+        filename: 03_Tom1.wav
+        instrument: Tom
+      R03:
+        filename: 06_OverheadStereo.wav
+        instrument: OverheadStereo
+      R04:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 05_OverheadMono.wav
+        instrument: OverheadMono
+      R07:
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+  S02:
+    component: ''
+    filename: 09_ElecGtr01Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr01Mic1.wav
+        instrument: distorted electric guitar
+  S03:
+    component: ''
+    filename: 10_ElecGtr01Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr01Mic2.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 13_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 13_LeadVox.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 11_ElecGtr02Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr02Mic1.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 12_ElecGtr02Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 12_ElecGtr02Mic2.wav
+        instrument: distorted electric guitar
+title: WealthyInTime
+version: '3.0'
+website: ''

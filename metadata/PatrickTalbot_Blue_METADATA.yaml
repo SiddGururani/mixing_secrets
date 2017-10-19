@@ -1,0 +1,135 @@
+album: ''
+artist: PatrickTalbot
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: PatrickTalbot_Blue_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: PatrickTalbot_Blue_RAW
+stem_dir: PatrickTalbot_Blue_STEMS
+stems:
+  S01:
+    component: ''
+    filename: PatrickTalbot_Blue_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 11_HiHat.wav
+        instrument: HiHat
+      R010:
+        filename: 10_Tom4.wav
+        instrument: Tom
+      R02:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R03:
+        filename: 14_DrumsRoom2.wav
+        instrument: DrumsRoom
+      R04:
+        filename: 07_Tom1.wav
+        instrument: Tom
+      R05:
+        filename: 04_SnareUp1.wav
+        instrument: SnareUp
+      R06:
+        filename: 09_Tom3.wav
+        instrument: Tom
+      R07:
+        filename: 03_KickSub.wav
+        instrument: KickSub
+      R08:
+        filename: 13_DrumsRoom1.wav
+        instrument: DrumsRoom
+      R09:
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R11:
+        filename: 12_Overheads.wav
+        instrument: Overheads
+      R12:
+        filename: 05_SnareUp2.wav
+        instrument: SnareUp
+      R13:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R14:
+        filename: 06_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: 21_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 21_LeadVox.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 16_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 16_ElecGtr1.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 20_ToyPiano.wav
+    instrument: Toy Piano
+    raw:
+      R01:
+        filename: 20_ToyPiano.wav
+        instrument: Toy Piano
+  S05:
+    component: ''
+    filename: 11_Bass.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 11_Bass.wav
+        instrument: double bass
+  S06:
+    component: ''
+    filename: 17_ElecGtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        filename: 17_ElecGtr2.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 19_Rhodes.wav
+    instrument: Rhodes
+    raw:
+      R01:
+        filename: 19_Rhodes.wav
+        instrument: Rhodes
+  S08:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 23_BackingVox2.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 22_BackingVox1.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 18_Vibes.wav
+    instrument: Vibraphone
+    raw:
+      R01:
+        filename: 18_Vibes.wav
+        instrument: Vibraphone
+title: Blue
+version: '3.0'
+website: ''

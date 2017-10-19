@@ -1,0 +1,387 @@
+album: ''
+artist: KarlHungus
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: KarlHungus_GotYourLove_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: KarlHungus_GotYourLove_RAW
+stem_dir: KarlHungus_GotYourLove_STEMS
+stems:
+  S01:
+    component: ''
+    filename: KarlHungus_GotYourLove_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 12_Snare04_SFX.wav
+        instrument: Snare_SFX
+      R010:
+        filename: 11_Snare03_808.wav
+        instrument: Snare_
+      R02:
+        filename: 04_Kick04.wav
+        instrument: Kick
+      R03:
+        filename: 14_Snare06.wav
+        instrument: Snare
+      R04:
+        filename: 15_Snare07.wav
+        instrument: Snare
+      R05:
+        filename: 17_Snare09_SFX.wav
+        instrument: Snare_SFX
+      R06:
+        filename: 05_Kick05.wav
+        instrument: Kick
+      R07:
+        filename: 28_Hat05_SFX.wav
+        instrument: Hat_SFX
+      R08:
+        filename: 38_Cowbell_808.wav
+        instrument: Cowbell_
+      R09:
+        filename: 16_Snare08_SFX.wav
+        instrument: Snare_SFX
+      R11:
+        filename: 30_Toms02_SFX.wav
+        instrument: Toms_SFX
+      R12:
+        filename: 09_Snare01.wav
+        instrument: Snare
+      R13:
+        filename: 26_Hat03.wav
+        instrument: Hat
+      R14:
+        filename: 27_Hat04_SFX.wav
+        instrument: Hat_SFX
+      R15:
+        filename: 07_Kick07_SFX.wav
+        instrument: Kick_SFX
+      R16:
+        filename: 03_Kick03.wav
+        instrument: Kick
+      R17:
+        filename: 13_Snare05_808.wav
+        instrument: Snare_
+      R18:
+        filename: 10_Snare02_SFX.wav
+        instrument: Snare_SFX
+      R19:
+        filename: 31_Toms03_808.wav
+        instrument: Toms_
+      R20:
+        filename: 29_Toms01_SFX.wav
+        instrument: Toms_SFX
+      R21:
+        filename: 01_Kick01.wav
+        instrument: Kick
+      R22:
+        filename: 25_Hat02_808.wav
+        instrument: Hat_
+      R23:
+        filename: 18_Snare10_SFX.wav
+        instrument: Snare_SFX
+      R24:
+        filename: 24_Hat01_808.wav
+        instrument: Hat_
+      R25:
+        filename: 02_Kick02_SFX.wav
+        instrument: Kick_SFX
+      R26:
+        filename: 06_Kick06_SFX.wav
+        instrument: Kick_SFX
+  S02:
+    component: ''
+    filename: KarlHungus_GotYourLove_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 54_Synth07.wav
+        instrument: Synth
+      R010:
+        filename: 51_Synth04.wav
+        instrument: Synth
+      R02:
+        filename: 50_Synth03_SFX.wav
+        instrument: Synth_SFX
+      R03:
+        filename: 63_Synth13_SFX.wav
+        instrument: Synth_SFX
+      R04:
+        filename: 60_Synth10d.wav
+        instrument: Synth
+      R05:
+        filename: 48_Synth01.wav
+        instrument: Synth
+      R06:
+        filename: 62_Synth12_SFX.wav
+        instrument: Synth_SFX
+      R07:
+        filename: 56_Synth09_SFX.wav
+        instrument: Synth_SFX
+      R08:
+        filename: 53_Synth06.wav
+        instrument: Synth
+      R09:
+        filename: 49_Synth02.wav
+        instrument: Synth
+      R11:
+        filename: 57_Synth10a.wav
+        instrument: Synth
+      R12:
+        filename: 66_Synth16.wav
+        instrument: Synth
+      R13:
+        filename: 58_Synth10b.wav
+        instrument: Synth
+      R14:
+        filename: 64_Synth14_SFX.wav
+        instrument: Synth_SFX
+      R15:
+        filename: 55_Synth08_SFX.wav
+        instrument: Synth_SFX
+      R16:
+        filename: 65_Synth15_SFX.wav
+        instrument: Synth_SFX
+      R17:
+        filename: 59_Synth10c.wav
+        instrument: Synth
+      R18:
+        filename: 52_Synth05_SFX.wav
+        instrument: Synth_SFX
+      R19:
+        filename: 61_Synth11_SFX.wav
+        instrument: Synth_SFX
+  S03:
+    component: ''
+    filename: KarlHungus_GotYourLove_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 12_Snare04_SFX.wav
+        instrument: Snare_SFX
+      R010:
+        filename: 52_Synth05_SFX.wav
+        instrument: Synth_SFX
+      R02:
+        filename: 19_Claps01_SFX.wav
+        instrument: Claps_SFX
+      R03:
+        filename: 17_Snare09_SFX.wav
+        instrument: Snare_SFX
+      R04:
+        filename: 61_Synth11_SFX.wav
+        instrument: Synth_SFX
+      R05:
+        filename: 28_Hat05_SFX.wav
+        instrument: Hat_SFX
+      R06:
+        filename: 43_NoiseSweep04_SFX.wav
+        instrument: NoiseSweep_SFX
+      R07:
+        filename: 16_Snare08_SFX.wav
+        instrument: Snare_SFX
+      R08:
+        filename: 64_Synth14_SFX.wav
+        instrument: Synth_SFX
+      R09:
+        filename: 30_Toms02_SFX.wav
+        instrument: Toms_SFX
+      R11:
+        filename: 68_Vox01_SFX.wav
+        instrument: Vox_SFX
+      R12:
+        filename: 27_Hat04_SFX.wav
+        instrument: Hat_SFX
+      R13:
+        filename: 62_Synth12_SFX.wav
+        instrument: Synth_SFX
+      R14:
+        filename: 07_Kick07_SFX.wav
+        instrument: Kick_SFX
+      R15:
+        filename: 10_Snare02_SFX.wav
+        instrument: Snare_SFX
+      R16:
+        filename: 65_Synth15_SFX.wav
+        instrument: Synth_SFX
+      R17:
+        filename: 23_Claps05_SFX.wav
+        instrument: Claps_SFX
+      R18:
+        filename: 29_Toms01_SFX.wav
+        instrument: Toms_SFX
+      R19:
+        filename: 39_Cartoon_SFX.wav
+        instrument: Cartoon_SFX
+      R20:
+        filename: 50_Synth03_SFX.wav
+        instrument: Synth_SFX
+      R21:
+        filename: 70_Vox03_SFX.wav
+        instrument: Vox_SFX
+      R22:
+        filename: 63_Synth13_SFX.wav
+        instrument: Synth_SFX
+      R23:
+        filename: 56_Synth09_SFX.wav
+        instrument: Synth_SFX
+      R24:
+        filename: 69_Vox02_SFX.wav
+        instrument: Vox_SFX
+      R25:
+        filename: 18_Snare10_SFX.wav
+        instrument: Snare_SFX
+      R26:
+        filename: 35_Chimes01_SFX.wav
+        instrument: Chimes_SFX
+      R27:
+        filename: 20_Claps02_SFX.wav
+        instrument: Claps_SFX
+      R28:
+        filename: 55_Synth08_SFX.wav
+        instrument: Synth_SFX
+      R29:
+        filename: 44_NoiseSweep05_SFX.wav
+        instrument: NoiseSweep_SFX
+      R30:
+        filename: 02_Kick02_SFX.wav
+        instrument: Kick_SFX
+      R31:
+        filename: 06_Kick06_SFX.wav
+        instrument: Kick_SFX
+  S04:
+    component: ''
+    filename: 34_Shaker02.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 34_Shaker02.wav
+        instrument: Shaker
+  S05:
+    component: ''
+    filename: 36_Chimes02.wav
+    instrument: Chimes
+    raw:
+      R01:
+        filename: 36_Chimes02.wav
+        instrument: Chimes
+  S06:
+    component: ''
+    filename: 45_Bass01.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 45_Bass01.wav
+        instrument: bass synth
+  S07:
+    component: ''
+    filename: 40_NoiseSweep01.wav
+    instrument: NoiseSweep
+    raw:
+      R01:
+        filename: 40_NoiseSweep01.wav
+        instrument: NoiseSweep
+  S08:
+    component: ''
+    filename: 32_Bongo.wav
+    instrument: Bongo
+    raw:
+      R01:
+        filename: 32_Bongo.wav
+        instrument: Bongo
+  S09:
+    component: ''
+    filename: 47_Bass03.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 47_Bass03.wav
+        instrument: bass synth
+  S10:
+    component: ''
+    filename: 67_Piano.wav
+    instrument: Piano
+    raw:
+      R01:
+        filename: 67_Piano.wav
+        instrument: Piano
+  S11:
+    component: ''
+    filename: 08_SubBoom.wav
+    instrument: SubBoom
+    raw:
+      R01:
+        filename: 08_SubBoom.wav
+        instrument: SubBoom
+  S12:
+    component: ''
+    filename: 41_NoiseSweep02.wav
+    instrument: NoiseSweep
+    raw:
+      R01:
+        filename: 41_NoiseSweep02.wav
+        instrument: NoiseSweep
+  S13:
+    component: ''
+    filename: 46_Bass02.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 46_Bass02.wav
+        instrument: bass synth
+  S14:
+    component: ''
+    filename: 22_Claps04.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 22_Claps04.wav
+        instrument: Claps
+  S15:
+    component: ''
+    filename: 21_Claps03.wav
+    instrument: Claps
+    raw:
+      R01:
+        filename: 21_Claps03.wav
+        instrument: Claps
+  S16:
+    component: ''
+    filename: 37_Clave.wav
+    instrument: Clave
+    raw:
+      R01:
+        filename: 37_Clave.wav
+        instrument: Clave
+  S17:
+    component: ''
+    filename: 33_Shaker01.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 33_Shaker01.wav
+        instrument: Shaker
+  S18:
+    component: ''
+    filename: 42_NoiseSweep03.wav
+    instrument: NoiseSweep
+    raw:
+      R01:
+        filename: 42_NoiseSweep03.wav
+        instrument: NoiseSweep
+  S19:
+    component: ''
+    filename: 71_Vox04.wav
+    instrument: female speaker
+    raw:
+      R01:
+        filename: 71_Vox04.wav
+        instrument: female speaker
+title: GotYourLove
+version: '3.0'
+website: ''

@@ -1,0 +1,224 @@
+album: ''
+artist: RaftMonk
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: RaftMonk_Tiring_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: RaftMonk_Tiring_RAW
+stem_dir: RaftMonk_Tiring_STEMS
+stems:
+  S01:
+    component: ''
+    filename: RaftMonk_Tiring_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 11_DrumsRoom.wav
+        instrument: DrumsRoom
+      R010:
+        filename: 03_HiHat.wav
+        instrument: HiHat
+      R02:
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R03:
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        filename: 05_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        filename: 10_DrumsLeakage.wav
+        instrument: DrumsLeakage
+      R06:
+        filename: 06_SnareDown.wav
+        instrument: SnareDown
+      R07:
+        filename: 09_Tom3.wav
+        instrument: Tom
+      R08:
+        filename: 07_Tom1.wav
+        instrument: Tom
+      R09:
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R11:
+        filename: 04_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: RaftMonk_Tiring_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 29_Synth.wav
+        instrument: Synth
+      R02:
+        filename: 30_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: RaftMonk_Tiring_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 17_SFX5.wav
+        instrument: SFX
+      R02:
+        filename: 16_SFX4.wav
+        instrument: SFX
+      R03:
+        filename: 13_SFX1.wav
+        instrument: SFX
+      R04:
+        filename: 14_SFX2.wav
+        instrument: SFX
+      R05:
+        filename: 18_SFX6.wav
+        instrument: SFX
+      R06:
+        filename: 15_SFX3.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 23_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 23_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 34_BackingVox1DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 34_BackingVox1DT.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 36_BackingVox2DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 36_BackingVox2DT.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 25_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 25_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 22_AcousticGtrDT.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 22_AcousticGtrDT.wav
+        instrument: acoustic guitar
+  S09:
+    component: ''
+    filename: 21_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        filename: 21_AcousticGtr.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 24_ElecGtr1DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 24_ElecGtr1DT.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 12_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 12_Shaker.wav
+        instrument: Shaker
+  S12:
+    component: ''
+    filename: 19_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 19_BassAmp.wav
+        instrument: electric bass
+  S13:
+    component: ''
+    filename: 26_ElecGtr2DT.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 26_ElecGtr2DT.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 32_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 32_LeadVoxDT.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 20_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 20_BassDI.wav
+        instrument: electric bass
+  S16:
+    component: ''
+    filename: 35_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 35_BackingVox2.wav
+        instrument: male singer
+  S17:
+    component: ''
+    filename: 31_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 31_LeadVox.wav
+        instrument: male singer
+  S18:
+    component: ''
+    filename: 33_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        filename: 33_BackingVox1.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 27_Strings.wav
+    instrument: Strings
+    raw:
+      R01:
+        filename: 27_Strings.wav
+        instrument: Strings
+  S20:
+    component: ''
+    filename: 28_Organ.wav
+    instrument: Organ
+    raw:
+      R01:
+        filename: 28_Organ.wav
+        instrument: Organ
+title: Tiring
+version: '3.0'
+website: ''

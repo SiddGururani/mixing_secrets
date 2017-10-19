@@ -1,0 +1,95 @@
+album: ''
+artist: Timboz
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Timboz_Pony_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Timboz_Pony_RAW
+stem_dir: Timboz_Pony_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Timboz_Pony_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R03:
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R04:
+        filename: 06_Tom3.wav
+        instrument: Tom
+      R05:
+        filename: 01_Kick.wav
+        instrument: Kick
+      R06:
+        filename: 05_Tom2.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 12_LeadVox.wav
+        instrument: male screamer
+  S03:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 10_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 11_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        filename: 08_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 13_BackingVox.wav
+    instrument: male screamer
+    raw:
+      R01:
+        filename: 13_BackingVox.wav
+        instrument: male screamer
+  S08:
+    component: ''
+    filename: 07_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        filename: 07_Bass.wav
+        instrument: electric bass
+title: Pony
+version: '3.0'
+website: ''

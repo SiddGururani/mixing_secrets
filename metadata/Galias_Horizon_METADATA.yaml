@@ -1,0 +1,116 @@
+album: ''
+artist: Galias
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Galias_Horizon_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Galias_Horizon_RAW
+stem_dir: Galias_Horizon_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Galias_Horizon_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 04_HiHat2.wav
+        instrument: HiHat
+      R02:
+        filename: 03_HiHat1.wav
+        instrument: HiHat
+      R03:
+        filename: 02_Snares.wav
+        instrument: Snares
+      R04:
+        filename: 05_Toms.wav
+        instrument: Toms
+      R05:
+        filename: 01_Kicks.wav
+        instrument: Kicks
+  S02:
+    component: ''
+    filename: Galias_Horizon_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        filename: 13_Synth2.wav
+        instrument: Synth
+      R02:
+        filename: 12_Synth1.wav
+        instrument: Synth
+      R03:
+        filename: 16_Synth5.wav
+        instrument: Synth
+      R04:
+        filename: 18_Synth7.wav
+        instrument: Synth
+      R05:
+        filename: 15_Synth4.wav
+        instrument: Synth
+      R06:
+        filename: 17_Synth6.wav
+        instrument: Synth
+      R07:
+        filename: 14_Synth3.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Galias_Horizon_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        filename: 07_SFX1.wav
+        instrument: SFX
+      R02:
+        filename: 09_SFX3.wav
+        instrument: SFX
+      R03:
+        filename: 08_SFX2.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 19_Piano1.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 19_Piano1.wav
+        instrument: electric piano
+  S05:
+    component: ''
+    filename: 11_SubBass.wav
+    instrument: SubBass
+    raw:
+      R01:
+        filename: 11_SubBass.wav
+        instrument: SubBass
+  S06:
+    component: ''
+    filename: 20_Piano2.wav
+    instrument: electric piano
+    raw:
+      R01:
+        filename: 20_Piano2.wav
+        instrument: electric piano
+  S07:
+    component: ''
+    filename: 10_Basses.wav
+    instrument: bass synth
+    raw:
+      R01:
+        filename: 10_Basses.wav
+        instrument: bass synth
+  S08:
+    component: ''
+    filename: 06_Shaker.wav
+    instrument: Shaker
+    raw:
+      R01:
+        filename: 06_Shaker.wav
+        instrument: Shaker
+title: Horizon
+version: '3.0'
+website: ''

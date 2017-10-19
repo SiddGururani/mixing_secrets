@@ -1,0 +1,86 @@
+album: ''
+artist: Zwiepack
+composer: ''
+excerpt: ''
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: Zwiepack_Summertime_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Zwiepack_Summertime_RAW
+stem_dir: Zwiepack_Summertime_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Zwiepack_Summertime_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        filename: 03_Snare.wav
+        instrument: Snare
+      R02:
+        filename: 02_Kick.wav
+        instrument: Kick
+      R03:
+        filename: 04_Overhead.wav
+        instrument: Overhead
+  S02:
+    component: ''
+    filename: 05_BassMic1.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 05_BassMic1.wav
+        instrument: double bass
+  S03:
+    component: ''
+    filename: 07_BassDI.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 07_BassDI.wav
+        instrument: double bass
+  S04:
+    component: ''
+    filename: 08_SaxMic1.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 08_SaxMic1.wav
+        instrument: Saxophone
+  S05:
+    component: ''
+    filename: 10_Room.wav
+    instrument: Room
+    raw:
+      R01:
+        filename: 10_Room.wav
+        instrument: Room
+  S06:
+    component: ''
+    filename: 09_SaxMic2.wav
+    instrument: Saxophone
+    raw:
+      R01:
+        filename: 09_SaxMic2.wav
+        instrument: Saxophone
+  S07:
+    component: ''
+    filename: 06_BassMic2.wav
+    instrument: double bass
+    raw:
+      R01:
+        filename: 06_BassMic2.wav
+        instrument: double bass
+  S08:
+    component: ''
+    filename: 01_MainPair.wav
+    instrument: MainPair
+    raw:
+      R01:
+        filename: 01_MainPair.wav
+        instrument: MainPair
+title: Summertime
+version: '3.0'
+website: ''
