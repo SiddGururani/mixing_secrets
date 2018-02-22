@@ -72,7 +72,7 @@ stems:
   S03:
     component: ''
     filename: 18_Claps.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 18_Claps.wav
@@ -112,7 +112,7 @@ stems:
   S08:
     component: ''
     filename: 21_Rhodes.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 21_Rhodes.wav
@@ -120,7 +120,7 @@ stems:
   S09:
     component: ''
     filename: 14_Woodblock.wav
-    instrument: Woodblock
+    instrument: woodblock
     raw:
       R01:
         filename: 14_Woodblock.wav
@@ -128,7 +128,7 @@ stems:
   S10:
     component: ''
     filename: 16_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 16_Shaker.wav
@@ -176,7 +176,7 @@ stems:
   S16:
     component: ''
     filename: 17_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 17_Tambourine.wav

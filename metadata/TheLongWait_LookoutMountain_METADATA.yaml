@@ -127,7 +127,7 @@ stems:
   S14:
     component: ''
     filename: 15_LeadVox_AltTake.wav
-    instrument: female singer_AltTake
+    instrument: female singer_alttake
     raw:
       R01:
         filename: 15_LeadVox_AltTake.wav

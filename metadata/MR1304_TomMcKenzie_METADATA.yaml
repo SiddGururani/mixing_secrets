@@ -74,7 +74,7 @@ stems:
   S07:
     component: ''
     filename: 07_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 07_Tambourine.wav
@@ -178,7 +178,7 @@ stems:
   S20:
     component: ''
     filename: 06_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 06_Shaker.wav
@@ -202,7 +202,7 @@ stems:
   S23:
     component: ''
     filename: 08_Bongos.wav
-    instrument: Bongos
+    instrument: bongos
     raw:
       R01:
         filename: 08_Bongos.wav

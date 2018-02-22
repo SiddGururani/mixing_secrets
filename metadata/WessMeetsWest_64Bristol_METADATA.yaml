@@ -213,7 +213,7 @@ stems:
   S15:
     component: ''
     filename: 60_Bells.wav
-    instrument: Bells
+    instrument: bells
     raw:
       R01:
         filename: 60_Bells.wav
@@ -373,7 +373,7 @@ stems:
   S35:
     component: ''
     filename: 59_Rhodes.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 59_Rhodes.wav

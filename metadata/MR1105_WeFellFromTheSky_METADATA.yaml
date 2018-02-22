@@ -68,7 +68,7 @@ stems:
   S04:
     component: ''
     filename: 11_AmbStereo1.wav
-    instrument: AmbStereo
+    instrument: ambstereo
     raw:
       R01:
         filename: 11_AmbStereo1.wav
@@ -132,7 +132,7 @@ stems:
   S12:
     component: ''
     filename: 09_AmbMono1.wav
-    instrument: AmbMono
+    instrument: ambmono
     raw:
       R01:
         filename: 09_AmbMono1.wav
@@ -188,7 +188,7 @@ stems:
   S19:
     component: ''
     filename: 10_AmoMono2.wav
-    instrument: AmoMono
+    instrument: amomono
     raw:
       R01:
         filename: 10_AmoMono2.wav
@@ -236,7 +236,7 @@ stems:
   S25:
     component: ''
     filename: 12_AmbStereo2.wav
-    instrument: AmbStereo
+    instrument: ambstereo
     raw:
       R01:
         filename: 12_AmbStereo2.wav
@@ -244,7 +244,7 @@ stems:
   S26:
     component: ''
     filename: 13_AmbStereo3.wav
-    instrument: AmbStereo
+    instrument: ambstereo
     raw:
       R01:
         filename: 13_AmbStereo3.wav

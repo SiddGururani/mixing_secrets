@@ -58,7 +58,7 @@ stems:
   S05:
     component: ''
     filename: 14_Mellotron2.wav
-    instrument: Mellotron
+    instrument: mellotron
     raw:
       R01:
         filename: 14_Mellotron2.wav
@@ -98,7 +98,7 @@ stems:
   S10:
     component: ''
     filename: 13_Mellotron1.wav
-    instrument: Mellotron
+    instrument: mellotron
     raw:
       R01:
         filename: 13_Mellotron1.wav
@@ -106,7 +106,7 @@ stems:
   S11:
     component: ''
     filename: 08_Sample2Harp.wav
-    instrument: harp Sample
+    instrument: harp sample
     raw:
       R01:
         filename: 08_Sample2Harp.wav
@@ -122,7 +122,7 @@ stems:
   S13:
     component: ''
     filename: 09_Clav1.wav
-    instrument: Clavinet
+    instrument: clavinet
     raw:
       R01:
         filename: 09_Clav1.wav
@@ -162,7 +162,7 @@ stems:
   S18:
     component: ''
     filename: 06_Bass2.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 06_Bass2.wav
@@ -186,7 +186,7 @@ stems:
   S21:
     component: ''
     filename: 05_Bass1.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 05_Bass1.wav
@@ -274,7 +274,7 @@ stems:
   S32:
     component: ''
     filename: 10_Clav2.wav
-    instrument: Clav
+    instrument: clav
     raw:
       R01:
         filename: 10_Clav2.wav

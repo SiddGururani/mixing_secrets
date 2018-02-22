@@ -30,7 +30,7 @@ stems:
   S03:
     component: ''
     filename: 12_Flute2.wav
-    instrument: Flute
+    instrument: flute
     raw:
       R01:
         filename: 12_Flute2.wav
@@ -86,7 +86,7 @@ stems:
   S10:
     component: ''
     filename: 03_Shakers.wav
-    instrument: Shakers
+    instrument: shakers
     raw:
       R01:
         filename: 03_Shakers.wav
@@ -94,7 +94,7 @@ stems:
   S11:
     component: ''
     filename: 10_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 10_Piano.wav
@@ -110,7 +110,7 @@ stems:
   S13:
     component: ''
     filename: 11_Flute1.wav
-    instrument: Flute
+    instrument: flute
     raw:
       R01:
         filename: 11_Flute1.wav

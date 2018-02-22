@@ -139,7 +139,7 @@ stems:
   S11:
     component: ''
     filename: 39_Lightning.wav
-    instrument: Lightning
+    instrument: lightning
     raw:
       R01:
         filename: 39_Lightning.wav
@@ -155,7 +155,7 @@ stems:
   S13:
     component: ''
     filename: 36_Storm.wav
-    instrument: Storm
+    instrument: storm
     raw:
       R01:
         filename: 36_Storm.wav
@@ -219,7 +219,7 @@ stems:
   S21:
     component: ''
     filename: 23_ElecGtr06.wav
-    instrument: ElecGtr
+    instrument: elecgtr
     raw:
       R01:
         filename: 23_ElecGtr06.wav
@@ -291,7 +291,7 @@ stems:
   S30:
     component: ''
     filename: 38_Piano02.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 38_Piano02.wav
@@ -315,7 +315,7 @@ stems:
   S33:
     component: ''
     filename: 37_Piano01.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 37_Piano01.wav

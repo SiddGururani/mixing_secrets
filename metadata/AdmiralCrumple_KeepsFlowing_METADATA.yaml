@@ -42,7 +42,7 @@ stems:
   S03:
     component: ''
     filename: 10_Scream.wav
-    instrument: Scream
+    instrument: scream
     raw:
       R01:
         filename: 10_Scream.wav
@@ -58,7 +58,7 @@ stems:
   S05:
     component: ''
     filename: 06_Sample.wav
-    instrument: Sample
+    instrument: sample
     raw:
       R01:
         filename: 06_Sample.wav
@@ -66,7 +66,7 @@ stems:
   S06:
     component: ''
     filename: 09_LeadVoxDouble2.wav
-    instrument: LeadVoxDouble
+    instrument: leadvoxdouble
     raw:
       R01:
         filename: 09_LeadVoxDouble2.wav

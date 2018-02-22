@@ -162,7 +162,7 @@ stems:
   S12:
     component: ''
     filename: 32_BackingVos01.wav
-    instrument: BackingVos
+    instrument: backingvos
     raw:
       R01:
         filename: 32_BackingVos01.wav

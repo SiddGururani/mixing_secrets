@@ -69,7 +69,7 @@ stems:
   S06:
     component: ''
     filename: 09_Tambourine2.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 09_Tambourine2.wav
@@ -85,7 +85,7 @@ stems:
   S08:
     component: ''
     filename: 08_Tambourine1.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 08_Tambourine1.wav
@@ -109,7 +109,7 @@ stems:
   S11:
     component: ''
     filename: 04_Room.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 04_Room.wav

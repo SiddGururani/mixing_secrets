@@ -49,7 +49,7 @@ stems:
   S05:
     component: ''
     filename: 19_CelloMIDI.wav
-    instrument: Cello samples
+    instrument: cello samples
     raw:
       R01:
         filename: 19_CelloMIDI.wav
@@ -65,7 +65,7 @@ stems:
   S07:
     component: ''
     filename: 18_ViolaMIDI.wav
-    instrument: Viola samples
+    instrument: viola samples
     raw:
       R01:
         filename: 18_ViolaMIDI.wav
@@ -81,7 +81,7 @@ stems:
   S09:
     component: ''
     filename: 16_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 16_Strings.wav
@@ -89,7 +89,7 @@ stems:
   S10:
     component: ''
     filename: 05_BassMIDI.wav
-    instrument: Bass samples
+    instrument: bass samples
     raw:
       R01:
         filename: 05_BassMIDI.wav
@@ -97,7 +97,7 @@ stems:
   S11:
     component: ''
     filename: 17_ViolinMIDI.wav
-    instrument: Violin samples
+    instrument: violin samples
     raw:
       R01:
         filename: 17_ViolinMIDI.wav
@@ -153,7 +153,7 @@ stems:
   S18:
     component: ''
     filename: 06_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 06_Piano.wav

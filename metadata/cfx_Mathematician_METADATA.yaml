@@ -74,7 +74,7 @@ stems:
   S04:
     component: ''
     filename: 04_Clap2.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 04_Clap2.wav
@@ -90,7 +90,7 @@ stems:
   S06:
     component: ''
     filename: 03_Clap1.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 03_Clap1.wav

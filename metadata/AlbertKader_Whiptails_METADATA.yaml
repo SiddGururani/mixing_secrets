@@ -96,7 +96,7 @@ stems:
   S09:
     component: ''
     filename: 05_Claps.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 05_Claps.wav

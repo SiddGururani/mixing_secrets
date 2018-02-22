@@ -85,7 +85,7 @@ stems:
   S08:
     component: ''
     filename: 11_Piano3b.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 11_Piano3b.wav
@@ -101,7 +101,7 @@ stems:
   S10:
     component: ''
     filename: 12_Piano4a.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 12_Piano4a.wav
@@ -117,7 +117,7 @@ stems:
   S12:
     component: ''
     filename: 13_Piano4b.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 13_Piano4b.wav
@@ -197,7 +197,7 @@ stems:
   S22:
     component: ''
     filename: 15_Piano5b.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 15_Piano5b.wav
@@ -205,7 +205,7 @@ stems:
   S23:
     component: ''
     filename: 09_Piano2b.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 09_Piano2b.wav
@@ -229,7 +229,7 @@ stems:
   S26:
     component: ''
     filename: 06_Piano1a.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 06_Piano1a.wav
@@ -237,7 +237,7 @@ stems:
   S27:
     component: ''
     filename: 14_Piano5a.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 14_Piano5a.wav
@@ -245,7 +245,7 @@ stems:
   S28:
     component: ''
     filename: 10_Piano3a.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 10_Piano3a.wav
@@ -285,7 +285,7 @@ stems:
   S33:
     component: ''
     filename: 08_Piano2a.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 08_Piano2a.wav
@@ -301,7 +301,7 @@ stems:
   S35:
     component: ''
     filename: 07_Piano1b.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 07_Piano1b.wav

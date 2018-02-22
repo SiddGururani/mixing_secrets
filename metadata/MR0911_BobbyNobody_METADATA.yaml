@@ -299,7 +299,7 @@ stems:
   S34:
     component: ''
     filename: 07_Ambience.wav
-    instrument: Ambience
+    instrument: ambience
     raw:
       R01:
         filename: 07_Ambience.wav

@@ -66,7 +66,7 @@ stems:
   S03:
     component: ''
     filename: 24_Keyboard.wav
-    instrument: Keyboard
+    instrument: keyboard
     raw:
       R01:
         filename: 24_Keyboard.wav
@@ -82,7 +82,7 @@ stems:
   S05:
     component: ''
     filename: 29_Viola.wav
-    instrument: Viola
+    instrument: viola
     raw:
       R01:
         filename: 29_Viola.wav
@@ -90,7 +90,7 @@ stems:
   S06:
     component: ''
     filename: 32_StringsTunedMix.wav
-    instrument: StringsTunedMix
+    instrument: stringstunedmix
     raw:
       R01:
         filename: 32_StringsTunedMix.wav
@@ -106,7 +106,7 @@ stems:
   S08:
     component: ''
     filename: 28_Violin2.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 28_Violin2.wav
@@ -122,7 +122,7 @@ stems:
   S10:
     component: ''
     filename: 15_SleighBells.wav
-    instrument: SleighBells
+    instrument: sleighbells
     raw:
       R01:
         filename: 15_SleighBells.wav
@@ -130,7 +130,7 @@ stems:
   S11:
     component: ''
     filename: 34_ViolaSamples.wav
-    instrument: ViolaSamples
+    instrument: violasamples
     raw:
       R01:
         filename: 34_ViolaSamples.wav
@@ -146,7 +146,7 @@ stems:
   S13:
     component: ''
     filename: 16_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 16_Tambourine.wav
@@ -154,7 +154,7 @@ stems:
   S14:
     component: ''
     filename: 35_CelloSamples1.wav
-    instrument: CelloSamples
+    instrument: cellosamples
     raw:
       R01:
         filename: 35_CelloSamples1.wav
@@ -186,7 +186,7 @@ stems:
   S18:
     component: ''
     filename: 14_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 14_Shaker.wav
@@ -202,7 +202,7 @@ stems:
   S20:
     component: ''
     filename: 23_Organ.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 23_Organ.wav
@@ -218,7 +218,7 @@ stems:
   S22:
     component: ''
     filename: 17_Hand Claps.wav
-    instrument: Hand Claps
+    instrument: hand claps
     raw:
       R01:
         filename: 17_Hand Claps.wav
@@ -242,7 +242,7 @@ stems:
   S25:
     component: ''
     filename: 30_Cello.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 30_Cello.wav
@@ -250,7 +250,7 @@ stems:
   S26:
     component: ''
     filename: 37_TrumpetSamples.wav
-    instrument: TrumpetSamples
+    instrument: trumpetsamples
     raw:
       R01:
         filename: 37_TrumpetSamples.wav
@@ -258,7 +258,7 @@ stems:
   S27:
     component: ''
     filename: 33_ViolinSamples.wav
-    instrument: ViolinSamples
+    instrument: violinsamples
     raw:
       R01:
         filename: 33_ViolinSamples.wav
@@ -266,7 +266,7 @@ stems:
   S28:
     component: ''
     filename: 39_Harmonica.wav
-    instrument: Harmonica
+    instrument: harmonica
     raw:
       R01:
         filename: 39_Harmonica.wav
@@ -282,7 +282,7 @@ stems:
   S30:
     component: ''
     filename: 38_FrenchHornSamples.wav
-    instrument: FrenchHornSamples
+    instrument: frenchhornsamples
     raw:
       R01:
         filename: 38_FrenchHornSamples.wav
@@ -290,7 +290,7 @@ stems:
   S31:
     component: ''
     filename: 36_CelloSamples2.wav
-    instrument: CelloSamples
+    instrument: cellosamples
     raw:
       R01:
         filename: 36_CelloSamples2.wav
@@ -306,7 +306,7 @@ stems:
   S33:
     component: ''
     filename: 31_StringsMix.wav
-    instrument: StringsMix
+    instrument: stringsmix
     raw:
       R01:
         filename: 31_StringsMix.wav
@@ -314,7 +314,7 @@ stems:
   S34:
     component: ''
     filename: 26_Glockenspiel.wav
-    instrument: Glockenspiel
+    instrument: glockenspiel
     raw:
       R01:
         filename: 26_Glockenspiel.wav
@@ -322,7 +322,7 @@ stems:
   S35:
     component: ''
     filename: 18_Bass.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 18_Bass.wav
@@ -338,7 +338,7 @@ stems:
   S37:
     component: ''
     filename: 27_Violin1.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 27_Violin1.wav
@@ -346,7 +346,7 @@ stems:
   S38:
     component: ''
     filename: 22_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 22_Piano.wav

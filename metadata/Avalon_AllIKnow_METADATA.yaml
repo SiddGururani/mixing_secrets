@@ -63,7 +63,7 @@ stems:
   S06:
     component: ''
     filename: 14_Speech.wav
-    instrument: Speech
+    instrument: speech
     raw:
       R01:
         filename: 14_Speech.wav
@@ -87,7 +87,7 @@ stems:
   S09:
     component: ''
     filename: 11_BellPiano.wav
-    instrument: BellPiano
+    instrument: bellpiano
     raw:
       R01:
         filename: 11_BellPiano.wav
@@ -111,7 +111,7 @@ stems:
   S12:
     component: ''
     filename: 05_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 05_Percussion.wav

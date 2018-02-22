@@ -104,7 +104,7 @@ stems:
   S04:
     component: ''
     filename: 09_Percussion3.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 09_Percussion3.wav
@@ -112,7 +112,7 @@ stems:
   S05:
     component: ''
     filename: 07_Percussion1.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 07_Percussion1.wav
@@ -128,7 +128,7 @@ stems:
   S07:
     component: ''
     filename: 08_Percussion2.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 08_Percussion2.wav

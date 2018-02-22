@@ -46,7 +46,7 @@ stems:
   S05:
     component: ''
     filename: 07_Accordian.wav
-    instrument: Accordian
+    instrument: accordian
     raw:
       R01:
         filename: 07_Accordian.wav

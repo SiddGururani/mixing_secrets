@@ -51,7 +51,7 @@ stems:
   S03:
     component: ''
     filename: 21_Hammond.wav
-    instrument: Hammond
+    instrument: hammond
     raw:
       R01:
         filename: 21_Hammond.wav
@@ -179,7 +179,7 @@ stems:
   S19:
     component: ''
     filename: 19_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 19_Piano.wav

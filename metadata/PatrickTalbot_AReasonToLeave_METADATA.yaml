@@ -88,7 +88,7 @@ stems:
   S05:
     component: ''
     filename: 18_Tambourine1Room.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 18_Tambourine1Room.wav
@@ -144,7 +144,7 @@ stems:
   S12:
     component: ''
     filename: 17_Tambourine1.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 17_Tambourine1.wav
@@ -160,7 +160,7 @@ stems:
   S14:
     component: ''
     filename: 29_Rhodes.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 29_Rhodes.wav
@@ -208,7 +208,7 @@ stems:
   S20:
     component: ''
     filename: 31_Vibrophone.wav
-    instrument: Vibrophone
+    instrument: vibrophone
     raw:
       R01:
         filename: 31_Vibrophone.wav
@@ -240,7 +240,7 @@ stems:
   S24:
     component: ''
     filename: 19_Tambourine2.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 19_Tambourine2.wav

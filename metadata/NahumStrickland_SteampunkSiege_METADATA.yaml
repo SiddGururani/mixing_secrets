@@ -88,7 +88,7 @@ stems:
   S05:
     component: ''
     filename: 16_Choir.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 16_Choir.wav
@@ -104,7 +104,7 @@ stems:
   S07:
     component: ''
     filename: 14_Recordier.wav
-    instrument: Recorder
+    instrument: recorder
     raw:
       R01:
         filename: 14_Recordier.wav
@@ -112,7 +112,7 @@ stems:
   S08:
     component: ''
     filename: 17_Cellos.wav
-    instrument: Cellos
+    instrument: cellos
     raw:
       R01:
         filename: 17_Cellos.wav
@@ -120,7 +120,7 @@ stems:
   S09:
     component: ''
     filename: 08_Taiko.wav
-    instrument: Taiko
+    instrument: taiko
     raw:
       R01:
         filename: 08_Taiko.wav
@@ -128,7 +128,7 @@ stems:
   S10:
     component: ''
     filename: 15_EthnoFlute.wav
-    instrument: EthnoFlute
+    instrument: ethnoflute
     raw:
       R01:
         filename: 15_EthnoFlute.wav

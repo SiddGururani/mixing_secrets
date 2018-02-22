@@ -135,7 +135,7 @@ stems:
   S09:
     component: ''
     filename: 33_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 33_Strings.wav
@@ -167,7 +167,7 @@ stems:
   S13:
     component: ''
     filename: 22_Bass.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 22_Bass.wav
@@ -199,7 +199,7 @@ stems:
   S17:
     component: ''
     filename: 25_SchoolBell.wav
-    instrument: SchoolBell
+    instrument: schoolbell
     raw:
       R01:
         filename: 25_SchoolBell.wav
@@ -279,7 +279,7 @@ stems:
   S27:
     component: ''
     filename: 21_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 21_Tambourine.wav
@@ -295,7 +295,7 @@ stems:
   S29:
     component: ''
     filename: 05_Sidestick.wav
-    instrument: Sidestick
+    instrument: sidestick
     raw:
       R01:
         filename: 05_Sidestick.wav
@@ -311,7 +311,7 @@ stems:
   S31:
     component: ''
     filename: 24_Piano2.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 24_Piano2.wav
@@ -327,7 +327,7 @@ stems:
   S33:
     component: ''
     filename: 06_Claps.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 06_Claps.wav
@@ -359,7 +359,7 @@ stems:
   S37:
     component: ''
     filename: 34_StringsPizz.wav
-    instrument: StringsPizz
+    instrument: stringspizz
     raw:
       R01:
         filename: 34_StringsPizz.wav
@@ -391,7 +391,7 @@ stems:
   S41:
     component: ''
     filename: 23_Piano1Reverse.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 23_Piano1Reverse.wav

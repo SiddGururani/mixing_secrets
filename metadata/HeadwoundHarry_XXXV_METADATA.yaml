@@ -34,7 +34,7 @@ stems:
   S02:
     component: ''
     filename: 08_ElecGtr1.wav
-    instrument: ElecGtr
+    instrument: elecgtr
     raw:
       R01:
         filename: 08_ElecGtr1.wav
@@ -66,7 +66,7 @@ stems:
   S06:
     component: ''
     filename: 09_ElecGtr2.wav
-    instrument: ElecGtr
+    instrument: elecgtr
     raw:
       R01:
         filename: 09_ElecGtr2.wav
@@ -114,7 +114,7 @@ stems:
   S12:
     component: ''
     filename: 10_ElecGtr3.wav
-    instrument: ElecGtr
+    instrument: elecgtr
     raw:
       R01:
         filename: 10_ElecGtr3.wav
@@ -130,7 +130,7 @@ stems:
   S14:
     component: ''
     filename: 06_MonoRoom.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 06_MonoRoom.wav

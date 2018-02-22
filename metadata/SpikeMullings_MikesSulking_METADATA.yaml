@@ -56,7 +56,7 @@ stems:
   S04:
     component: ''
     filename: 15_Hammond.wav
-    instrument: Hammond
+    instrument: hammond
     raw:
       R01:
         filename: 15_Hammond.wav
@@ -64,7 +64,7 @@ stems:
   S05:
     component: ''
     filename: 08_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 08_Tambourine.wav
@@ -128,7 +128,7 @@ stems:
   S13:
     component: ''
     filename: 16_Glock.wav
-    instrument: Glockenspiel
+    instrument: glockenspiel
     raw:
       R01:
         filename: 16_Glock.wav

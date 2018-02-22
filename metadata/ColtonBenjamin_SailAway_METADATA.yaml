@@ -131,7 +131,7 @@ stems:
   S13:
     component: ''
     filename: 13_Brass1.wav
-    instrument: Brass
+    instrument: brass
     raw:
       R01:
         filename: 13_Brass1.wav
@@ -139,7 +139,7 @@ stems:
   S14:
     component: ''
     filename: 14_Brass2.wav
-    instrument: Brass
+    instrument: brass
     raw:
       R01:
         filename: 14_Brass2.wav

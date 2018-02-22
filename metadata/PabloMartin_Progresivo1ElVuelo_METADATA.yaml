@@ -183,7 +183,7 @@ stems:
   S12:
     component: ''
     filename: 25_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 25_Tambourine.wav
@@ -207,7 +207,7 @@ stems:
   S15:
     component: ''
     filename: 51_Strings1.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 51_Strings1.wav
@@ -223,7 +223,7 @@ stems:
   S17:
     component: ''
     filename: 52_Strings3.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 52_Strings3.wav
@@ -232,8 +232,8 @@ stems:
     component: ''
     filename: 49_OboeBassoon.wav
     instrument:
-    - Oboe
-    - Bassoon
+    - oboe
+    - bassoon
     raw:
       R01:
         filename: 49_OboeBassoon.wav
@@ -267,7 +267,7 @@ stems:
   S22:
     component: ''
     filename: 50_Tuba.wav
-    instrument: Tuba
+    instrument: tuba
     raw:
       R01:
         filename: 50_Tuba.wav
@@ -275,7 +275,7 @@ stems:
   S23:
     component: ''
     filename: 55_Marimba.wav
-    instrument: Marimba
+    instrument: marimba
     raw:
       R01:
         filename: 55_Marimba.wav
@@ -315,7 +315,7 @@ stems:
   S28:
     component: ''
     filename: 53_Strings2.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 53_Strings2.wav
@@ -323,7 +323,7 @@ stems:
   S29:
     component: ''
     filename: 54_Bells.wav
-    instrument: Bells
+    instrument: bells
     raw:
       R01:
         filename: 54_Bells.wav

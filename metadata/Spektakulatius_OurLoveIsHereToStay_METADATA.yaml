@@ -71,7 +71,7 @@ stems:
   S07:
     component: ''
     filename: 07_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 07_Piano.wav

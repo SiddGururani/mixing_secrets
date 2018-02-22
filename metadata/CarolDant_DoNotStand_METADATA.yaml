@@ -38,7 +38,7 @@ stems:
   S04:
     component: ''
     filename: 03_Choir.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 03_Choir.wav
@@ -54,7 +54,7 @@ stems:
   S06:
     component: ''
     filename: 06_Rhodes2.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 06_Rhodes2.wav
@@ -62,7 +62,7 @@ stems:
   S07:
     component: ''
     filename: 05_Rhodes1.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 05_Rhodes1.wav

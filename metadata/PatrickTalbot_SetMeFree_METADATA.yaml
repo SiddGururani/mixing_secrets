@@ -87,7 +87,7 @@ stems:
   S06:
     component: ''
     filename: 19_Horns.wav
-    instrument: Horns
+    instrument: horns
     raw:
       R01:
         filename: 19_Horns.wav
@@ -103,7 +103,7 @@ stems:
   S08:
     component: ''
     filename: 13_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 13_Shaker.wav
@@ -127,7 +127,7 @@ stems:
   S11:
     component: ''
     filename: 20_Keys.wav
-    instrument: Keys
+    instrument: keys
     raw:
       R01:
         filename: 20_Keys.wav

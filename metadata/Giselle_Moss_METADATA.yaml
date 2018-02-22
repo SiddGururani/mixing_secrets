@@ -169,7 +169,7 @@ stems:
   S05:
     component: ''
     filename: 35_Handbells.wav
-    instrument: Handbells
+    instrument: handbells
     raw:
       R01:
         filename: 35_Handbells.wav
@@ -185,7 +185,7 @@ stems:
   S07:
     component: ''
     filename: 52_Cellos.wav
-    instrument: Cellos
+    instrument: cellos
     raw:
       R01:
         filename: 52_Cellos.wav
@@ -193,7 +193,7 @@ stems:
   S08:
     component: ''
     filename: 34_Wineglasses.wav
-    instrument: Wineglasses
+    instrument: wineglasses
     raw:
       R01:
         filename: 34_Wineglasses.wav
@@ -201,7 +201,7 @@ stems:
   S09:
     component: ''
     filename: 49_Violins1.wav
-    instrument: Violins
+    instrument: violins
     raw:
       R01:
         filename: 49_Violins1.wav
@@ -209,7 +209,7 @@ stems:
   S10:
     component: ''
     filename: 50_Violins2.wav
-    instrument: Violins
+    instrument: violins
     raw:
       R01:
         filename: 50_Violins2.wav
@@ -217,7 +217,7 @@ stems:
   S11:
     component: ''
     filename: 51_Violas.wav
-    instrument: Violas
+    instrument: violas
     raw:
       R01:
         filename: 51_Violas.wav
@@ -225,7 +225,7 @@ stems:
   S12:
     component: ''
     filename: 12_GongRoll.wav
-    instrument: GongRoll
+    instrument: gongroll
     raw:
       R01:
         filename: 12_GongRoll.wav

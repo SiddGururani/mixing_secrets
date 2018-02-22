@@ -37,7 +37,7 @@ stems:
   S02:
     component: ''
     filename: 13_OrganHigh.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 13_OrganHigh.wav
@@ -45,7 +45,7 @@ stems:
   S03:
     component: ''
     filename: 14_OrganLow.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 14_OrganLow.wav
@@ -117,7 +117,7 @@ stems:
   S12:
     component: ''
     filename: 02_Rim.wav
-    instrument: Rim
+    instrument: rim
     raw:
       R01:
         filename: 02_Rim.wav
@@ -133,7 +133,7 @@ stems:
   S14:
     component: ''
     filename: 15_Piano1.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 15_Piano1.wav
@@ -149,7 +149,7 @@ stems:
   S16:
     component: ''
     filename: 16_Piano2.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 16_Piano2.wav

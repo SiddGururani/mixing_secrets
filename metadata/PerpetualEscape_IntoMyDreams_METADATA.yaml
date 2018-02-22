@@ -139,7 +139,7 @@ stems:
   S08:
     component: ''
     filename: 92_Choir2.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 92_Choir2.wav
@@ -283,7 +283,7 @@ stems:
   S26:
     component: ''
     filename: 91_Choir1.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 91_Choir1.wav
@@ -435,7 +435,7 @@ stems:
   S45:
     component: ''
     filename: 93_Choir3.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 93_Choir3.wav
@@ -459,7 +459,7 @@ stems:
   S48:
     component: ''
     filename: 96_Srtings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 96_Srtings.wav
@@ -563,7 +563,7 @@ stems:
   S61:
     component: ''
     filename: 90_Organ.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 90_Organ.wav
@@ -635,7 +635,7 @@ stems:
   S70:
     component: ''
     filename: 16_Gong.wav
-    instrument: Gong
+    instrument: gong
     raw:
       R01:
         filename: 16_Gong.wav
@@ -715,7 +715,7 @@ stems:
   S80:
     component: ''
     filename: 95_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 95_Piano.wav
@@ -723,7 +723,7 @@ stems:
   S81:
     component: ''
     filename: 94_Choir4.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 94_Choir4.wav

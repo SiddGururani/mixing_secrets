@@ -128,7 +128,7 @@ stems:
   S10:
     component: ''
     filename: 07_Room.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 07_Room.wav
@@ -200,7 +200,7 @@ stems:
   S19:
     component: ''
     filename: 35_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 35_Piano.wav
@@ -208,7 +208,7 @@ stems:
   S20:
     component: ''
     filename: 08_TambourineSample.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 08_TambourineSample.wav

@@ -67,7 +67,7 @@ stems:
   S05:
     component: ''
     filename: 15_Ukelele.wav
-    instrument: Ukelele
+    instrument: ukelele
     raw:
       R01:
         filename: 15_Ukelele.wav
@@ -75,7 +75,7 @@ stems:
   S06:
     component: ''
     filename: 07_Room.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 07_Room.wav
@@ -99,7 +99,7 @@ stems:
   S09:
     component: ''
     filename: 16_Harmonica.wav
-    instrument: Harmonica
+    instrument: harmonica
     raw:
       R01:
         filename: 16_Harmonica.wav
@@ -115,7 +115,7 @@ stems:
   S11:
     component: ''
     filename: 08_RoomLoFi.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 08_RoomLoFi.wav

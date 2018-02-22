@@ -39,7 +39,7 @@ stems:
   S03:
     component: ''
     filename: 08_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 08_Piano.wav
@@ -47,7 +47,7 @@ stems:
   S04:
     component: ''
     filename: 07_Saxophone.wav
-    instrument: Saxophone
+    instrument: saxophone
     raw:
       R01:
         filename: 07_Saxophone.wav

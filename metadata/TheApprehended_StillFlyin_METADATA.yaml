@@ -295,7 +295,7 @@ stems:
   S32:
     component: ''
     filename: 25_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 25_Piano.wav

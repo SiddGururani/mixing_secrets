@@ -79,7 +79,7 @@ stems:
   S05:
     component: ''
     filename: 14_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 14_Piano.wav

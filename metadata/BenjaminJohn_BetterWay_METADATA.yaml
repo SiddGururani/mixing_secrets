@@ -36,7 +36,7 @@ stems:
   S03:
     component: ''
     filename: 06_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 06_Shaker.wav
@@ -44,7 +44,7 @@ stems:
   S04:
     component: ''
     filename: 13_Claps3.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 13_Claps3.wav
@@ -52,7 +52,7 @@ stems:
   S05:
     component: ''
     filename: 14_Claps4.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 14_Claps4.wav
@@ -60,7 +60,7 @@ stems:
   S06:
     component: ''
     filename: 20_Guitalele.wav
-    instrument: Guitalele
+    instrument: guitalele
     raw:
       R01:
         filename: 20_Guitalele.wav
@@ -68,7 +68,7 @@ stems:
   S07:
     component: ''
     filename: 12_Claps2.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 12_Claps2.wav
@@ -76,7 +76,7 @@ stems:
   S08:
     component: ''
     filename: 10_FingerClicks4.wav
-    instrument: FingerClicks
+    instrument: fingerclicks
     raw:
       R01:
         filename: 10_FingerClicks4.wav
@@ -116,7 +116,7 @@ stems:
   S13:
     component: ''
     filename: 08_FingerClicks2.wav
-    instrument: FingerClicks
+    instrument: fingerclicks
     raw:
       R01:
         filename: 08_FingerClicks2.wav
@@ -164,7 +164,7 @@ stems:
   S19:
     component: ''
     filename: 15_Claps5.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 15_Claps5.wav
@@ -172,7 +172,7 @@ stems:
   S20:
     component: ''
     filename: 09_FingerClicks3.wav
-    instrument: FingerClicks
+    instrument: fingerclicks
     raw:
       R01:
         filename: 09_FingerClicks3.wav
@@ -180,7 +180,7 @@ stems:
   S21:
     component: ''
     filename: 07_FingerClicks1.wav
-    instrument: FingerClicks
+    instrument: fingerclicks
     raw:
       R01:
         filename: 07_FingerClicks1.wav
@@ -228,7 +228,7 @@ stems:
   S27:
     component: ''
     filename: 17_Claps7.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 17_Claps7.wav
@@ -236,7 +236,7 @@ stems:
   S28:
     component: ''
     filename: 11_Claps1.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 11_Claps1.wav
@@ -260,7 +260,7 @@ stems:
   S31:
     component: ''
     filename: 04_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 04_Tambourine.wav
@@ -276,7 +276,7 @@ stems:
   S33:
     component: ''
     filename: 19_Bass.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 19_Bass.wav
@@ -284,7 +284,7 @@ stems:
   S34:
     component: ''
     filename: 05_TambourineAmb.wav
-    instrument: TambourineAmb
+    instrument: tambourineamb
     raw:
       R01:
         filename: 05_TambourineAmb.wav
@@ -332,7 +332,7 @@ stems:
   S40:
     component: ''
     filename: 16_Claps6.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 16_Claps6.wav
@@ -356,7 +356,7 @@ stems:
   S43:
     component: ''
     filename: 18_Claps8.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 18_Claps8.wav

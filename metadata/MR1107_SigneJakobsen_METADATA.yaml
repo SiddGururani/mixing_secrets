@@ -112,7 +112,7 @@ stems:
   S11:
     component: ''
     filename: 24_Piano2.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 24_Piano2.wav
@@ -136,7 +136,7 @@ stems:
   S14:
     component: ''
     filename: 08_Shaker1.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 08_Shaker1.wav
@@ -184,7 +184,7 @@ stems:
   S20:
     component: ''
     filename: 25_StringPad.wav
-    instrument: StringPad
+    instrument: stringpad
     raw:
       R01:
         filename: 25_StringPad.wav
@@ -200,7 +200,7 @@ stems:
   S22:
     component: ''
     filename: 09_Shaker2.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 09_Shaker2.wav
@@ -208,7 +208,7 @@ stems:
   S23:
     component: ''
     filename: 26_Organ.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 26_Organ.wav
@@ -240,7 +240,7 @@ stems:
   S27:
     component: ''
     filename: 23_Piano1.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 23_Piano1.wav

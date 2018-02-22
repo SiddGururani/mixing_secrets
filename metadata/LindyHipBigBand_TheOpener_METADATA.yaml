@@ -28,7 +28,7 @@ stems:
   S02:
     component: ''
     filename: 10_Trumpet4.wav
-    instrument: Trumpet
+    instrument: trumpet
     raw:
       R01:
         filename: 10_Trumpet4.wav
@@ -44,7 +44,7 @@ stems:
   S04:
     component: ''
     filename: 17_Trombone2.wav
-    instrument: Trombone
+    instrument: trombone
     raw:
       R01:
         filename: 17_Trombone2.wav
@@ -52,7 +52,7 @@ stems:
   S05:
     component: ''
     filename: 06_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 06_Piano.wav
@@ -60,7 +60,7 @@ stems:
   S06:
     component: ''
     filename: 18_Trombone3.wav
-    instrument: Trombone
+    instrument: trombone
     raw:
       R01:
         filename: 18_Trombone3.wav
@@ -68,7 +68,7 @@ stems:
   S07:
     component: ''
     filename: 09_Trumpet3.wav
-    instrument: Trumpet
+    instrument: trumpet
     raw:
       R01:
         filename: 09_Trumpet3.wav
@@ -84,7 +84,7 @@ stems:
   S09:
     component: ''
     filename: 07_Trumpet1.wav
-    instrument: Trumpet
+    instrument: trumpet
     raw:
       R01:
         filename: 07_Trumpet1.wav
@@ -100,7 +100,7 @@ stems:
   S11:
     component: ''
     filename: 16_Trombone1.wav
-    instrument: Trombone
+    instrument: trombone
     raw:
       R01:
         filename: 16_Trombone1.wav
@@ -116,7 +116,7 @@ stems:
   S13:
     component: ''
     filename: 19_TromboneBass.wav
-    instrument: TromboneBass
+    instrument: trombonebass
     raw:
       R01:
         filename: 19_TromboneBass.wav
@@ -132,7 +132,7 @@ stems:
   S15:
     component: ''
     filename: 08_Trumpet2.wav
-    instrument: Trumpet
+    instrument: trumpet
     raw:
       R01:
         filename: 08_Trumpet2.wav

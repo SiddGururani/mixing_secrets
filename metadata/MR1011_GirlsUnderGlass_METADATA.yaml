@@ -101,7 +101,7 @@ stems:
   S10:
     component: ''
     filename: 15_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 15_Piano.wav

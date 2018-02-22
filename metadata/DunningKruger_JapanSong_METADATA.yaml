@@ -162,7 +162,7 @@ stems:
   S18:
     component: ''
     filename: 06_Room.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 06_Room.wav

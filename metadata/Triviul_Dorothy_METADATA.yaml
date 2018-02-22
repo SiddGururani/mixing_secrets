@@ -87,7 +87,7 @@ stems:
   S09:
     component: ''
     filename: 07_Mellotron.wav
-    instrument: Mellotron
+    instrument: mellotron
     raw:
       R01:
         filename: 07_Mellotron.wav
@@ -111,7 +111,7 @@ stems:
   S12:
     component: ''
     filename: 12_Harp.wav
-    instrument: Harp
+    instrument: harp
     raw:
       R01:
         filename: 12_Harp.wav
@@ -127,7 +127,7 @@ stems:
   S14:
     component: ''
     filename: 11_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 11_Strings.wav

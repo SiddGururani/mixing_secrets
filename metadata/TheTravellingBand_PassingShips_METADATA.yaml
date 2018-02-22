@@ -77,7 +77,7 @@ stems:
   S04:
     component: ''
     filename: 31_Cello1Mic1.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 31_Cello1Mic1.wav
@@ -157,7 +157,7 @@ stems:
   S14:
     component: ''
     filename: 33_Cello2Mic1.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 33_Cello2Mic1.wav
@@ -173,7 +173,7 @@ stems:
   S16:
     component: ''
     filename: 36_PianoMic2.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 36_PianoMic2.wav
@@ -261,7 +261,7 @@ stems:
   S27:
     component: ''
     filename: 34_Cello2Mic2.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 34_Cello2Mic2.wav
@@ -301,7 +301,7 @@ stems:
   S32:
     component: ''
     filename: 35_PianoMic1.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 35_PianoMic1.wav
@@ -317,7 +317,7 @@ stems:
   S34:
     component: ''
     filename: 32_Cello1Mic2.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 32_Cello1Mic2.wav
@@ -333,7 +333,7 @@ stems:
   S36:
     component: ''
     filename: 37_PianoRoom.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 37_PianoRoom.wav

@@ -225,7 +225,7 @@ stems:
   S18:
     component: ''
     filename: 19_Break2.wav
-    instrument: Break
+    instrument: break
     raw:
       R01:
         filename: 19_Break2.wav
@@ -273,7 +273,7 @@ stems:
   S24:
     component: ''
     filename: 49_LeadVox.wav
-    instrument: LeadVox
+    instrument: leadvox
     raw:
       R01:
         filename: 49_LeadVox.wav
@@ -289,7 +289,7 @@ stems:
   S26:
     component: ''
     filename: 20_Break2.wav
-    instrument: Break
+    instrument: break
     raw:
       R01:
         filename: 20_Break2.wav

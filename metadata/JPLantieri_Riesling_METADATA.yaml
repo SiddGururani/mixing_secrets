@@ -211,7 +211,7 @@ stems:
   S05:
     component: ''
     filename: 21_Percussion05.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 21_Percussion05.wav
@@ -219,7 +219,7 @@ stems:
   S06:
     component: ''
     filename: 20_Percussion04.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 20_Percussion04.wav
@@ -227,7 +227,7 @@ stems:
   S07:
     component: ''
     filename: 10_Timpani.wav
-    instrument: Timpani
+    instrument: timpani
     raw:
       R01:
         filename: 10_Timpani.wav
@@ -235,7 +235,7 @@ stems:
   S08:
     component: ''
     filename: 30_Percussion14.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 30_Percussion14.wav
@@ -243,7 +243,7 @@ stems:
   S09:
     component: ''
     filename: 17_Percussion01.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 17_Percussion01.wav
@@ -251,7 +251,7 @@ stems:
   S10:
     component: ''
     filename: 07_Shakers.wav
-    instrument: Shakers
+    instrument: shakers
     raw:
       R01:
         filename: 07_Shakers.wav
@@ -259,7 +259,7 @@ stems:
   S11:
     component: ''
     filename: 12_Fill.wav
-    instrument: Fill
+    instrument: fill
     raw:
       R01:
         filename: 12_Fill.wav
@@ -267,7 +267,7 @@ stems:
   S12:
     component: ''
     filename: 28_Percussion12.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 28_Percussion12.wav
@@ -275,7 +275,7 @@ stems:
   S13:
     component: ''
     filename: 27_Percussion11.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 27_Percussion11.wav
@@ -283,7 +283,7 @@ stems:
   S14:
     component: ''
     filename: 11_Bell.wav
-    instrument: Bell
+    instrument: bell
     raw:
       R01:
         filename: 11_Bell.wav
@@ -291,7 +291,7 @@ stems:
   S15:
     component: ''
     filename: 24_Percussion08.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 24_Percussion08.wav
@@ -299,7 +299,7 @@ stems:
   S16:
     component: ''
     filename: 06_Congas.wav
-    instrument: Congas
+    instrument: congas
     raw:
       R01:
         filename: 06_Congas.wav
@@ -307,7 +307,7 @@ stems:
   S17:
     component: ''
     filename: 19_Percussion03.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 19_Percussion03.wav
@@ -315,7 +315,7 @@ stems:
   S18:
     component: ''
     filename: 23_Percussion07.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 23_Percussion07.wav
@@ -323,7 +323,7 @@ stems:
   S19:
     component: ''
     filename: 29_Percussion13.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 29_Percussion13.wav
@@ -331,7 +331,7 @@ stems:
   S20:
     component: ''
     filename: 22_Percussion06.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 22_Percussion06.wav
@@ -339,7 +339,7 @@ stems:
   S21:
     component: ''
     filename: 18_Percussion02.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 18_Percussion02.wav
@@ -347,7 +347,7 @@ stems:
   S22:
     component: ''
     filename: 26_Percussion10.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 26_Percussion10.wav
@@ -355,7 +355,7 @@ stems:
   S23:
     component: ''
     filename: 25_Percussion09.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 25_Percussion09.wav
@@ -363,7 +363,7 @@ stems:
   S24:
     component: ''
     filename: 31_Percussion15.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 31_Percussion15.wav

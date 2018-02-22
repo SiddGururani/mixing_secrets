@@ -48,7 +48,7 @@ stems:
   S03:
     component: ''
     filename: 30_ViolinMic1.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 30_ViolinMic1.wav
@@ -64,7 +64,7 @@ stems:
   S05:
     component: ''
     filename: 34_Whistle2Mic1.wav
-    instrument: Whistle
+    instrument: whistle
     raw:
       R01:
         filename: 34_Whistle2Mic1.wav
@@ -80,7 +80,7 @@ stems:
   S07:
     component: ''
     filename: 25_Accordion1Mic3.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 25_Accordion1Mic3.wav
@@ -96,7 +96,7 @@ stems:
   S09:
     component: ''
     filename: 27_Accordion2Mic2.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 27_Accordion2Mic2.wav
@@ -112,7 +112,7 @@ stems:
   S11:
     component: ''
     filename: 08_Sleighbells.wav
-    instrument: Sleighbells
+    instrument: sleighbells
     raw:
       R01:
         filename: 08_Sleighbells.wav
@@ -120,7 +120,7 @@ stems:
   S12:
     component: ''
     filename: 19_Mandolin1Mic2.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 19_Mandolin1Mic2.wav
@@ -128,7 +128,7 @@ stems:
   S13:
     component: ''
     filename: 12_BanjoMic1.wav
-    instrument: Banjo
+    instrument: banjo
     raw:
       R01:
         filename: 12_BanjoMic1.wav
@@ -152,7 +152,7 @@ stems:
   S16:
     component: ''
     filename: 22_Autoharp.wav
-    instrument: Autoharp
+    instrument: autoharp
     raw:
       R01:
         filename: 22_Autoharp.wav
@@ -160,7 +160,7 @@ stems:
   S17:
     component: ''
     filename: 33_Whistle1Mic2.wav
-    instrument: Whistle
+    instrument: whistle
     raw:
       R01:
         filename: 33_Whistle1Mic2.wav
@@ -168,7 +168,7 @@ stems:
   S18:
     component: ''
     filename: 32_Whistle1Mic1.wav
-    instrument: Whistle
+    instrument: whistle
     raw:
       R01:
         filename: 32_Whistle1Mic1.wav
@@ -176,7 +176,7 @@ stems:
   S19:
     component: ''
     filename: 31_ViolinMic2.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 31_ViolinMic2.wav
@@ -192,7 +192,7 @@ stems:
   S21:
     component: ''
     filename: 23_Accordion1Mic1.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 23_Accordion1Mic1.wav
@@ -208,7 +208,7 @@ stems:
   S23:
     component: ''
     filename: 28_Accordion2Mic3.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 28_Accordion2Mic3.wav
@@ -216,7 +216,7 @@ stems:
   S24:
     component: ''
     filename: 21_Mandolin2Mic2.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 21_Mandolin2Mic2.wav
@@ -224,7 +224,7 @@ stems:
   S25:
     component: ''
     filename: 35_Whistle2Mic2.wav
-    instrument: Whistle
+    instrument: whistle
     raw:
       R01:
         filename: 35_Whistle2Mic2.wav
@@ -232,7 +232,7 @@ stems:
   S26:
     component: ''
     filename: 20_Mandolin2Mic1.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 20_Mandolin2Mic1.wav
@@ -240,7 +240,7 @@ stems:
   S27:
     component: ''
     filename: 26_Accordion2Mic1.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 26_Accordion2Mic1.wav
@@ -248,7 +248,7 @@ stems:
   S28:
     component: ''
     filename: 18_Mandolin1Mic1.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 18_Mandolin1Mic1.wav
@@ -272,7 +272,7 @@ stems:
   S31:
     component: ''
     filename: 13_BanjoMic2.wav
-    instrument: Banjo
+    instrument: banjo
     raw:
       R01:
         filename: 13_BanjoMic2.wav
@@ -296,7 +296,7 @@ stems:
   S34:
     component: ''
     filename: 24_Accordion1Mic2.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 24_Accordion1Mic2.wav
@@ -304,7 +304,7 @@ stems:
   S35:
     component: ''
     filename: 29_Cello.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 29_Cello.wav

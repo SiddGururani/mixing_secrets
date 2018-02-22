@@ -74,7 +74,7 @@ stems:
   S04:
     component: ''
     filename: 14_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 14_Piano.wav
@@ -258,7 +258,7 @@ stems:
   S27:
     component: ''
     filename: 15_Rhodes.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 15_Rhodes.wav

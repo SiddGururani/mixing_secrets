@@ -116,7 +116,7 @@ stems:
   S04:
     component: ''
     filename: 08_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 08_Shaker.wav
@@ -124,7 +124,7 @@ stems:
   S05:
     component: ''
     filename: 10_Percussion1.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 10_Percussion1.wav
@@ -132,7 +132,7 @@ stems:
   S06:
     component: ''
     filename: 11_Percussion2.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 11_Percussion2.wav
@@ -140,7 +140,7 @@ stems:
   S07:
     component: ''
     filename: 14_Percussion5.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 14_Percussion5.wav
@@ -156,7 +156,7 @@ stems:
   S09:
     component: ''
     filename: 13_Percussion4.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 13_Percussion4.wav
@@ -164,7 +164,7 @@ stems:
   S10:
     component: ''
     filename: 09_SubDrop.wav
-    instrument: SubDrop
+    instrument: subdrop
     raw:
       R01:
         filename: 09_SubDrop.wav
@@ -172,7 +172,7 @@ stems:
   S11:
     component: ''
     filename: 12_Percussion3.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 12_Percussion3.wav

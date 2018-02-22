@@ -191,7 +191,7 @@ stems:
   S04:
     component: ''
     filename: 09_Percussion2.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 09_Percussion2.wav
@@ -199,7 +199,7 @@ stems:
   S05:
     component: ''
     filename: 11_Percussion4.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 11_Percussion4.wav
@@ -207,7 +207,7 @@ stems:
   S06:
     component: ''
     filename: 35_Organ1.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 35_Organ1.wav
@@ -215,7 +215,7 @@ stems:
   S07:
     component: ''
     filename: 36_Organ2.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 36_Organ2.wav
@@ -223,7 +223,7 @@ stems:
   S08:
     component: ''
     filename: 08_Percussion1.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 08_Percussion1.wav
@@ -231,7 +231,7 @@ stems:
   S09:
     component: ''
     filename: 10_Percussion3.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 10_Percussion3.wav

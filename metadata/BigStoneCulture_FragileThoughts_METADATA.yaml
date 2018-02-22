@@ -44,7 +44,7 @@ stems:
   S04:
     component: ''
     filename: 05_Gtr.wav
-    instrument: Gtr
+    instrument: gtr
     raw:
       R01:
         filename: 05_Gtr.wav
@@ -52,7 +52,7 @@ stems:
   S05:
     component: ''
     filename: 06_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 06_Percussion.wav

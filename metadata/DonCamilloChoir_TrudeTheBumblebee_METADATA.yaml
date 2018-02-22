@@ -22,7 +22,7 @@ stems:
   S02:
     component: ''
     filename: 01_MainPair1.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 01_MainPair1.wav
@@ -30,7 +30,7 @@ stems:
   S03:
     component: ''
     filename: 02_MainPair2.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 02_MainPair2.wav
@@ -46,7 +46,7 @@ stems:
   S05:
     component: ''
     filename: 19_Whistle.wav
-    instrument: Whistle
+    instrument: whistle
     raw:
       R01:
         filename: 19_Whistle.wav
@@ -54,7 +54,7 @@ stems:
   S06:
     component: ''
     filename: 14_PercSolo_FarMicPair1.wav
-    instrument: PercSolo_FarMicPair
+    instrument: percsolo_farmicpair
     raw:
       R01:
         filename: 14_PercSolo_FarMicPair1.wav
@@ -62,7 +62,7 @@ stems:
   S07:
     component: ''
     filename: 13_PercSolo_CloseMic2.wav
-    instrument: PercSolo_CloseMic
+    instrument: percsolo_closemic
     raw:
       R01:
         filename: 13_PercSolo_CloseMic2.wav
@@ -78,7 +78,7 @@ stems:
   S09:
     component: ''
     filename: 17_PercChoir MicPair2.wav
-    instrument: PercChoir MicPair
+    instrument: percchoir micpair
     raw:
       R01:
         filename: 17_PercChoir MicPair2.wav
@@ -86,7 +86,7 @@ stems:
   S10:
     component: ''
     filename: 16_PercChoir MicPair1.wav
-    instrument: PercChoir MicPair
+    instrument: percchoir micpair
     raw:
       R01:
         filename: 16_PercChoir MicPair1.wav
@@ -126,7 +126,7 @@ stems:
   S15:
     component: ''
     filename: 18_PercChoir MicPair3.wav
-    instrument: PercChoir MicPair
+    instrument: percchoir micpair
     raw:
       R01:
         filename: 18_PercChoir MicPair3.wav
@@ -158,7 +158,7 @@ stems:
   S19:
     component: ''
     filename: 12_PercSolo_CloseMic1.wav
-    instrument: PercSolo_CloseMic
+    instrument: percsolo_closemic
     raw:
       R01:
         filename: 12_PercSolo_CloseMic1.wav

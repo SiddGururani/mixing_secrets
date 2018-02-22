@@ -36,7 +36,7 @@ stems:
   S03:
     component: ''
     filename: 10_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 10_Strings.wav
@@ -76,7 +76,7 @@ stems:
   S08:
     component: ''
     filename: 04_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 04_Shaker.wav

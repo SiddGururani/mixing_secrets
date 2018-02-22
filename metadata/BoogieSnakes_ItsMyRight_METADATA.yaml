@@ -102,7 +102,7 @@ stems:
   S09:
     component: ''
     filename: 19_LeadVox.wav
-    instrument: LeadVox
+    instrument: leadvox
     raw:
       R01:
         filename: 19_LeadVox.wav

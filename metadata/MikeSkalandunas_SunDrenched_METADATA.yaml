@@ -14,7 +14,7 @@ stems:
   S01:
     component: ''
     filename: MikeSkalandunas_SunDrenched_STEM_drums.wav
-    instrument: Roman WarDrum
+    instrument: roman wardrum
     raw:
       R01:
         filename: 02_RomanWarDrum.wav
@@ -22,7 +22,7 @@ stems:
   S02:
     component: ''
     filename: 01_Daiko.wav
-    instrument: Daiko
+    instrument: daiko
     raw:
       R01:
         filename: 01_Daiko.wav
@@ -30,7 +30,7 @@ stems:
   S03:
     component: ''
     filename: 04_Percussion1.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 04_Percussion1.wav
@@ -38,7 +38,7 @@ stems:
   S04:
     component: ''
     filename: 07_Harp.wav
-    instrument: Harp
+    instrument: harp
     raw:
       R01:
         filename: 07_Harp.wav
@@ -46,7 +46,7 @@ stems:
   S05:
     component: ''
     filename: 15_Violas.wav
-    instrument: Violas
+    instrument: violas
     raw:
       R01:
         filename: 15_Violas.wav
@@ -54,7 +54,7 @@ stems:
   S06:
     component: ''
     filename: 12_Pad2.wav
-    instrument: Pad
+    instrument: pad
     raw:
       R01:
         filename: 12_Pad2.wav
@@ -62,7 +62,7 @@ stems:
   S07:
     component: ''
     filename: 14_Violins2.wav
-    instrument: Violins
+    instrument: violins
     raw:
       R01:
         filename: 14_Violins2.wav
@@ -70,7 +70,7 @@ stems:
   S08:
     component: ''
     filename: 10_Psaltery.wav
-    instrument: Psaltery
+    instrument: psaltery
     raw:
       R01:
         filename: 10_Psaltery.wav
@@ -78,7 +78,7 @@ stems:
   S09:
     component: ''
     filename: 06_Percussion3.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 06_Percussion3.wav
@@ -86,7 +86,7 @@ stems:
   S10:
     component: ''
     filename: 13_Violins1.wav
-    instrument: Violins
+    instrument: violins
     raw:
       R01:
         filename: 13_Violins1.wav
@@ -94,7 +94,7 @@ stems:
   S11:
     component: ''
     filename: 09_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 09_Piano.wav
@@ -102,7 +102,7 @@ stems:
   S12:
     component: ''
     filename: 08_HarpHarmonics.wav
-    instrument: HarpHarmonics
+    instrument: harpharmonics
     raw:
       R01:
         filename: 08_HarpHarmonics.wav
@@ -110,7 +110,7 @@ stems:
   S13:
     component: ''
     filename: 17_Tuba.wav
-    instrument: Tuba
+    instrument: tuba
     raw:
       R01:
         filename: 17_Tuba.wav
@@ -118,7 +118,7 @@ stems:
   S14:
     component: ''
     filename: 11_Pad1.wav
-    instrument: Pad
+    instrument: pad
     raw:
       R01:
         filename: 11_Pad1.wav
@@ -126,7 +126,7 @@ stems:
   S15:
     component: ''
     filename: 05_Percussion2.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 05_Percussion2.wav
@@ -134,7 +134,7 @@ stems:
   S16:
     component: ''
     filename: 03_MalaysianDjembe.wav
-    instrument: MalaysianDjembe
+    instrument: malaysiandjembe
     raw:
       R01:
         filename: 03_MalaysianDjembe.wav
@@ -142,7 +142,7 @@ stems:
   S17:
     component: ''
     filename: 18_FrenchHorn1.wav
-    instrument: FrenchHorn
+    instrument: frenchhorn
     raw:
       R01:
         filename: 18_FrenchHorn1.wav
@@ -150,7 +150,7 @@ stems:
   S18:
     component: ''
     filename: 16_Trombone.wav
-    instrument: Trombone
+    instrument: trombone
     raw:
       R01:
         filename: 16_Trombone.wav
@@ -158,7 +158,7 @@ stems:
   S19:
     component: ''
     filename: 19_FrenchHorn2.wav
-    instrument: FrenchHorn
+    instrument: frenchhorn
     raw:
       R01:
         filename: 19_FrenchHorn2.wav

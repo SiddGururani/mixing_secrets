@@ -22,7 +22,7 @@ stems:
   S02:
     component: ''
     filename: 05_UkeleleDI.wav
-    instrument: UkeleleDI
+    instrument: ukeleledi
     raw:
       R01:
         filename: 05_UkeleleDI.wav
@@ -30,7 +30,7 @@ stems:
   S03:
     component: ''
     filename: 04_UkeleleMic.wav
-    instrument: UkeleleMic
+    instrument: ukelelemic
     raw:
       R01:
         filename: 04_UkeleleMic.wav
@@ -46,7 +46,7 @@ stems:
   S05:
     component: ''
     filename: 07_Viola.wav
-    instrument: Viola
+    instrument: viola
     raw:
       R01:
         filename: 07_Viola.wav
@@ -62,7 +62,7 @@ stems:
   S07:
     component: ''
     filename: 06_Violin.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 06_Violin.wav
@@ -70,7 +70,7 @@ stems:
   S08:
     component: ''
     filename: 08_Cello.wav
-    instrument: Cello
+    instrument: cello
     raw:
       R01:
         filename: 08_Cello.wav
@@ -86,7 +86,7 @@ stems:
   S10:
     component: ''
     filename: 01_Congas.wav
-    instrument: Congas
+    instrument: congas
     raw:
       R01:
         filename: 01_Congas.wav

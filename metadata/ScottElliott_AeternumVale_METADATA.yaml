@@ -106,7 +106,7 @@ stems:
   S05:
     component: ''
     filename: 19_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 19_Percussion.wav
@@ -114,7 +114,7 @@ stems:
   S06:
     component: ''
     filename: 45_FrenchHorns.wav
-    instrument: French Horns
+    instrument: french horns
     raw:
       R01:
         filename: 45_FrenchHorns.wav
@@ -130,7 +130,7 @@ stems:
   S08:
     component: ''
     filename: 40_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 40_Strings.wav
@@ -170,7 +170,7 @@ stems:
   S13:
     component: ''
     filename: 44_Trombones.wav
-    instrument: Trombones
+    instrument: trombones
     raw:
       R01:
         filename: 44_Trombones.wav
@@ -210,7 +210,7 @@ stems:
   S18:
     component: ''
     filename: 22_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 22_Piano.wav
@@ -218,7 +218,7 @@ stems:
   S19:
     component: ''
     filename: 21_TubularBells.wav
-    instrument: TubularBells
+    instrument: tubularbells
     raw:
       R01:
         filename: 21_TubularBells.wav
@@ -242,7 +242,7 @@ stems:
   S22:
     component: ''
     filename: 42_Violas.wav
-    instrument: Violas
+    instrument: violas
     raw:
       R01:
         filename: 42_Violas.wav
@@ -266,7 +266,7 @@ stems:
   S25:
     component: ''
     filename: 43_Cellos.wav
-    instrument: Cellos
+    instrument: cellos
     raw:
       R01:
         filename: 43_Cellos.wav
@@ -274,7 +274,7 @@ stems:
   S26:
     component: ''
     filename: 41_Violins.wav
-    instrument: Violins
+    instrument: violins
     raw:
       R01:
         filename: 41_Violins.wav
@@ -282,7 +282,7 @@ stems:
   S27:
     component: ''
     filename: 20_Timpani.wav
-    instrument: Timpani
+    instrument: timpani
     raw:
       R01:
         filename: 20_Timpani.wav
@@ -298,7 +298,7 @@ stems:
   S29:
     component: ''
     filename: 46_Choir.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 46_Choir.wav

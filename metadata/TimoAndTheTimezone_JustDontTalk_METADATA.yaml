@@ -98,7 +98,7 @@ stems:
   S10:
     component: ''
     filename: 04_Chimes.wav
-    instrument: Chimes
+    instrument: chimes
     raw:
       R01:
         filename: 04_Chimes.wav
@@ -162,7 +162,7 @@ stems:
   S18:
     component: ''
     filename: 08_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 08_Shaker.wav
@@ -170,7 +170,7 @@ stems:
   S19:
     component: ''
     filename: 19_Whisper.wav
-    instrument: Whisper
+    instrument: whisper
     raw:
       R01:
         filename: 19_Whisper.wav
@@ -202,7 +202,7 @@ stems:
   S23:
     component: ''
     filename: 03_Bongos.wav
-    instrument: Bongos
+    instrument: bongos
     raw:
       R01:
         filename: 03_Bongos.wav

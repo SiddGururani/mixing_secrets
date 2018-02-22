@@ -78,7 +78,7 @@ stems:
   S06:
     component: ''
     filename: 13_Rhodes.wav
-    instrument: Rhodes
+    instrument: rhodes
     raw:
       R01:
         filename: 13_Rhodes.wav
@@ -142,7 +142,7 @@ stems:
   S14:
     component: ''
     filename: 10_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 10_Percussion.wav
@@ -158,7 +158,7 @@ stems:
   S16:
     component: ''
     filename: 11_DjembeFX.wav
-    instrument: DjembeFX
+    instrument: djembefx
     raw:
       R01:
         filename: 11_DjembeFX.wav

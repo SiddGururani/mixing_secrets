@@ -38,7 +38,7 @@ stems:
   S04:
     component: ''
     filename: 02_MainPair2.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 02_MainPair2.wav
@@ -78,7 +78,7 @@ stems:
   S09:
     component: ''
     filename: 01_MainPair1.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 01_MainPair1.wav

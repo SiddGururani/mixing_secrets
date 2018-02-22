@@ -53,7 +53,7 @@ stems:
   S04:
     component: ''
     filename: 07_Claps.wav
-    instrument: Claps
+    instrument: claps
     raw:
       R01:
         filename: 07_Claps.wav
@@ -61,7 +61,7 @@ stems:
   S05:
     component: ''
     filename: 23_BackingVox2.wav
-    instrument: BackingVox
+    instrument: backingvox
     raw:
       R01:
         filename: 23_BackingVox2.wav
@@ -69,7 +69,7 @@ stems:
   S06:
     component: ''
     filename: 25_BackingVox4.wav
-    instrument: BackingVox
+    instrument: backingvox
     raw:
       R01:
         filename: 25_BackingVox4.wav
@@ -77,7 +77,7 @@ stems:
   S07:
     component: ''
     filename: 22_BackingVox1.wav
-    instrument: BackingVox
+    instrument: backingvox
     raw:
       R01:
         filename: 22_BackingVox1.wav
@@ -85,7 +85,7 @@ stems:
   S08:
     component: ''
     filename: 16_Gtr6bAmp1.wav
-    instrument: Gtr
+    instrument: gtr
     raw:
       R01:
         filename: 16_Gtr6bAmp1.wav
@@ -117,7 +117,7 @@ stems:
   S12:
     component: ''
     filename: 17_Gtr6cAmp2.wav
-    instrument: Gtr
+    instrument: gtr
     raw:
       R01:
         filename: 17_Gtr6cAmp2.wav
@@ -125,7 +125,7 @@ stems:
   S13:
     component: ''
     filename: 06_Room.wav
-    instrument: Main System
+    instrument: main system
     raw:
       R01:
         filename: 06_Room.wav
@@ -149,7 +149,7 @@ stems:
   S16:
     component: ''
     filename: 21_LeadVoxDT.wav
-    instrument: LeadVoxDT
+    instrument: leadvoxdt
     raw:
       R01:
         filename: 21_LeadVoxDT.wav
@@ -165,7 +165,7 @@ stems:
   S18:
     component: ''
     filename: 20_LeadVox.wav
-    instrument: LeadVox
+    instrument: leadvox
     raw:
       R01:
         filename: 20_LeadVox.wav
@@ -173,7 +173,7 @@ stems:
   S19:
     component: ''
     filename: 24_BackingVox3.wav
-    instrument: BackingVox
+    instrument: backingvox
     raw:
       R01:
         filename: 24_BackingVox3.wav

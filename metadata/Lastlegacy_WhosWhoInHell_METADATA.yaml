@@ -159,7 +159,7 @@ stems:
   S15:
     component: ''
     filename: 13_Bell Sample.wav
-    instrument: Bell Sample
+    instrument: bell sample
     raw:
       R01:
         filename: 13_Bell Sample.wav

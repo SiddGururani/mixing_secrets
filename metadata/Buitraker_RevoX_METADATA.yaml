@@ -131,7 +131,7 @@ stems:
   S10:
     component: ''
     filename: 13_Click.wav
-    instrument: Click
+    instrument: click
     raw:
       R01:
         filename: 13_Click.wav

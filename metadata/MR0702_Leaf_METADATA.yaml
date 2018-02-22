@@ -89,7 +89,7 @@ stems:
   S10:
     component: ''
     filename: 04_Tamb.wav
-    instrument: Tamb
+    instrument: tamb
     raw:
       R01:
         filename: 04_Tamb.wav
@@ -177,7 +177,7 @@ stems:
   S21:
     component: ''
     filename: 07_EbowGtr.wav
-    instrument: Ebow
+    instrument: ebow
     raw:
       R01:
         filename: 07_EbowGtr.wav

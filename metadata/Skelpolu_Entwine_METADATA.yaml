@@ -65,7 +65,7 @@ stems:
   S04:
     component: ''
     filename: 06_SubBass.wav
-    instrument: SubBass
+    instrument: subbass
     raw:
       R01:
         filename: 06_SubBass.wav

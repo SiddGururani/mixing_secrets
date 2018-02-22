@@ -31,7 +31,7 @@ stems:
   S02:
     component: ''
     filename: 08_Percussion4.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 08_Percussion4.wav
@@ -39,7 +39,7 @@ stems:
   S03:
     component: ''
     filename: 09_Percussion5.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 09_Percussion5.wav
@@ -47,7 +47,7 @@ stems:
   S04:
     component: ''
     filename: 10_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 10_Tambourine.wav
@@ -55,7 +55,7 @@ stems:
   S05:
     component: ''
     filename: 07_Percussion3.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 07_Percussion3.wav
@@ -63,7 +63,7 @@ stems:
   S06:
     component: ''
     filename: 06_Percussion2.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 06_Percussion2.wav
@@ -71,7 +71,7 @@ stems:
   S07:
     component: ''
     filename: 11_TambourineBrush.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 11_TambourineBrush.wav
@@ -79,7 +79,7 @@ stems:
   S08:
     component: ''
     filename: 05_Percussion1.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 05_Percussion1.wav

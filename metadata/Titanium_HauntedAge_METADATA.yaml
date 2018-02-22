@@ -118,7 +118,7 @@ stems:
   S11:
     component: ''
     filename: 19_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 19_Piano.wav

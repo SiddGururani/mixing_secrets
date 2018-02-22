@@ -55,7 +55,7 @@ stems:
   S05:
     component: ''
     filename: 10_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 10_Piano.wav
@@ -79,7 +79,7 @@ stems:
   S08:
     component: ''
     filename: 07_Dobro.wav
-    instrument: Dobro
+    instrument: dobro
     raw:
       R01:
         filename: 07_Dobro.wav

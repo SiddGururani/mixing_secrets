@@ -90,7 +90,7 @@ stems:
   S03:
     component: ''
     filename: 38_Strings3_Soli.wav
-    instrument: Strings_Soli
+    instrument: strings_soli
     raw:
       R01:
         filename: 38_Strings3_Soli.wav
@@ -106,7 +106,7 @@ stems:
   S05:
     component: ''
     filename: 33_Hammond.wav
-    instrument: Hammond
+    instrument: hammond
     raw:
       R01:
         filename: 33_Hammond.wav
@@ -114,7 +114,7 @@ stems:
   S06:
     component: ''
     filename: 36_Strings1_Staccato.wav
-    instrument: Strings_Staccato
+    instrument: strings_staccato
     raw:
       R01:
         filename: 36_Strings1_Staccato.wav
@@ -130,7 +130,7 @@ stems:
   S08:
     component: ''
     filename: 21_Taiko.wav
-    instrument: Taiko
+    instrument: taiko
     raw:
       R01:
         filename: 21_Taiko.wav
@@ -138,7 +138,7 @@ stems:
   S09:
     component: ''
     filename: 37_Strings2_Ensemble.wav
-    instrument: Strings_Ensemble
+    instrument: strings_ensemble
     raw:
       R01:
         filename: 37_Strings2_Ensemble.wav
@@ -154,7 +154,7 @@ stems:
   S11:
     component: ''
     filename: 23_ElectroPercussion1.wav
-    instrument: ElectroPercussion
+    instrument: electropercussion
     raw:
       R01:
         filename: 23_ElectroPercussion1.wav
@@ -258,7 +258,7 @@ stems:
   S24:
     component: ''
     filename: 26_ElectroHit.wav
-    instrument: ElectroHit
+    instrument: electrohit
     raw:
       R01:
         filename: 26_ElectroHit.wav
@@ -306,7 +306,7 @@ stems:
   S30:
     component: ''
     filename: 25_ElectroPercussion3.wav
-    instrument: ElectroPercussion
+    instrument: electropercussion
     raw:
       R01:
         filename: 25_ElectroPercussion3.wav
@@ -362,7 +362,7 @@ stems:
   S37:
     component: ''
     filename: 35_Mellotron.wav
-    instrument: Mellotron
+    instrument: mellotron
     raw:
       R01:
         filename: 35_Mellotron.wav
@@ -394,7 +394,7 @@ stems:
   S41:
     component: ''
     filename: 21_ElectroPercussion2.wav
-    instrument: ElectroPercussion
+    instrument: electropercussion
     raw:
       R01:
         filename: 21_ElectroPercussion2.wav

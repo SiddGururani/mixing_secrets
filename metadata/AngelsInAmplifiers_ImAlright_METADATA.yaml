@@ -63,7 +63,7 @@ stems:
   S06:
     component: ''
     filename: 05_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 05_Percussion.wav

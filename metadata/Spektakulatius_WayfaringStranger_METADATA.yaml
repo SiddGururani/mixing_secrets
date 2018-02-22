@@ -31,7 +31,7 @@ stems:
   S02:
     component: ''
     filename: 07_Piano_LiveRoom.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 07_Piano_LiveRoom.wav
@@ -63,7 +63,7 @@ stems:
   S06:
     component: ''
     filename: 09_LeadVox_IsoBooth.wav
-    instrument: female singer_IsoBooth
+    instrument: female singer_isobooth
     raw:
       R01:
         filename: 09_LeadVox_IsoBooth.wav

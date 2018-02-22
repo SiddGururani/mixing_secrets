@@ -78,7 +78,7 @@ stems:
   S06:
     component: ''
     filename: 12_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 12_Piano.wav
@@ -86,7 +86,7 @@ stems:
   S07:
     component: ''
     filename: 26_Violin03.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 26_Violin03.wav
@@ -94,7 +94,7 @@ stems:
   S08:
     component: ''
     filename: 24_Violin01.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 24_Violin01.wav
@@ -102,7 +102,7 @@ stems:
   S09:
     component: ''
     filename: 13_Bells.wav
-    instrument: Bells
+    instrument: bells
     raw:
       R01:
         filename: 13_Bells.wav
@@ -134,7 +134,7 @@ stems:
   S13:
     component: ''
     filename: 28_Viola02.wav
-    instrument: Viola
+    instrument: viola
     raw:
       R01:
         filename: 28_Viola02.wav
@@ -182,7 +182,7 @@ stems:
   S19:
     component: ''
     filename: 14_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 14_Strings.wav
@@ -222,7 +222,7 @@ stems:
   S24:
     component: ''
     filename: 08_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 08_Shaker.wav
@@ -230,7 +230,7 @@ stems:
   S25:
     component: ''
     filename: 06_BrushKit.wav
-    instrument: BrushKit
+    instrument: brushkit
     raw:
       R01:
         filename: 06_BrushKit.wav
@@ -238,7 +238,7 @@ stems:
   S26:
     component: ''
     filename: 27_Viola01.wav
-    instrument: Viola
+    instrument: viola
     raw:
       R01:
         filename: 27_Viola01.wav
@@ -246,7 +246,7 @@ stems:
   S27:
     component: ''
     filename: 09_MiscPercussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 09_MiscPercussion.wav
@@ -262,7 +262,7 @@ stems:
   S29:
     component: ''
     filename: 25_Violin02.wav
-    instrument: Violin
+    instrument: violin
     raw:
       R01:
         filename: 25_Violin02.wav

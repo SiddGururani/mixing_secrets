@@ -132,7 +132,7 @@ stems:
   S12:
     component: ''
     filename: 12_Bass.wav
-    instrument: Bass
+    instrument: bass
     raw:
       R01:
         filename: 12_Bass.wav

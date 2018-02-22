@@ -110,7 +110,7 @@ stems:
   S04:
     component: ''
     filename: 19_Organ.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 19_Organ.wav

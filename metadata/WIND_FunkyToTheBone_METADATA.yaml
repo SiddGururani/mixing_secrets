@@ -75,7 +75,7 @@ stems:
   S06:
     component: ''
     filename: 09_Tambourine.wav
-    instrument: Tambourine
+    instrument: tambourine
     raw:
       R01:
         filename: 09_Tambourine.wav
@@ -195,7 +195,7 @@ stems:
   S21:
     component: ''
     filename: 32_HammondLo.wav
-    instrument: Hammond
+    instrument: hammond
     raw:
       R01:
         filename: 32_HammondLo.wav
@@ -203,7 +203,7 @@ stems:
   S22:
     component: ''
     filename: 31_HammondHi.wav
-    instrument: Hammond
+    instrument: hammond
     raw:
       R01:
         filename: 31_HammondHi.wav

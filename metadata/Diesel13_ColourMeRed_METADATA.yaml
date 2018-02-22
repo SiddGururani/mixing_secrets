@@ -100,7 +100,7 @@ stems:
   S08:
     component: ''
     filename: 13_BassAmpMic1.wav
-    instrument: electric bassAmpMic
+    instrument: electric bassampmic
     raw:
       R01:
         filename: 13_BassAmpMic1.wav
@@ -116,7 +116,7 @@ stems:
   S10:
     component: ''
     filename: 28_Banjo.wav
-    instrument: Banjo
+    instrument: banjo
     raw:
       R01:
         filename: 28_Banjo.wav
@@ -164,7 +164,7 @@ stems:
   S16:
     component: ''
     filename: 12_BassDI.wav
-    instrument: electric bassDI
+    instrument: electric bassdi
     raw:
       R01:
         filename: 12_BassDI.wav
@@ -188,7 +188,7 @@ stems:
   S19:
     component: ''
     filename: 30_RhodesDI.wav
-    instrument: RhodesDI
+    instrument: rhodesdi
     raw:
       R01:
         filename: 30_RhodesDI.wav
@@ -284,7 +284,7 @@ stems:
   S31:
     component: ''
     filename: 29_RhodesAmp.wav
-    instrument: RhodesAmp
+    instrument: rhodesamp
     raw:
       R01:
         filename: 29_RhodesAmp.wav
@@ -380,7 +380,7 @@ stems:
   S43:
     component: ''
     filename: 14_BassAmpMic2.wav
-    instrument: electric bassAmpMic
+    instrument: electric bassampmic
     raw:
       R01:
         filename: 14_BassAmpMic2.wav

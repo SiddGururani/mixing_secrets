@@ -25,7 +25,7 @@ stems:
   S02:
     component: ''
     filename: 03_Brushes.wav
-    instrument: Brushes
+    instrument: brushes
     raw:
       R01:
         filename: 03_Brushes.wav
@@ -49,7 +49,7 @@ stems:
   S05:
     component: ''
     filename: 10_Fiddle2.wav
-    instrument: Fiddle
+    instrument: fiddle
     raw:
       R01:
         filename: 10_Fiddle2.wav
@@ -57,7 +57,7 @@ stems:
   S06:
     component: ''
     filename: 09_Fiddle1.wav
-    instrument: Fiddle
+    instrument: fiddle
     raw:
       R01:
         filename: 09_Fiddle1.wav
@@ -65,7 +65,7 @@ stems:
   S07:
     component: ''
     filename: 07_MandolinMic1.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 07_MandolinMic1.wav
@@ -89,7 +89,7 @@ stems:
   S10:
     component: ''
     filename: 08_MandolinMic2.wav
-    instrument: Mandolin
+    instrument: mandolin
     raw:
       R01:
         filename: 08_MandolinMic2.wav
@@ -97,7 +97,7 @@ stems:
   S11:
     component: ''
     filename: 11_Accordion.wav
-    instrument: Accordion
+    instrument: accordion
     raw:
       R01:
         filename: 11_Accordion.wav

@@ -172,7 +172,7 @@ stems:
   S05:
     component: ''
     filename: 19_VinylNoise1.wav
-    instrument: VinylNoise
+    instrument: vinylnoise
     raw:
       R01:
         filename: 19_VinylNoise1.wav
@@ -188,7 +188,7 @@ stems:
   S07:
     component: ''
     filename: 22_TubularBells.wav
-    instrument: TubularBells
+    instrument: tubularbells
     raw:
       R01:
         filename: 22_TubularBells.wav
@@ -196,7 +196,7 @@ stems:
   S08:
     component: ''
     filename: 12_Transition2.wav
-    instrument: Transition
+    instrument: transition
     raw:
       R01:
         filename: 12_Transition2.wav
@@ -204,7 +204,7 @@ stems:
   S09:
     component: ''
     filename: 21_VinylNoise3.wav
-    instrument: VinylNoise
+    instrument: vinylnoise
     raw:
       R01:
         filename: 21_VinylNoise3.wav
@@ -212,7 +212,7 @@ stems:
   S10:
     component: ''
     filename: 17_GongRoll1.wav
-    instrument: GongRoll
+    instrument: gongroll
     raw:
       R01:
         filename: 17_GongRoll1.wav
@@ -228,7 +228,7 @@ stems:
   S12:
     component: ''
     filename: 24_Kalimba.wav
-    instrument: Kalimba
+    instrument: kalimba
     raw:
       R01:
         filename: 24_Kalimba.wav
@@ -268,7 +268,7 @@ stems:
   S17:
     component: ''
     filename: 09_Boom.wav
-    instrument: Boom
+    instrument: boom
     raw:
       R01:
         filename: 09_Boom.wav
@@ -276,7 +276,7 @@ stems:
   S18:
     component: ''
     filename: 23_HandBells.wav
-    instrument: HandBells
+    instrument: handbells
     raw:
       R01:
         filename: 23_HandBells.wav
@@ -292,7 +292,7 @@ stems:
   S20:
     component: ''
     filename: 18_GongRoll2.wav
-    instrument: GongRoll
+    instrument: gongroll
     raw:
       R01:
         filename: 18_GongRoll2.wav
@@ -300,7 +300,7 @@ stems:
   S21:
     component: ''
     filename: 20_VinylNoise2.wav
-    instrument: VinylNoise
+    instrument: vinylnoise
     raw:
       R01:
         filename: 20_VinylNoise2.wav
@@ -308,7 +308,7 @@ stems:
   S22:
     component: ''
     filename: 32_PianoDry.wav
-    instrument: PianoDry
+    instrument: pianodry
     raw:
       R01:
         filename: 32_PianoDry.wav
@@ -324,7 +324,7 @@ stems:
   S24:
     component: ''
     filename: 10_ElecNoise.wav
-    instrument: ElecNoise
+    instrument: elecnoise
     raw:
       R01:
         filename: 10_ElecNoise.wav
@@ -332,7 +332,7 @@ stems:
   S25:
     component: ''
     filename: 11_Transition1.wav
-    instrument: Transition
+    instrument: transition
     raw:
       R01:
         filename: 11_Transition1.wav

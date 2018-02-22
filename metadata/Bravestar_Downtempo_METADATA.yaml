@@ -91,7 +91,7 @@ stems:
   S05:
     component: ''
     filename: 09_MetalHit.wav
-    instrument: MetalHit
+    instrument: metalhit
     raw:
       R01:
         filename: 09_MetalHit.wav
@@ -99,7 +99,7 @@ stems:
   S06:
     component: ''
     filename: 10_Timpani.wav
-    instrument: Timpani
+    instrument: timpani
     raw:
       R01:
         filename: 10_Timpani.wav
@@ -107,7 +107,7 @@ stems:
   S07:
     component: ''
     filename: 13_Strings.wav
-    instrument: Strings
+    instrument: strings
     raw:
       R01:
         filename: 13_Strings.wav
@@ -115,7 +115,7 @@ stems:
   S08:
     component: ''
     filename: 08_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 08_Shaker.wav
@@ -123,7 +123,7 @@ stems:
   S09:
     component: ''
     filename: 15_Harp.wav
-    instrument: Harp
+    instrument: harp
     raw:
       R01:
         filename: 15_Harp.wav
@@ -131,7 +131,7 @@ stems:
   S10:
     component: ''
     filename: 14_Choir.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 14_Choir.wav

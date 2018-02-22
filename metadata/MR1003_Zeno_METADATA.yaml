@@ -73,7 +73,7 @@ stems:
   S05:
     component: ''
     filename: 14_Clap5.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 14_Clap5.wav
@@ -129,7 +129,7 @@ stems:
   S12:
     component: ''
     filename: 12_Clap3.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 12_Clap3.wav
@@ -145,7 +145,7 @@ stems:
   S14:
     component: ''
     filename: 41_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 41_Piano.wav
@@ -169,7 +169,7 @@ stems:
   S17:
     component: ''
     filename: 15_Clap6.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 15_Clap6.wav
@@ -185,7 +185,7 @@ stems:
   S19:
     component: ''
     filename: 10_Clap1.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 10_Clap1.wav
@@ -201,7 +201,7 @@ stems:
   S21:
     component: ''
     filename: 17_Shaker.wav
-    instrument: Shaker
+    instrument: shaker
     raw:
       R01:
         filename: 17_Shaker.wav
@@ -273,7 +273,7 @@ stems:
   S30:
     component: ''
     filename: 11_Clap2.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 11_Clap2.wav
@@ -297,7 +297,7 @@ stems:
   S33:
     component: ''
     filename: 13_Clap4.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 13_Clap4.wav
@@ -305,7 +305,7 @@ stems:
   S34:
     component: ''
     filename: 16_Clap7.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 16_Clap7.wav

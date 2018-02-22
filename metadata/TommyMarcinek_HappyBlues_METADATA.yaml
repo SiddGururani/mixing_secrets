@@ -68,7 +68,7 @@ stems:
   S04:
     component: ''
     filename: 18_Organ3.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 18_Organ3.wav
@@ -84,7 +84,7 @@ stems:
   S06:
     component: ''
     filename: 17_Organ2.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 17_Organ2.wav
@@ -92,7 +92,7 @@ stems:
   S07:
     component: ''
     filename: 16_Organ1.wav
-    instrument: Organ
+    instrument: organ
     raw:
       R01:
         filename: 16_Organ1.wav

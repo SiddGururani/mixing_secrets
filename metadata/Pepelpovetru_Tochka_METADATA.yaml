@@ -63,7 +63,7 @@ stems:
   S03:
     component: ''
     filename: 03_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 03_Percussion.wav
@@ -87,7 +87,7 @@ stems:
   S06:
     component: ''
     filename: 25_Horns.wav
-    instrument: Horns
+    instrument: horns
     raw:
       R01:
         filename: 25_Horns.wav
@@ -103,7 +103,7 @@ stems:
   S08:
     component: ''
     filename: 22_Piano.wav
-    instrument: Piano
+    instrument: piano
     raw:
       R01:
         filename: 22_Piano.wav
@@ -119,7 +119,7 @@ stems:
   S10:
     component: ''
     filename: 23_Sample.wav
-    instrument: Sample
+    instrument: sample
     raw:
       R01:
         filename: 23_Sample.wav
@@ -127,7 +127,7 @@ stems:
   S11:
     component: ''
     filename: 13_Percussion.wav
-    instrument: Percussion
+    instrument: percussion
     raw:
       R01:
         filename: 13_Percussion.wav
@@ -167,7 +167,7 @@ stems:
   S16:
     component: ''
     filename: 24_Choir.wav
-    instrument: Choir
+    instrument: choir
     raw:
       R01:
         filename: 24_Choir.wav
@@ -223,7 +223,7 @@ stems:
   S23:
     component: ''
     filename: 29_LeadVox1FX.wav
-    instrument: male rapper FX
+    instrument: male rapper fx
     raw:
       R01:
         filename: 29_LeadVox1FX.wav

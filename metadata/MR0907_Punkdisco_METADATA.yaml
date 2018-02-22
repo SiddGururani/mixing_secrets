@@ -125,7 +125,7 @@ stems:
   S10:
     component: ''
     filename: 05_Clap.wav
-    instrument: Clap
+    instrument: clap
     raw:
       R01:
         filename: 05_Clap.wav
@@ -173,7 +173,7 @@ stems:
   S16:
     component: ''
     filename: 09_BassSub.wav
-    instrument: BassSub
+    instrument: basssub
     raw:
       R01:
         filename: 09_BassSub.wav
