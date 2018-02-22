@@ -135,7 +135,7 @@ stems:
   S09:
     component: ''
     filename: 33_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 33_Strings.wav

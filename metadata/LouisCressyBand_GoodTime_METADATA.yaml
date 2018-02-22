@@ -82,7 +82,7 @@ stems:
   S05:
     component: ''
     filename: 20_Hammond.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 20_Hammond.wav

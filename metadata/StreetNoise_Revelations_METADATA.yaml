@@ -50,7 +50,7 @@ stems:
   S04:
     component: ''
     filename: 11_HammondLeslieLo.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 11_HammondLeslieLo.wav
@@ -66,7 +66,7 @@ stems:
   S06:
     component: ''
     filename: 10_HammondLeslieHi.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 10_HammondLeslieHi.wav

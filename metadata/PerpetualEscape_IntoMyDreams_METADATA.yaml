@@ -459,7 +459,7 @@ stems:
   S48:
     component: ''
     filename: 96_Srtings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 96_Srtings.wav

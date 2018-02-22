@@ -373,7 +373,7 @@ stems:
   S35:
     component: ''
     filename: 59_Rhodes.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 59_Rhodes.wav

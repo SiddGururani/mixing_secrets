@@ -378,7 +378,7 @@ stems:
   S39:
     component: ''
     filename: 20_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 20_Strings.wav

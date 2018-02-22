@@ -207,7 +207,7 @@ stems:
   S15:
     component: ''
     filename: 51_Strings1.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 51_Strings1.wav
@@ -223,7 +223,7 @@ stems:
   S17:
     component: ''
     filename: 52_Strings3.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 52_Strings3.wav
@@ -315,7 +315,7 @@ stems:
   S28:
     component: ''
     filename: 53_Strings2.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 53_Strings2.wav

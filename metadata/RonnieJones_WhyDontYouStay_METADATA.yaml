@@ -84,7 +84,7 @@ stems:
   S09:
     component: ''
     filename: 34_Rhodes.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 34_Rhodes.wav
@@ -116,7 +116,7 @@ stems:
   S13:
     component: ''
     filename: 35_RhodesDry.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 35_RhodesDry.wav
@@ -124,7 +124,7 @@ stems:
   S14:
     component: ''
     filename: 33_HammondRaw.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 33_HammondRaw.wav
@@ -196,7 +196,7 @@ stems:
   S23:
     component: ''
     filename: 36_RhodesRaw.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 36_RhodesRaw.wav
@@ -332,7 +332,7 @@ stems:
   S40:
     component: ''
     filename: 32_Hammond.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 32_Hammond.wav

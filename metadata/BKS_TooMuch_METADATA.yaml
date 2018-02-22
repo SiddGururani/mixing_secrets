@@ -90,7 +90,7 @@ stems:
   S06:
     component: ''
     filename: 41_Strings1.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 41_Strings1.wav
@@ -122,7 +122,7 @@ stems:
   S10:
     component: ''
     filename: 43_Strings3Cello.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 43_Strings3Cello.wav
@@ -170,7 +170,7 @@ stems:
   S16:
     component: ''
     filename: 42_Strings2.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 42_Strings2.wav
@@ -242,7 +242,7 @@ stems:
   S25:
     component: ''
     filename: 40_Hammond.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 40_Hammond.wav
@@ -290,7 +290,7 @@ stems:
   S31:
     component: ''
     filename: 39_Rhodes.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 39_Rhodes.wav

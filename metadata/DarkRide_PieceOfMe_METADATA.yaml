@@ -157,7 +157,7 @@ stems:
   S14:
     component: ''
     filename: 26_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 26_Strings.wav

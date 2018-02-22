@@ -93,7 +93,7 @@ stems:
   S06:
     component: ''
     filename: 18_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 18_Strings.wav

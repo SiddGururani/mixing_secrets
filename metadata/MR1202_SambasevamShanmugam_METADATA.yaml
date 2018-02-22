@@ -182,7 +182,7 @@ stems:
   S19:
     component: ''
     filename: 14_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 14_Strings.wav

@@ -46,7 +46,7 @@ stems:
   S02:
     component: ''
     filename: 22_Rhodes2.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 22_Rhodes2.wav
@@ -94,7 +94,7 @@ stems:
   S08:
     component: ''
     filename: 21_Rhodes1.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 21_Rhodes1.wav

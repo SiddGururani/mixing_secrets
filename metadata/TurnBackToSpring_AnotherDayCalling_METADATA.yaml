@@ -218,7 +218,7 @@ stems:
   S25:
     component: ''
     filename: 22_Strings.wav
-    instrument: strings
+    instrument: string section
     raw:
       R01:
         filename: 22_Strings.wav

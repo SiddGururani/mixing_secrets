@@ -160,7 +160,7 @@ stems:
   S14:
     component: ''
     filename: 29_Rhodes.wav
-    instrument: rhodes
+    instrument: electric piano
     raw:
       R01:
         filename: 29_Rhodes.wav

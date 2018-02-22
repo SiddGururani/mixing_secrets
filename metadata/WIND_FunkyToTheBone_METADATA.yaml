@@ -195,7 +195,7 @@ stems:
   S21:
     component: ''
     filename: 32_HammondLo.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 32_HammondLo.wav
@@ -203,7 +203,7 @@ stems:
   S22:
     component: ''
     filename: 31_HammondHi.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 31_HammondHi.wav

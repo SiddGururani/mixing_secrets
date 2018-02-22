@@ -212,7 +212,7 @@ stems:
   S22:
     component: ''
     filename: 23_Hammond.wav
-    instrument: hammond
+    instrument: electronic organ
     raw:
       R01:
         filename: 23_Hammond.wav
