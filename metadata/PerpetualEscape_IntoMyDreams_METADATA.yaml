@@ -563,7 +563,7 @@ stems:
   S61:
     component: ''
     filename: 90_Organ.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 90_Organ.wav

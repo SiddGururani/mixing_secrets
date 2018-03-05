@@ -67,7 +67,7 @@ stems:
     filename: 35_IntroFar2.wav
     instrument:
     - male singer
-    - organ
+    - electronic organ
     raw:
       R01:
         filename: 35_IntroFar2.wav
@@ -159,7 +159,7 @@ stems:
     filename: 34_IntroFar1.wav
     instrument:
     - male singer
-    - organ
+    - electronic organ
     raw:
       R01:
         filename: 34_IntroFar1.wav
@@ -195,7 +195,7 @@ stems:
     filename: 32_IntroClose1.wav
     instrument:
     - male singer
-    - organ
+    - electronic organ
     raw:
       R01:
         filename: 32_IntroClose1.wav
@@ -205,7 +205,7 @@ stems:
   S20:
     component: ''
     filename: 25_Organ.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 25_Organ.wav
@@ -247,7 +247,7 @@ stems:
     filename: 33_IntroClose2.wav
     instrument:
     - male singer
-    - organ
+    - electronic organ
     raw:
       R01:
         filename: 33_IntroClose2.wav

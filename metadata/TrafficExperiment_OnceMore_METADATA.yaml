@@ -170,7 +170,7 @@ stems:
   S16:
     component: ''
     filename: 26_Organ1.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 26_Organ1.wav
@@ -330,7 +330,7 @@ stems:
   S36:
     component: ''
     filename: 27_Organ2.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 27_Organ2.wav

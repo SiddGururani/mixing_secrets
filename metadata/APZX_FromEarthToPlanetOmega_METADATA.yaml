@@ -207,7 +207,7 @@ stems:
   S06:
     component: ''
     filename: 35_Organ1.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 35_Organ1.wav
@@ -215,7 +215,7 @@ stems:
   S07:
     component: ''
     filename: 36_Organ2.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 36_Organ2.wav

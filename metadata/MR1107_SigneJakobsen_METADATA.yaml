@@ -208,7 +208,7 @@ stems:
   S23:
     component: ''
     filename: 26_Organ.wav
-    instrument: organ
+    instrument: electronic organ
     raw:
       R01:
         filename: 26_Organ.wav
